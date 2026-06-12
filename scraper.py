@@ -114,6 +114,39 @@ TOPIC_KEYWORDS = {
     "School restrictions": ["school", "classroom", "education", "campus", "instruction", "k-12"],
 }
 
+# Relevance filter: bill title/description must contain at least one of these
+# to avoid false positives (e.g. sports wagering bills matching "age verification")
+RELEVANCE_TERMS = [
+    # Platforms
+    "social media", "social network", "online platform", "covered platform",
+    "tiktok", "bytedance", "wechat", "facebook", "instagram", "snapchat",
+    "youtube", "twitter", "app store",
+    # Content / safety
+    "deepfake", "deep fake", "content moderation", "online safety",
+    "online harms", "internet safety", "digital safety", "digital wellness",
+    "cyberbullying", "cyber bullying", "cyber-bullying",
+    # Youth / age
+    "age verification", "parental consent", "children online", "youth online",
+    "screen time", "digital addiction", "screen-based",
+    "access by minors", "minors online", "protect minors",
+    # Tech regulation
+    "algorithm", "recommendation system", "artificial intelligence",
+    "influencer", "chatbot", "software application",
+    # Privacy
+    "data privacy", "consumer privacy", "personal data", "personal information",
+    "biometric", "data protection", "data collection",
+    # Internet / digital
+    "internet website", "online service", "online marketplace",
+    "electronic device", "wireless device", "digital device", "mobile device",
+    "pornograph",
+]
+
+
+def is_relevant(title, description):
+    """Check if a bill is actually about tech/social media regulation."""
+    text = (title + " " + description).lower()
+    return any(term in text for term in RELEVANCE_TERMS)
+
 
 ######################## API FUNCTIONS ########################
 
@@ -536,6 +569,9 @@ def run_scraper():
                 bill_data = get_bill(bill_id)
                 api_calls += 1
                 bill_dict = extract_data_points(bill_data, info["search_terms"])
+                # Relevance filter: skip false positives
+                if not is_relevant(bill_dict["title"], bill_dict["description"]):
+                    continue
                 todays_bills.append(bill_dict)
                 changelog["additions"].append({
                     "bill_id": bill_dict["bill_id"],
