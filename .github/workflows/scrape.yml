@@ -25,7 +25,8 @@ jobs:
       - name: Run scraper
         env:
           LEGISCAN_API_KEY: ${{ secrets.LEGISCAN_API_KEY }}
-        run: python scraper.py
+          PYTHONUNBUFFERED: "1"
+        run: python -u scraper.py
 
       - name: Commit and push changes
         run: |
