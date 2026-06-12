@@ -34,8 +34,7 @@ Each bill includes: sponsor, party, status, committee, full action history, vote
 
 ```bash
 pip install -r requirements.txt
-cp .env.example .env
-# Add your LegiScan API key to .env (free at https://legiscan.com/legiscan)
+cp .env
 python scraper.py
 ```
 
