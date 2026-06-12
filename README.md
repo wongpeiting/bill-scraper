@@ -1,8 +1,6 @@
 # Social Media Bill Scraper
 
-Tracks federal and state legislation related to social media regulation across all 50 US states using the [LegiScan API](https://legiscan.com/).
-
-**3,406 bills** | **49 states** | **59 fields per bill** | Updates every 3 days via GitHub Actions
+Tracks federal and state legislation related to social media regulation across all 50 US states using the [LegiScan API](https://legiscan.com/). This repo makes an API call for the scope (with 59 fields per bill) every three days via GitHub Actions. 
 
 ## What it tracks
 
@@ -12,7 +10,7 @@ Each bill includes: sponsor, party, status, committee, full action history, vote
 
 ## Topic categories
 
-| Topic | Bills |
+| Topic (as of June 11) | Bills |
 |---|---|
 | Youth safety | 827 |
 | School restrictions | 611 |
@@ -27,7 +25,7 @@ Each bill includes: sponsor, party, status, committee, full action history, vote
 
 1. Searches LegiScan API with 20 keyword queries (`getSearchRaw`, 2000 results/page)
 2. Compares `change_hash` against previous scrape — only fetches bills that actually changed
-3. Writes three output files following the [DD_Day4 scraper architecture](https://github.com/jthirkield/dd_bill_scraper_example):
+3. Writes three output files following Jon Thirkield's scraper architecture - [DD_Day4 scraper architecture](https://github.com/jthirkield/dd_bill_scraper_example):
    - `data/legiscan_bills.json` — full dataset
    - `data/changelogs/` — what changed each run
    - `data/error_logs/` — any errors
