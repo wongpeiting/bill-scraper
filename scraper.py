@@ -319,9 +319,9 @@ def extract_data_points(bill_data, search_terms_matched):
     # Progress timeline
     fields["progress"] = bill.get("progress", [])
 
-    # Subjects
+    # Subjects (some old bills have False instead of string for subject_name)
     subjects = bill.get("subjects", [])
-    fields["subjects"] = [s.get("subject_name", "") for s in subjects]
+    fields["subjects"] = [str(s.get("subject_name", "")) for s in subjects]
     fields["subjects_str"] = "; ".join(fields["subjects"])
 
     # Bill texts (URLs to actual text documents)
