@@ -445,7 +445,9 @@ def run_scraper():
     #   - Change_hash comparison skips unchanged bills (no getBill needed)
     #   - Budget: ~25 search + ~50 getBill = ~75 calls/day = ~2,250/month
 
-    search_year = 1 if old_data_map else 2  # current year for updates, recent for baseline
+    # Always use year=2 (recent sessions). year=1 ("current session") actually
+    # returns MORE results than year=2 for many states since sessions span 2 years.
+    search_year = 2
     print(f"\n--- Searching for social media bills (year={search_year}) ---")
     all_found_bills = {}  # legiscan_bill_id -> {change_hash, search_terms, title, state}
     api_calls = 0
