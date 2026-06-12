@@ -1,784 +1,361 @@
 {
   "date": "2026-06-12",
-  "additions": [
-    {
-      "bill_id": "CA AB1130",
-      "state": "CA",
-      "title": "Political Reform Act of 1974: campaign disclosures.",
-      "status": "Engrossed"
-    },
-    {
-      "bill_id": "CA SB354",
-      "state": "CA",
-      "title": "Insurance Information and Privacy Protection Act.",
-      "status": "Engrossed"
-    },
-    {
-      "bill_id": "RI H8636",
-      "state": "RI",
-      "title": "HOUSE RESOLUTION HONORING REPRESENTATIVE JASON KNIGHT FOR HIS SERVICE TO THE PEOPLE OF THE STATE OF RHODE ISLAND",
-      "status": "Passed"
-    }
-  ],
+  "additions": [],
   "deletions": [],
   "modifications": [
     {
-      "bill_id": "CA ACR224",
+      "bill_id": "AZ SB1496",
       "changes": {
         "content_hash": {
-          "from": "7c4a76475031751be35e87da9af1ab45",
-          "to": "78ea92fff37a06c3b603c4388707c88d"
+          "from": "c019daec6823de16d7d107f4aacccbb7",
+          "to": "e8e6d71deeaa672c91abbd2acecfb98f"
         },
         "history": {
           "from": [
+            {
+              "date": "2026-01-29",
+              "action": "Introduced in Senate and read first time",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 1
+            },
+            {
+              "date": "2026-01-29",
+              "action": "Assigned to Senate HHS Committee",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-01-29",
+              "action": "Assigned to Senate RULES Committee",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-02",
+              "action": "Senate read second time",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-11",
+              "action": "Senate HHS Committee action: Do Pass, voting: (5-2-0-0)",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 1
+            },
+            {
+              "date": "2026-02-16",
+              "action": "Senate RULES Committee action: Proper For Consideration, voting: (0-0-0-0)",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 1
+            },
+            {
+              "date": "2026-02-16",
+              "action": "Senate consent calendar",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-17",
+              "action": "Senate majority caucus: Do pass",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-17",
+              "action": "Senate minority caucus: Do pass",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-26",
+              "action": "Senate Committee of the Whole action: Do Pass Amended",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-26",
+              "action": "Senate third reading PASSED voting: (18-10-2-0)",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-27",
+              "action": "Transmit to House",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-03",
+              "action": "Introduced in House and read first time",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-03",
+              "action": "Assigned to House HHS Committee",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-03",
+              "action": "Assigned to House RULES Committee",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-04",
+              "action": "House read second time",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-23",
+              "action": "House HHS Committee action: Do Pass Amended, voting: (6-4-0-2-0-0)",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-30",
+              "action": "House RULES Committee action: constitutional and in proper form, voting: (8-0-0-0-0-0)",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-31",
+              "action": "House majority caucus: Do pass",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-31",
+              "action": "House minority caucus: Do pass",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-05",
+              "action": "House Committee of the Whole action: Do Pass Amended",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
             {
               "date": "2026-06-10",
-              "action": "Introduced. To print.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            }
-          ],
-          "to": [
+              "action": "House miscellaneous motion: Motion by Representative Willoughby that pursuant to House Rule 12(P), SB1496 be calendared immediately for an Additional Committee of the Whole for the purpose of further amending. Motion Passed by vv.",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
             {
               "date": "2026-06-10",
-              "action": "Introduced. To print.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
+              "action": "House additional Committee of the Whole action: Do Pass Amended",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
             },
             {
               "date": "2026-06-11",
-              "action": "From printer.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            }
-          ]
-        },
-        "num_actions": {
-          "from": 1,
-          "to": 2
-        },
-        "last_action": {
-          "from": "Introduced. To print.",
-          "to": "From printer."
-        },
-        "last_action_date": {
-          "from": "2026-06-10",
-          "to": "2026-06-11"
-        },
-        "scraped_date": {
-          "from": "2026-06-11",
-          "to": "2026-06-12"
-        }
-      }
-    },
-    {
-      "bill_id": "CA ACR182",
-      "changes": {
-        "content_hash": {
-          "from": "c50511973f3520013782dfe1b8722c63",
-          "to": "7a9ea99adb4cebe629725682f35dfdb1"
-        },
-        "status": {
-          "from": "Engrossed",
-          "to": "Enrolled"
-        },
-        "status_code": {
-          "from": 2,
-          "to": 3
-        },
-        "status_date": {
-          "from": "2026-05-07",
-          "to": "2026-06-11"
-        },
-        "history": {
-          "from": [
-            {
-              "date": "2026-04-22",
-              "action": "Introduced. To print.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2026-04-23",
-              "action": "From printer.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2026-04-27",
-              "action": "Referred to Com. on RLS.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2026-04-27",
-              "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on RLS. Amended.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2026-04-28",
-              "action": "Re-referred to Com. on RLS.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-04",
-              "action": "From committee: Be adopted. Ordered to Third Reading. (Ayes 9. Noes 0.) (May 4).",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-07",
-              "action": "Coauthors revised.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-07",
-              "action": "Adopted and to Senate. (Page 4966.)",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-11",
-              "action": "In Senate. To Com. on RLS.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-20",
-              "action": "From committee: Ordered to third reading.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-06-09",
-              "action": "Ordered to special consent calendar.",
-              "chamber": "S",
-              "chamber_id": 20,
+              "action": "House third reading PASSED voting: (38-20-2-0)",
+              "chamber": "H",
+              "chamber_id": 15,
               "importance": 0
             }
           ],
           "to": [
             {
-              "date": "2026-04-22",
-              "action": "Introduced. To print.",
-              "chamber": "A",
-              "chamber_id": 19,
+              "date": "2026-01-29",
+              "action": "Introduced in Senate and read first time",
+              "chamber": "S",
+              "chamber_id": 16,
               "importance": 1
             },
             {
-              "date": "2026-04-23",
-              "action": "From printer.",
-              "chamber": "A",
-              "chamber_id": 19,
+              "date": "2026-01-29",
+              "action": "Assigned to Senate HHS Committee",
+              "chamber": "S",
+              "chamber_id": 16,
               "importance": 0
             },
             {
-              "date": "2026-04-27",
-              "action": "Referred to Com. on RLS.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2026-04-27",
-              "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on RLS. Amended.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2026-04-28",
-              "action": "Re-referred to Com. on RLS.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-04",
-              "action": "From committee: Be adopted. Ordered to Third Reading. (Ayes 9. Noes 0.) (May 4).",
-              "chamber": "A",
-              "chamber_id": 19,
+              "date": "2026-01-29",
+              "action": "Assigned to Senate RULES Committee",
+              "chamber": "S",
+              "chamber_id": 16,
               "importance": 0
             },
             {
-              "date": "2026-05-07",
-              "action": "Coauthors revised.",
-              "chamber": "A",
-              "chamber_id": 19,
+              "date": "2026-02-02",
+              "action": "Senate read second time",
+              "chamber": "S",
+              "chamber_id": 16,
               "importance": 0
             },
             {
-              "date": "2026-05-07",
-              "action": "Adopted and to Senate. (Page 4966.)",
-              "chamber": "A",
-              "chamber_id": 19,
+              "date": "2026-02-11",
+              "action": "Senate HHS Committee action: Do Pass, voting: (5-2-0-0)",
+              "chamber": "S",
+              "chamber_id": 16,
               "importance": 1
             },
             {
-              "date": "2026-05-11",
-              "action": "In Senate. To Com. on RLS.",
+              "date": "2026-02-16",
+              "action": "Senate RULES Committee action: Proper For Consideration, voting: (0-0-0-0)",
               "chamber": "S",
-              "chamber_id": 20,
+              "chamber_id": 16,
               "importance": 1
             },
             {
-              "date": "2026-05-20",
-              "action": "From committee: Ordered to third reading.",
+              "date": "2026-02-16",
+              "action": "Senate consent calendar",
               "chamber": "S",
-              "chamber_id": 20,
+              "chamber_id": 16,
               "importance": 0
             },
             {
-              "date": "2026-06-09",
-              "action": "Ordered to special consent calendar.",
+              "date": "2026-02-17",
+              "action": "Senate majority caucus: Do pass",
               "chamber": "S",
-              "chamber_id": 20,
+              "chamber_id": 16,
               "importance": 0
             },
             {
-              "date": "2026-06-11",
-              "action": "Adopted and to Assembly. (Ayes 36. Noes 0.)",
+              "date": "2026-02-17",
+              "action": "Senate minority caucus: Do pass",
               "chamber": "S",
-              "chamber_id": 20,
+              "chamber_id": 16,
               "importance": 0
             },
             {
-              "date": "2026-06-11",
-              "action": "In Assembly. Ordered to Engrossing and Enrolling.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            }
-          ]
-        },
-        "num_actions": {
-          "from": 11,
-          "to": 13
-        },
-        "last_action": {
-          "from": "Ordered to special consent calendar.",
-          "to": "In Assembly. Ordered to Engrossing and Enrolling."
-        },
-        "last_action_date": {
-          "from": "2026-06-09",
-          "to": "2026-06-11"
-        },
-        "progress": {
-          "from": [
-            {
-              "date": "2026-04-22",
-              "event": 1
-            },
-            {
-              "date": "2026-04-27",
-              "event": 9
-            },
-            {
-              "date": "2026-04-27",
-              "event": 10
-            },
-            {
-              "date": "2026-04-28",
-              "event": 9
-            },
-            {
-              "date": "2026-05-07",
-              "event": 2
-            },
-            {
-              "date": "2026-05-11",
-              "event": 9
-            }
-          ],
-          "to": [
-            {
-              "date": "2026-04-22",
-              "event": 1
-            },
-            {
-              "date": "2026-04-27",
-              "event": 9
-            },
-            {
-              "date": "2026-04-27",
-              "event": 10
-            },
-            {
-              "date": "2026-04-28",
-              "event": 9
-            },
-            {
-              "date": "2026-05-07",
-              "event": 2
-            },
-            {
-              "date": "2026-05-11",
-              "event": 9
-            },
-            {
-              "date": "2026-06-11",
-              "event": 3
-            }
-          ]
-        },
-        "votes": {
-          "from": [
-            {
-              "roll_call_id": 1693305,
-              "date": "2026-05-04",
-              "desc": "Be adopted. To third reading",
-              "yea": 9,
-              "nay": 0,
-              "nv": 0,
-              "absent": 1,
-              "total": 10,
-              "passed": 1,
-              "chamber": "A",
-              "chamber_id": 19,
-              "url": "https://legiscan.com/CA/rollcall/ACR182/id/1693305",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACR182"
-            }
-          ],
-          "to": [
-            {
-              "roll_call_id": 1693305,
-              "date": "2026-05-04",
-              "desc": "Be adopted. To third reading",
-              "yea": 9,
-              "nay": 0,
-              "nv": 0,
-              "absent": 1,
-              "total": 10,
-              "passed": 1,
-              "chamber": "A",
-              "chamber_id": 19,
-              "url": "https://legiscan.com/CA/rollcall/ACR182/id/1693305",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACR182"
-            },
-            {
-              "roll_call_id": 1708941,
-              "date": "2026-06-11",
-              "desc": "Special Consent ACR182 Ransom et al",
-              "yea": 36,
-              "nay": 0,
-              "nv": 0,
-              "absent": 4,
-              "total": 40,
-              "passed": 1,
+              "date": "2026-02-26",
+              "action": "Senate Committee of the Whole action: Do Pass Amended",
               "chamber": "S",
-              "chamber_id": 20,
-              "url": "https://legiscan.com/CA/rollcall/ACR182/id/1708941",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACR182"
-            }
-          ]
-        },
-        "num_votes": {
-          "from": 1,
-          "to": 2
-        },
-        "latest_vote_date": {
-          "from": "2026-05-04",
-          "to": "2026-06-11"
-        },
-        "latest_vote_desc": {
-          "from": "Be adopted. To third reading",
-          "to": "Special Consent ACR182 Ransom et al"
-        },
-        "latest_vote_yea": {
-          "from": 9,
-          "to": 36
-        },
-        "scraped_date": {
-          "from": "2026-06-11",
-          "to": "2026-06-12"
-        }
-      }
-    },
-    {
-      "bill_id": "CA AB302",
-      "changes": {
-        "content_hash": {
-          "from": "0decb537a8ccf0a3586f62db9a5f15e5",
-          "to": "2f474f8452055827e25879c80c0cbb52"
-        },
-        "title": {
-          "from": "Data brokers: elected officials and judges.",
-          "to": "Pupil and parental communication: extracurricular activities: addictive feeds."
-        },
-        "description": {
-          "from": "An act to add Section 1798.99.86.5 to the Civil Code, relating to personal information.",
-          "to": "An act to add Section 51103 to, and to add Article 10 (commencing with Section 49058) to Chapter 6 of Part 27 of Division 4 of Title 2 of, the Education Code, relating to local educational agencies."
-        },
-        "committee": {
-          "from": "",
-          "to": "Appropriations"
-        },
-        "committee_chamber": {
-          "from": "",
-          "to": "S"
-        },
-        "history": {
-          "from": [
-            {
-              "date": "2025-01-23",
-              "action": "Read first time. To print.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2025-01-24",
-              "action": "From printer. May be heard in committee February 23.",
-              "chamber": "A",
-              "chamber_id": 19,
+              "chamber_id": 16,
               "importance": 0
             },
             {
-              "date": "2025-03-28",
-              "action": "Referred to Coms. on HEALTH and JUD.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2025-04-23",
-              "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 12. Noes 2.) (April 22). Re-referred to Com. on JUD.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2025-04-30",
-              "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 9. Noes 3.) (April 29).",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2025-05-01",
-              "action": "Read second time and amended.",
-              "chamber": "A",
-              "chamber_id": 19,
+              "date": "2026-02-26",
+              "action": "Senate third reading PASSED voting: (18-10-2-0)",
+              "chamber": "S",
+              "chamber_id": 16,
               "importance": 0
             },
             {
-              "date": "2025-05-05",
-              "action": "Re-referred to Com. on APPR.",
-              "chamber": "A",
-              "chamber_id": 19,
+              "date": "2026-02-27",
+              "action": "Transmit to House",
+              "chamber": "H",
+              "chamber_id": 15,
               "importance": 1
             },
             {
-              "date": "2025-05-14",
-              "action": "From committee: Do pass. (Ayes 11. Noes 4.) (May 14).",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2025-05-15",
-              "action": "Read second time. Ordered to third reading.",
-              "chamber": "A",
-              "chamber_id": 19,
+              "date": "2026-03-03",
+              "action": "Introduced in House and read first time",
+              "chamber": "H",
+              "chamber_id": 15,
               "importance": 0
             },
             {
-              "date": "2025-05-23",
-              "action": "Read third time. Passed. Ordered to the Senate. (Ayes 56. Noes 11. Page 1650.)",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2025-05-23",
-              "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-06-04",
-              "action": "Referred to Coms. on HEALTH and JUD.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-06-23",
-              "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on HEALTH.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-06-24",
-              "action": "Withdrawn from committee.",
-              "chamber": "S",
-              "chamber_id": 20,
+              "date": "2026-03-03",
+              "action": "Assigned to House HHS Committee",
+              "chamber": "H",
+              "chamber_id": 15,
               "importance": 0
             },
             {
-              "date": "2025-06-24",
-              "action": "Re-referred to Com. on RLS.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-06-25",
-              "action": "Re-referred to Coms. on JUD. and PUB. S.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-06-27",
-              "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on JUD.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-07-03",
-              "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on JUD.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-07-16",
-              "action": "From committee: Amend, and do pass as amended and re-refer to Com. on PUB. S. (Ayes 11. Noes 0.) (July 15).",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-07-17",
-              "action": "Read second time and amended. Re-referred to Com. on PUB. S.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-07-17",
-              "action": "Withdrawn from committee.",
-              "chamber": "S",
-              "chamber_id": 20,
+              "date": "2026-03-03",
+              "action": "Assigned to House RULES Committee",
+              "chamber": "H",
+              "chamber_id": 15,
               "importance": 0
             },
             {
-              "date": "2025-07-17",
-              "action": "Re-referred to Com. on APPR.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-08-18",
-              "action": "In committee: Referred to suspense file.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-08-29",
-              "action": "In committee: Held under submission.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            }
-          ],
-          "to": [
-            {
-              "date": "2025-01-23",
-              "action": "Read first time. To print.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2025-01-24",
-              "action": "From printer. May be heard in committee February 23.",
-              "chamber": "A",
-              "chamber_id": 19,
+              "date": "2026-03-04",
+              "action": "House read second time",
+              "chamber": "H",
+              "chamber_id": 15,
               "importance": 0
             },
             {
-              "date": "2025-03-28",
-              "action": "Referred to Coms. on HEALTH and JUD.",
-              "chamber": "A",
-              "chamber_id": 19,
+              "date": "2026-03-23",
+              "action": "House HHS Committee action: Do Pass Amended, voting: (6-4-0-2-0-0)",
+              "chamber": "H",
+              "chamber_id": 15,
               "importance": 1
             },
             {
-              "date": "2025-04-23",
-              "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 12. Noes 2.) (April 22). Re-referred to Com. on JUD.",
-              "chamber": "A",
-              "chamber_id": 19,
+              "date": "2026-03-30",
+              "action": "House RULES Committee action: constitutional and in proper form, voting: (8-0-0-0-0-0)",
+              "chamber": "H",
+              "chamber_id": 15,
               "importance": 1
             },
             {
-              "date": "2025-04-30",
-              "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 9. Noes 3.) (April 29).",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2025-05-01",
-              "action": "Read second time and amended.",
-              "chamber": "A",
-              "chamber_id": 19,
+              "date": "2026-03-31",
+              "action": "House majority caucus: Do pass",
+              "chamber": "H",
+              "chamber_id": 15,
               "importance": 0
             },
             {
-              "date": "2025-05-05",
-              "action": "Re-referred to Com. on APPR.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2025-05-14",
-              "action": "From committee: Do pass. (Ayes 11. Noes 4.) (May 14).",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2025-05-15",
-              "action": "Read second time. Ordered to third reading.",
-              "chamber": "A",
-              "chamber_id": 19,
+              "date": "2026-03-31",
+              "action": "House minority caucus: Do pass",
+              "chamber": "H",
+              "chamber_id": 15,
               "importance": 0
             },
             {
-              "date": "2025-05-23",
-              "action": "Read third time. Passed. Ordered to the Senate. (Ayes 56. Noes 11. Page 1650.)",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2025-05-23",
-              "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-06-04",
-              "action": "Referred to Coms. on HEALTH and JUD.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-06-23",
-              "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on HEALTH.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-06-24",
-              "action": "Withdrawn from committee.",
-              "chamber": "S",
-              "chamber_id": 20,
+              "date": "2026-05-05",
+              "action": "House Committee of the Whole action: Do Pass Amended",
+              "chamber": "H",
+              "chamber_id": 15,
               "importance": 0
             },
             {
-              "date": "2025-06-24",
-              "action": "Re-referred to Com. on RLS.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-06-25",
-              "action": "Re-referred to Coms. on JUD. and PUB. S.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-06-27",
-              "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on JUD.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-07-03",
-              "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on JUD.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-07-16",
-              "action": "From committee: Amend, and do pass as amended and re-refer to Com. on PUB. S. (Ayes 11. Noes 0.) (July 15).",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-07-17",
-              "action": "Read second time and amended. Re-referred to Com. on PUB. S.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-07-17",
-              "action": "Withdrawn from committee.",
-              "chamber": "S",
-              "chamber_id": 20,
+              "date": "2026-06-10",
+              "action": "House miscellaneous motion: Motion by Representative Willoughby that pursuant to House Rule 12(P), SB1496 be calendared immediately for an Additional Committee of the Whole for the purpose of further amending. Motion Passed by vv.",
+              "chamber": "H",
+              "chamber_id": 15,
               "importance": 0
             },
             {
-              "date": "2025-07-17",
-              "action": "Re-referred to Com. on APPR.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-08-18",
-              "action": "In committee: Referred to suspense file.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-08-29",
-              "action": "In committee: Held under submission.",
-              "chamber": "S",
-              "chamber_id": 20,
+              "date": "2026-06-10",
+              "action": "House additional Committee of the Whole action: Do Pass Amended",
+              "chamber": "H",
+              "chamber_id": 15,
               "importance": 0
             },
             {
               "date": "2026-06-11",
-              "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on APPR.",
+              "action": "House third reading PASSED voting: (38-20-2-0)",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-11",
+              "action": "Transmit to Senate",
               "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
+              "chamber_id": 16,
+              "importance": 0
             }
           ]
         },
@@ -787,467 +364,8 @@
           "to": 25
         },
         "last_action": {
-          "from": "In committee: Held under submission.",
-          "to": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on APPR."
-        },
-        "last_action_date": {
-          "from": "2025-08-29",
-          "to": "2026-06-11"
-        },
-        "progress": {
-          "from": [
-            {
-              "date": "2025-01-23",
-              "event": 1
-            },
-            {
-              "date": "2025-03-28",
-              "event": 9
-            },
-            {
-              "date": "2025-04-23",
-              "event": 10
-            },
-            {
-              "date": "2025-04-23",
-              "event": 9
-            },
-            {
-              "date": "2025-04-30",
-              "event": 10
-            },
-            {
-              "date": "2025-05-05",
-              "event": 9
-            },
-            {
-              "date": "2025-05-14",
-              "event": 10
-            },
-            {
-              "date": "2025-05-23",
-              "event": 2
-            },
-            {
-              "date": "2025-05-23",
-              "event": 9
-            },
-            {
-              "date": "2025-06-04",
-              "event": 9
-            },
-            {
-              "date": "2025-06-23",
-              "event": 10
-            },
-            {
-              "date": "2025-06-23",
-              "event": 9
-            },
-            {
-              "date": "2025-06-24",
-              "event": 9
-            },
-            {
-              "date": "2025-06-25",
-              "event": 9
-            },
-            {
-              "date": "2025-06-27",
-              "event": 10
-            },
-            {
-              "date": "2025-06-27",
-              "event": 9
-            },
-            {
-              "date": "2025-07-03",
-              "event": 10
-            },
-            {
-              "date": "2025-07-03",
-              "event": 9
-            },
-            {
-              "date": "2025-07-16",
-              "event": 10
-            },
-            {
-              "date": "2025-07-17",
-              "event": 9
-            },
-            {
-              "date": "2025-07-17",
-              "event": 9
-            },
-            {
-              "date": "2025-08-18",
-              "event": 9
-            }
-          ],
-          "to": [
-            {
-              "date": "2025-01-23",
-              "event": 1
-            },
-            {
-              "date": "2025-03-28",
-              "event": 9
-            },
-            {
-              "date": "2025-04-23",
-              "event": 10
-            },
-            {
-              "date": "2025-04-23",
-              "event": 9
-            },
-            {
-              "date": "2025-04-30",
-              "event": 10
-            },
-            {
-              "date": "2025-05-05",
-              "event": 9
-            },
-            {
-              "date": "2025-05-14",
-              "event": 10
-            },
-            {
-              "date": "2025-05-23",
-              "event": 2
-            },
-            {
-              "date": "2025-05-23",
-              "event": 9
-            },
-            {
-              "date": "2025-06-04",
-              "event": 9
-            },
-            {
-              "date": "2025-06-23",
-              "event": 10
-            },
-            {
-              "date": "2025-06-23",
-              "event": 9
-            },
-            {
-              "date": "2025-06-24",
-              "event": 9
-            },
-            {
-              "date": "2025-06-25",
-              "event": 9
-            },
-            {
-              "date": "2025-06-27",
-              "event": 10
-            },
-            {
-              "date": "2025-06-27",
-              "event": 9
-            },
-            {
-              "date": "2025-07-03",
-              "event": 10
-            },
-            {
-              "date": "2025-07-03",
-              "event": 9
-            },
-            {
-              "date": "2025-07-16",
-              "event": 10
-            },
-            {
-              "date": "2025-07-17",
-              "event": 9
-            },
-            {
-              "date": "2025-07-17",
-              "event": 9
-            },
-            {
-              "date": "2025-08-18",
-              "event": 9
-            },
-            {
-              "date": "2026-06-11",
-              "event": 10
-            },
-            {
-              "date": "2026-06-11",
-              "event": 9
-            }
-          ]
-        },
-        "texts": {
-          "from": [
-            {
-              "doc_id": 3076811,
-              "date": "2025-01-23",
-              "type": "Introduced",
-              "type_id": 1,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/AB302/id/3076811",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB302#99INT",
-              "text_size": 31279,
-              "text_hash": "a4340cfe1724cf346534dafff7a400d2",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            },
-            {
-              "doc_id": 3227455,
-              "date": "2025-05-01",
-              "type": "Amended",
-              "type_id": 3,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/AB302/id/3227455",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB302#98AMD",
-              "text_size": 36800,
-              "text_hash": "f92d637408e994c0bf099da3595343ce",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            },
-            {
-              "doc_id": 3259503,
-              "date": "2025-06-27",
-              "type": "Amended",
-              "type_id": 3,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/AB302/id/3259503",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB302#96AMD",
-              "text_size": 14413,
-              "text_hash": "8f22f997fe24e0f7317e7de8ee32911c",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            },
-            {
-              "doc_id": 3259752,
-              "date": "2025-06-23",
-              "type": "Amended",
-              "type_id": 3,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/AB302/id/3259752",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB302#97AMD",
-              "text_size": 46869,
-              "text_hash": "de760e288de79a56d4f03e14cd28eebd",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            },
-            {
-              "doc_id": 3260580,
-              "date": "2025-07-03",
-              "type": "Amended",
-              "type_id": 3,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/AB302/id/3260580",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB302#95AMD",
-              "text_size": 25652,
-              "text_hash": "1d91449c2d0ba83adfc7cd2723f65c7f",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            },
-            {
-              "doc_id": 3262249,
-              "date": "2025-07-17",
-              "type": "Amended",
-              "type_id": 3,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/AB302/id/3262249",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB302#94AMD",
-              "text_size": 32658,
-              "text_hash": "8d655db34e6965880c1a9de1e87491c2",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            }
-          ],
-          "to": [
-            {
-              "doc_id": 3076811,
-              "date": "2025-01-23",
-              "type": "Introduced",
-              "type_id": 1,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/AB302/id/3076811",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB302#99INT",
-              "text_size": 31279,
-              "text_hash": "a4340cfe1724cf346534dafff7a400d2",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            },
-            {
-              "doc_id": 3227455,
-              "date": "2025-05-01",
-              "type": "Amended",
-              "type_id": 3,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/AB302/id/3227455",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB302#98AMD",
-              "text_size": 36800,
-              "text_hash": "f92d637408e994c0bf099da3595343ce",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            },
-            {
-              "doc_id": 3259503,
-              "date": "2025-06-27",
-              "type": "Amended",
-              "type_id": 3,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/AB302/id/3259503",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB302#96AMD",
-              "text_size": 14413,
-              "text_hash": "8f22f997fe24e0f7317e7de8ee32911c",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            },
-            {
-              "doc_id": 3259752,
-              "date": "2025-06-23",
-              "type": "Amended",
-              "type_id": 3,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/AB302/id/3259752",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB302#97AMD",
-              "text_size": 46869,
-              "text_hash": "de760e288de79a56d4f03e14cd28eebd",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            },
-            {
-              "doc_id": 3260580,
-              "date": "2025-07-03",
-              "type": "Amended",
-              "type_id": 3,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/AB302/id/3260580",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB302#95AMD",
-              "text_size": 25652,
-              "text_hash": "1d91449c2d0ba83adfc7cd2723f65c7f",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            },
-            {
-              "doc_id": 3262249,
-              "date": "2025-07-17",
-              "type": "Amended",
-              "type_id": 3,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/AB302/id/3262249",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB302#94AMD",
-              "text_size": 32658,
-              "text_hash": "8d655db34e6965880c1a9de1e87491c2",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            },
-            {
-              "doc_id": 3448074,
-              "date": "2026-06-11",
-              "type": "Amended",
-              "type_id": 3,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/AB302/id/3448074",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB302#93AMD",
-              "text_size": 23264,
-              "text_hash": "998fd7433ec7d672885d373629778aa3",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            }
-          ]
-        },
-        "num_text_versions": {
-          "from": 6,
-          "to": 7
-        },
-        "latest_text_url": {
-          "from": "https://legiscan.com/CA/text/AB302/id/3262249",
-          "to": "https://legiscan.com/CA/text/AB302/id/3448074"
-        },
-        "latest_text_state_link": {
-          "from": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB302#94AMD",
-          "to": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB302#93AMD"
-        },
-        "latest_text_date": {
-          "from": "2025-07-17",
-          "to": "2026-06-11"
-        },
-        "topic_categories": {
-          "from": [
-            "General"
-          ],
-          "to": [
-            "Algorithm transparency",
-            "School restrictions"
-          ]
+          "from": "House third reading PASSED voting: (38-20-2-0)",
+          "to": "Transmit to Senate"
         },
         "scraped_date": {
           "from": "2026-06-11",
@@ -1256,320 +374,632 @@
       }
     },
     {
-      "bill_id": "CA ACR174",
+      "bill_id": "AZ SB1798",
       "changes": {
         "content_hash": {
-          "from": "93c229f26dbec0ba2f86cd158cddf440",
-          "to": "2fc5c25eef74cb7f8cee6e4b121d2134"
-        },
-        "status": {
-          "from": "Engrossed",
-          "to": "Enrolled"
-        },
-        "status_code": {
-          "from": 2,
-          "to": 3
-        },
-        "status_date": {
-          "from": "2026-05-07",
-          "to": "2026-06-11"
+          "from": "fcaa4ccba3414c7a621c851762688273",
+          "to": "35e00d3a3e698486d089853b6a801503"
         },
         "history": {
           "from": [
             {
-              "date": "2026-04-09",
-              "action": "Introduced. To print.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2026-04-10",
-              "action": "From printer.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2026-04-13",
-              "action": "Referred to Com. on RLS.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-04",
-              "action": "From committee: Be adopted. To Consent Calendar. (Ayes 9. Noes 0.) (May 4).",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-07",
-              "action": "Coauthors revised.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-07",
-              "action": "Adopted and to Senate. (Ayes 66. Noes 0. Page 4969.)",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-11",
-              "action": "In Senate. To Com. on RLS.",
+              "date": "2026-02-09",
+              "action": "Introduced in Senate and read first time",
               "chamber": "S",
-              "chamber_id": 20,
+              "chamber_id": 16,
               "importance": 1
             },
             {
-              "date": "2026-05-20",
-              "action": "From committee: Ordered to third reading.",
+              "date": "2026-02-09",
+              "action": "Assigned to Senate ATT Committee",
               "chamber": "S",
-              "chamber_id": 20,
+              "chamber_id": 16,
               "importance": 0
             },
             {
-              "date": "2026-06-09",
-              "action": "Ordered to special consent calendar.",
+              "date": "2026-02-09",
+              "action": "Assigned to Senate ED Committee",
               "chamber": "S",
-              "chamber_id": 20,
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-09",
+              "action": "Assigned to Senate RULES Committee",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-10",
+              "action": "Senate read second time",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-18",
+              "action": "Senate ED Committee action: do pass amended/strike-everything, voting: (5-1-1-0)",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 1
+            },
+            {
+              "date": "2026-02-23",
+              "action": "Senate ATT Committee action: Withdrawn, voting: (0-0-0-0)",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-25",
+              "action": "Senate RULES Committee action: Proper For Consideration, voting: (0-0-0-0)",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 1
+            },
+            {
+              "date": "2026-02-25",
+              "action": "Senate majority caucus: Do pass",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-25",
+              "action": "Senate minority caucus: Do pass",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-09",
+              "action": "Senate Committee of the Whole action: Do Pass Amended",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-19",
+              "action": "Senate third reading PASSED voting: (22-5-3-0)",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-19",
+              "action": "Transmit to House",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-23",
+              "action": "Introduced in House and read first time",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-23",
+              "action": "Assigned to House ED Committee",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-23",
+              "action": "Assigned to House RULES Committee",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-24",
+              "action": "House ED Committee action: Do Pass, voting: (8-2-0-2-0-0)",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-24",
+              "action": "House read second time",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-28",
+              "action": "House RULES Committee action: constitutional and in proper form, voting: (8-0-0-0-0-0)",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-29",
+              "action": "House minority caucus: Do pass",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-05",
+              "action": "House majority caucus: Do pass",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-05",
+              "action": "House Committee of the Whole action: Do Pass Amended",
+              "chamber": "H",
+              "chamber_id": 15,
               "importance": 0
             }
           ],
           "to": [
             {
-              "date": "2026-04-09",
-              "action": "Introduced. To print.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2026-04-10",
-              "action": "From printer.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2026-04-13",
-              "action": "Referred to Com. on RLS.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-04",
-              "action": "From committee: Be adopted. To Consent Calendar. (Ayes 9. Noes 0.) (May 4).",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-07",
-              "action": "Coauthors revised.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-07",
-              "action": "Adopted and to Senate. (Ayes 66. Noes 0. Page 4969.)",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-11",
-              "action": "In Senate. To Com. on RLS.",
+              "date": "2026-02-09",
+              "action": "Introduced in Senate and read first time",
               "chamber": "S",
-              "chamber_id": 20,
+              "chamber_id": 16,
               "importance": 1
             },
             {
-              "date": "2026-05-20",
-              "action": "From committee: Ordered to third reading.",
+              "date": "2026-02-09",
+              "action": "Assigned to Senate ATT Committee",
               "chamber": "S",
-              "chamber_id": 20,
+              "chamber_id": 16,
               "importance": 0
             },
             {
-              "date": "2026-06-09",
-              "action": "Ordered to special consent calendar.",
+              "date": "2026-02-09",
+              "action": "Assigned to Senate ED Committee",
               "chamber": "S",
-              "chamber_id": 20,
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-09",
+              "action": "Assigned to Senate RULES Committee",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-10",
+              "action": "Senate read second time",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-18",
+              "action": "Senate ED Committee action: do pass amended/strike-everything, voting: (5-1-1-0)",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 1
+            },
+            {
+              "date": "2026-02-23",
+              "action": "Senate ATT Committee action: Withdrawn, voting: (0-0-0-0)",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-25",
+              "action": "Senate RULES Committee action: Proper For Consideration, voting: (0-0-0-0)",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 1
+            },
+            {
+              "date": "2026-02-25",
+              "action": "Senate majority caucus: Do pass",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-25",
+              "action": "Senate minority caucus: Do pass",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-09",
+              "action": "Senate Committee of the Whole action: Do Pass Amended",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-19",
+              "action": "Senate third reading PASSED voting: (22-5-3-0)",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-19",
+              "action": "Transmit to House",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-23",
+              "action": "Introduced in House and read first time",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-23",
+              "action": "Assigned to House ED Committee",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-23",
+              "action": "Assigned to House RULES Committee",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-24",
+              "action": "House ED Committee action: Do Pass, voting: (8-2-0-2-0-0)",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-24",
+              "action": "House read second time",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-28",
+              "action": "House RULES Committee action: constitutional and in proper form, voting: (8-0-0-0-0-0)",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-29",
+              "action": "House minority caucus: Do pass",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-05",
+              "action": "House majority caucus: Do pass",
+              "chamber": "H",
+              "chamber_id": 15,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-05",
+              "action": "House Committee of the Whole action: Do Pass Amended",
+              "chamber": "H",
+              "chamber_id": 15,
               "importance": 0
             },
             {
               "date": "2026-06-11",
-              "action": "Adopted and to Assembly. (Ayes 36. Noes 0.)",
-              "chamber": "S",
-              "chamber_id": 20,
+              "action": "House third reading PASSED voting: (31-24-5-0)",
+              "chamber": "H",
+              "chamber_id": 15,
               "importance": 0
             },
             {
               "date": "2026-06-11",
-              "action": "In Assembly. Ordered to Engrossing and Enrolling.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
+              "action": "Transmit to Senate",
+              "chamber": "S",
+              "chamber_id": 16,
+              "importance": 0
             }
           ]
         },
         "num_actions": {
-          "from": 9,
-          "to": 11
+          "from": 22,
+          "to": 24
         },
         "last_action": {
-          "from": "Ordered to special consent calendar.",
-          "to": "In Assembly. Ordered to Engrossing and Enrolling."
+          "from": "House Committee of the Whole action: Do Pass Amended",
+          "to": "Transmit to Senate"
         },
         "last_action_date": {
-          "from": "2026-06-09",
+          "from": "2026-05-05",
           "to": "2026-06-11"
-        },
-        "progress": {
-          "from": [
-            {
-              "date": "2026-04-09",
-              "event": 1
-            },
-            {
-              "date": "2026-04-13",
-              "event": 9
-            },
-            {
-              "date": "2026-05-07",
-              "event": 2
-            },
-            {
-              "date": "2026-05-11",
-              "event": 9
-            }
-          ],
-          "to": [
-            {
-              "date": "2026-04-09",
-              "event": 1
-            },
-            {
-              "date": "2026-04-13",
-              "event": 9
-            },
-            {
-              "date": "2026-05-07",
-              "event": 2
-            },
-            {
-              "date": "2026-05-11",
-              "event": 9
-            },
-            {
-              "date": "2026-06-11",
-              "event": 3
-            }
-          ]
         },
         "votes": {
           "from": [
             {
-              "roll_call_id": 1693252,
-              "date": "2026-05-04",
-              "desc": "Be adopted. To Consent Calendar",
-              "yea": 9,
-              "nay": 0,
-              "nv": 0,
-              "absent": 1,
-              "total": 10,
+              "roll_call_id": 1637797,
+              "date": "2026-02-18",
+              "desc": "Senate Education Committee Action (DPA/SE)",
+              "yea": 5,
+              "nay": 1,
+              "nv": 1,
+              "absent": 0,
+              "total": 7,
               "passed": 1,
-              "chamber": "A",
-              "chamber_id": 19,
-              "url": "https://legiscan.com/CA/rollcall/ACR174/id/1693252",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACR174"
+              "chamber": "S",
+              "chamber_id": 16,
+              "url": "https://legiscan.com/AZ/rollcall/SB1798/id/1637797",
+              "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=85468&includeVotes=true&officialOnly=true#1"
             },
             {
-              "roll_call_id": 1695766,
-              "date": "2026-05-07",
-              "desc": "ACR 174 Muratsuchi Consent Calendar Second Day Regular Session",
-              "yea": 66,
+              "roll_call_id": 1641278,
+              "date": "2026-02-23",
+              "desc": "Senate Appropriations, Transportation and Technology Committee Action (W/D)",
+              "yea": 0,
               "nay": 0,
               "nv": 0,
-              "absent": 14,
-              "total": 80,
+              "absent": 0,
+              "total": 0,
               "passed": 1,
-              "chamber": "A",
-              "chamber_id": 19,
-              "url": "https://legiscan.com/CA/rollcall/ACR174/id/1695766",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACR174"
+              "chamber": "S",
+              "chamber_id": 16,
+              "url": "https://legiscan.com/AZ/rollcall/SB1798/id/1641278",
+              "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=85468&includeVotes=true&officialOnly=true#0"
+            },
+            {
+              "roll_call_id": 1644983,
+              "date": "2026-02-25",
+              "desc": "Senate Rules Committee Action (PFC)",
+              "yea": 0,
+              "nay": 0,
+              "nv": 0,
+              "absent": 0,
+              "total": 0,
+              "passed": 1,
+              "chamber": "S",
+              "chamber_id": 16,
+              "url": "https://legiscan.com/AZ/rollcall/SB1798/id/1644983",
+              "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=85468&includeVotes=true&officialOnly=true#2"
+            },
+            {
+              "roll_call_id": 1657560,
+              "date": "2026-03-09",
+              "desc": "Senate - Committee of the Whole (DPA)",
+              "yea": 0,
+              "nay": 0,
+              "nv": 0,
+              "absent": 0,
+              "total": 0,
+              "passed": 1,
+              "chamber": "S",
+              "chamber_id": 16,
+              "url": "https://legiscan.com/AZ/rollcall/SB1798/id/1657560",
+              "state_link": "https://apps.azleg.gov/api/BillStatusFloorAction/?billStatusId=85468&billStatusActionId=244012&includeVotes=true"
+            },
+            {
+              "roll_call_id": 1666486,
+              "date": "2026-03-19",
+              "desc": "Senate - Third Reading",
+              "yea": 22,
+              "nay": 5,
+              "nv": 3,
+              "absent": 0,
+              "total": 30,
+              "passed": 1,
+              "chamber": "S",
+              "chamber_id": 16,
+              "url": "https://legiscan.com/AZ/rollcall/SB1798/id/1666486",
+              "state_link": "https://apps.azleg.gov/api/BillStatusFloorAction/?billStatusId=85468&billStatusActionId=244736&includeVotes=true"
+            },
+            {
+              "roll_call_id": 1669078,
+              "date": "2026-03-24",
+              "desc": "House Education Committee Action (DP)",
+              "yea": 8,
+              "nay": 2,
+              "nv": 0,
+              "absent": 2,
+              "total": 12,
+              "passed": 1,
+              "chamber": "H",
+              "chamber_id": 15,
+              "url": "https://legiscan.com/AZ/rollcall/SB1798/id/1669078",
+              "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=85468&includeVotes=true&officialOnly=true#3"
+            },
+            {
+              "roll_call_id": 1690777,
+              "date": "2026-04-28",
+              "desc": "House Rules Committee Action (C&P)",
+              "yea": 8,
+              "nay": 0,
+              "nv": 0,
+              "absent": 0,
+              "total": 8,
+              "passed": 1,
+              "chamber": "H",
+              "chamber_id": 15,
+              "url": "https://legiscan.com/AZ/rollcall/SB1798/id/1690777",
+              "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=85468&includeVotes=true&officialOnly=true#4"
+            },
+            {
+              "roll_call_id": 1693811,
+              "date": "2026-05-05",
+              "desc": "House - Committee of the Whole (DPA)",
+              "yea": 0,
+              "nay": 0,
+              "nv": 0,
+              "absent": 0,
+              "total": 0,
+              "passed": 1,
+              "chamber": "H",
+              "chamber_id": 15,
+              "url": "https://legiscan.com/AZ/rollcall/SB1798/id/1693811",
+              "state_link": "https://apps.azleg.gov/api/BillStatusFloorAction/?billStatusId=85468&billStatusActionId=245645&includeVotes=true"
             }
           ],
           "to": [
             {
-              "roll_call_id": 1693252,
-              "date": "2026-05-04",
-              "desc": "Be adopted. To Consent Calendar",
-              "yea": 9,
-              "nay": 0,
-              "nv": 0,
-              "absent": 1,
-              "total": 10,
-              "passed": 1,
-              "chamber": "A",
-              "chamber_id": 19,
-              "url": "https://legiscan.com/CA/rollcall/ACR174/id/1693252",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACR174"
-            },
-            {
-              "roll_call_id": 1695766,
-              "date": "2026-05-07",
-              "desc": "ACR 174 Muratsuchi Consent Calendar Second Day Regular Session",
-              "yea": 66,
-              "nay": 0,
-              "nv": 0,
-              "absent": 14,
-              "total": 80,
-              "passed": 1,
-              "chamber": "A",
-              "chamber_id": 19,
-              "url": "https://legiscan.com/CA/rollcall/ACR174/id/1695766",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACR174"
-            },
-            {
-              "roll_call_id": 1708985,
-              "date": "2026-06-11",
-              "desc": "Special Consent ACR174 Muratsuchi et al",
-              "yea": 36,
-              "nay": 0,
-              "nv": 0,
-              "absent": 4,
-              "total": 40,
+              "roll_call_id": 1637797,
+              "date": "2026-02-18",
+              "desc": "Senate Education Committee Action (DPA/SE)",
+              "yea": 5,
+              "nay": 1,
+              "nv": 1,
+              "absent": 0,
+              "total": 7,
               "passed": 1,
               "chamber": "S",
-              "chamber_id": 20,
-              "url": "https://legiscan.com/CA/rollcall/ACR174/id/1708985",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202520260ACR174"
+              "chamber_id": 16,
+              "url": "https://legiscan.com/AZ/rollcall/SB1798/id/1637797",
+              "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=85468&includeVotes=true&officialOnly=true#1"
+            },
+            {
+              "roll_call_id": 1641278,
+              "date": "2026-02-23",
+              "desc": "Senate Appropriations, Transportation and Technology Committee Action (W/D)",
+              "yea": 0,
+              "nay": 0,
+              "nv": 0,
+              "absent": 0,
+              "total": 0,
+              "passed": 1,
+              "chamber": "S",
+              "chamber_id": 16,
+              "url": "https://legiscan.com/AZ/rollcall/SB1798/id/1641278",
+              "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=85468&includeVotes=true&officialOnly=true#0"
+            },
+            {
+              "roll_call_id": 1644983,
+              "date": "2026-02-25",
+              "desc": "Senate Rules Committee Action (PFC)",
+              "yea": 0,
+              "nay": 0,
+              "nv": 0,
+              "absent": 0,
+              "total": 0,
+              "passed": 1,
+              "chamber": "S",
+              "chamber_id": 16,
+              "url": "https://legiscan.com/AZ/rollcall/SB1798/id/1644983",
+              "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=85468&includeVotes=true&officialOnly=true#2"
+            },
+            {
+              "roll_call_id": 1657560,
+              "date": "2026-03-09",
+              "desc": "Senate - Committee of the Whole (DPA)",
+              "yea": 0,
+              "nay": 0,
+              "nv": 0,
+              "absent": 0,
+              "total": 0,
+              "passed": 1,
+              "chamber": "S",
+              "chamber_id": 16,
+              "url": "https://legiscan.com/AZ/rollcall/SB1798/id/1657560",
+              "state_link": "https://apps.azleg.gov/api/BillStatusFloorAction/?billStatusId=85468&billStatusActionId=244012&includeVotes=true"
+            },
+            {
+              "roll_call_id": 1666486,
+              "date": "2026-03-19",
+              "desc": "Senate - Third Reading",
+              "yea": 22,
+              "nay": 5,
+              "nv": 3,
+              "absent": 0,
+              "total": 30,
+              "passed": 1,
+              "chamber": "S",
+              "chamber_id": 16,
+              "url": "https://legiscan.com/AZ/rollcall/SB1798/id/1666486",
+              "state_link": "https://apps.azleg.gov/api/BillStatusFloorAction/?billStatusId=85468&billStatusActionId=244736&includeVotes=true"
+            },
+            {
+              "roll_call_id": 1669078,
+              "date": "2026-03-24",
+              "desc": "House Education Committee Action (DP)",
+              "yea": 8,
+              "nay": 2,
+              "nv": 0,
+              "absent": 2,
+              "total": 12,
+              "passed": 1,
+              "chamber": "H",
+              "chamber_id": 15,
+              "url": "https://legiscan.com/AZ/rollcall/SB1798/id/1669078",
+              "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=85468&includeVotes=true&officialOnly=true#3"
+            },
+            {
+              "roll_call_id": 1690777,
+              "date": "2026-04-28",
+              "desc": "House Rules Committee Action (C&P)",
+              "yea": 8,
+              "nay": 0,
+              "nv": 0,
+              "absent": 0,
+              "total": 8,
+              "passed": 1,
+              "chamber": "H",
+              "chamber_id": 15,
+              "url": "https://legiscan.com/AZ/rollcall/SB1798/id/1690777",
+              "state_link": "https://apps.azleg.gov/api/BillStatusStandingAction/?billStatusId=85468&includeVotes=true&officialOnly=true#4"
+            },
+            {
+              "roll_call_id": 1693811,
+              "date": "2026-05-05",
+              "desc": "House - Committee of the Whole (DPA)",
+              "yea": 0,
+              "nay": 0,
+              "nv": 0,
+              "absent": 0,
+              "total": 0,
+              "passed": 1,
+              "chamber": "H",
+              "chamber_id": 15,
+              "url": "https://legiscan.com/AZ/rollcall/SB1798/id/1693811",
+              "state_link": "https://apps.azleg.gov/api/BillStatusFloorAction/?billStatusId=85468&billStatusActionId=245645&includeVotes=true"
+            },
+            {
+              "roll_call_id": 1709029,
+              "date": "2026-06-11",
+              "desc": "House - Third Reading",
+              "yea": 31,
+              "nay": 24,
+              "nv": 5,
+              "absent": 0,
+              "total": 60,
+              "passed": 1,
+              "chamber": "H",
+              "chamber_id": 15,
+              "url": "https://legiscan.com/AZ/rollcall/SB1798/id/1709029",
+              "state_link": "https://apps.azleg.gov/api/BillStatusFloorAction/?billStatusId=85468&billStatusActionId=246412&includeVotes=true"
             }
           ]
         },
         "num_votes": {
-          "from": 2,
-          "to": 3
+          "from": 8,
+          "to": 9
         },
         "latest_vote_date": {
-          "from": "2026-05-07",
+          "from": "2026-05-05",
           "to": "2026-06-11"
         },
         "latest_vote_desc": {
-          "from": "ACR 174 Muratsuchi Consent Calendar Second Day Regular Session",
-          "to": "Special Consent ACR174 Muratsuchi et al"
+          "from": "House - Committee of the Whole (DPA)",
+          "to": "House - Third Reading"
         },
         "latest_vote_yea": {
-          "from": 66,
-          "to": 36
+          "from": 0,
+          "to": 31
+        },
+        "latest_vote_nay": {
+          "from": 0,
+          "to": 24
         },
         "scraped_date": {
           "from": "2026-06-11",
@@ -1578,1675 +1008,98 @@
       }
     },
     {
-      "bill_id": "CA SB1292",
+      "bill_id": "DE HB444",
       "changes": {
         "content_hash": {
-          "from": "ac9acdc1df4ad3b958fabc8a5510d4a4",
-          "to": "93f37cef55d48ec1c57695dd47bc022a"
-        },
-        "history": {
-          "from": [
-            {
-              "date": "2026-02-20",
-              "action": "Introduced. To Com. on RLS. for assignment. To print.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-02-23",
-              "action": "From printer. May be acted upon on or after March 23.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-02-23",
-              "action": "Read first time.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-03-04",
-              "action": "Referred to Coms. on TRANS. and P., D.T., & C.P.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-03-26",
-              "action": "Set for hearing April 14.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-04-10",
-              "action": "Set for hearing April 20 in P., D.T., & C.P. pending receipt.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-04-15",
-              "action": "From committee: Do pass and re-refer to Com. on P., D.T., & C.P. (Ayes 11. Noes 1. Page 3873.) (April 14). Re-referred to Com. on P., D.T., & C.P.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-04-21",
-              "action": "From committee: Do pass as amended. (Ayes 7. Noes 2. Page 3958.) (April 20).",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-04-22",
-              "action": "Read second time and amended. Ordered to third reading.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-04-23",
-              "action": "Re-referred to Com. on APPR. pursuant to Joint Rule 10.5.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-04-24",
-              "action": "Set for hearing May 4.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-04",
-              "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-05",
-              "action": "Read second time. Ordered to third reading.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-26",
-              "action": "Read third time. Passed. (Ayes 28. Noes 7.) Ordered to the Assembly.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-26",
-              "action": "In Assembly. Read first time. Held at Desk.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2026-06-01",
-              "action": "Referred to Coms. on TRANS. and P. & C.P.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            }
-          ],
-          "to": [
-            {
-              "date": "2026-02-20",
-              "action": "Introduced. To Com. on RLS. for assignment. To print.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-02-23",
-              "action": "From printer. May be acted upon on or after March 23.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-02-23",
-              "action": "Read first time.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-03-04",
-              "action": "Referred to Coms. on TRANS. and P., D.T., & C.P.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-03-26",
-              "action": "Set for hearing April 14.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-04-10",
-              "action": "Set for hearing April 20 in P., D.T., & C.P. pending receipt.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-04-15",
-              "action": "From committee: Do pass and re-refer to Com. on P., D.T., & C.P. (Ayes 11. Noes 1. Page 3873.) (April 14). Re-referred to Com. on P., D.T., & C.P.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-04-21",
-              "action": "From committee: Do pass as amended. (Ayes 7. Noes 2. Page 3958.) (April 20).",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-04-22",
-              "action": "Read second time and amended. Ordered to third reading.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-04-23",
-              "action": "Re-referred to Com. on APPR. pursuant to Joint Rule 10.5.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-04-24",
-              "action": "Set for hearing May 4.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-04",
-              "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-05",
-              "action": "Read second time. Ordered to third reading.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-26",
-              "action": "Read third time. Passed. (Ayes 28. Noes 7.) Ordered to the Assembly.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-26",
-              "action": "In Assembly. Read first time. Held at Desk.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2026-06-01",
-              "action": "Referred to Coms. on TRANS. and P. & C.P.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2026-06-11",
-              "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on TRANS.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            }
-          ]
-        },
-        "num_actions": {
-          "from": 16,
-          "to": 17
-        },
-        "last_action": {
-          "from": "Referred to Coms. on TRANS. and P. & C.P.",
-          "to": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on TRANS."
-        },
-        "last_action_date": {
-          "from": "2026-06-01",
-          "to": "2026-06-11"
-        },
-        "progress": {
-          "from": [
-            {
-              "date": "2026-02-20",
-              "event": 1
-            },
-            {
-              "date": "2026-03-04",
-              "event": 9
-            },
-            {
-              "date": "2026-04-15",
-              "event": 10
-            },
-            {
-              "date": "2026-04-15",
-              "event": 9
-            },
-            {
-              "date": "2026-04-21",
-              "event": 10
-            },
-            {
-              "date": "2026-04-23",
-              "event": 9
-            },
-            {
-              "date": "2026-05-26",
-              "event": 2
-            },
-            {
-              "date": "2026-06-01",
-              "event": 9
-            }
-          ],
-          "to": [
-            {
-              "date": "2026-02-20",
-              "event": 1
-            },
-            {
-              "date": "2026-03-04",
-              "event": 9
-            },
-            {
-              "date": "2026-04-15",
-              "event": 10
-            },
-            {
-              "date": "2026-04-15",
-              "event": 9
-            },
-            {
-              "date": "2026-04-21",
-              "event": 10
-            },
-            {
-              "date": "2026-04-23",
-              "event": 9
-            },
-            {
-              "date": "2026-05-26",
-              "event": 2
-            },
-            {
-              "date": "2026-06-01",
-              "event": 9
-            },
-            {
-              "date": "2026-06-11",
-              "event": 9
-            }
-          ]
-        },
-        "texts": {
-          "from": [
-            {
-              "doc_id": 3371412,
-              "date": "2026-02-20",
-              "type": "Introduced",
-              "type_id": 1,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/SB1292/id/3371412",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1292#99INT",
-              "text_size": 20261,
-              "text_hash": "367a33acdc27c51195844a8d4c532588",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            },
-            {
-              "doc_id": 3424500,
-              "date": "2026-04-22",
-              "type": "Amended",
-              "type_id": 3,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/SB1292/id/3424500",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1292#98AMD",
-              "text_size": 34450,
-              "text_hash": "c8ddbb2efbe2e4e43e49c85c0fe9ae55",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            }
-          ],
-          "to": [
-            {
-              "doc_id": 3371412,
-              "date": "2026-02-20",
-              "type": "Introduced",
-              "type_id": 1,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/SB1292/id/3371412",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1292#99INT",
-              "text_size": 20261,
-              "text_hash": "367a33acdc27c51195844a8d4c532588",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            },
-            {
-              "doc_id": 3424500,
-              "date": "2026-04-22",
-              "type": "Amended",
-              "type_id": 3,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/SB1292/id/3424500",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1292#98AMD",
-              "text_size": 34450,
-              "text_hash": "c8ddbb2efbe2e4e43e49c85c0fe9ae55",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            },
-            {
-              "doc_id": 3447996,
-              "date": "2026-06-11",
-              "type": "Amended",
-              "type_id": 3,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/SB1292/id/3447996",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1292#97AMD",
-              "text_size": 29944,
-              "text_hash": "30bc9cd8ba5b4b127c2e17320dfae827",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            }
-          ]
-        },
-        "num_text_versions": {
-          "from": 2,
-          "to": 3
-        },
-        "latest_text_url": {
-          "from": "https://legiscan.com/CA/text/SB1292/id/3424500",
-          "to": "https://legiscan.com/CA/text/SB1292/id/3447996"
-        },
-        "latest_text_state_link": {
-          "from": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1292#98AMD",
-          "to": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1292#97AMD"
-        },
-        "latest_text_date": {
-          "from": "2026-04-22",
-          "to": "2026-06-11"
-        },
-        "scraped_date": {
-          "from": "2026-06-11",
-          "to": "2026-06-12"
-        }
-      }
-    },
-    {
-      "bill_id": "DE HB59",
-      "changes": {
-        "content_hash": {
-          "from": "0936bed0e2b782161497a50ede827d88",
-          "to": "22e24617ef79ded33b22d586a96fbf22"
+          "from": "bf3d6e48ffb93192be6d40e8f9afeea4",
+          "to": "df7cf29235e35bf5d51d40fdc2d137bd"
         },
         "committee": {
           "from": "",
-          "to": "Judiciary"
+          "to": "Appropriations"
         },
         "committee_chamber": {
           "from": "",
-          "to": "S"
+          "to": "H"
         },
         "history": {
           "from": [
             {
-              "date": "2025-03-06",
-              "action": "Introduced and Assigned to Judiciary Committee in House",
+              "date": "2026-06-04",
+              "action": "Introduced and Assigned to Elections & Government Affairs Committee in House",
               "chamber": "H",
               "chamber_id": 25,
               "importance": 1
-            },
-            {
-              "date": "2025-06-11",
-              "action": "Amendment HA 1 to HB 59 - Introduced and Placed With Bill",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 0
-            },
-            {
-              "date": "2025-06-11",
-              "action": "Reported Out of Committee (Judiciary) in House with 7 On Its Merits",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-19",
-              "action": "Amendment HA 1 to HB 59 - Passed In House by Voice Vote",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-19",
-              "action": "Passed By House. Votes: 23 YES 11 NO 7 ABSENT",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-19",
-              "action": "Assigned to Judiciary Committee in Senate",
-              "chamber": "S",
-              "chamber_id": 26,
-              "importance": 1
-            },
-            {
-              "date": "2026-06-09",
-              "action": "Returned to the House",
-              "chamber": "S",
-              "chamber_id": 26,
-              "importance": 0
-            },
-            {
-              "date": "2026-06-09",
-              "action": "Restored in House",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 0
-            },
-            {
-              "date": "2026-06-09",
-              "action": "Roll Call Rescinded in House",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 0
-            },
-            {
-              "date": "2026-06-09",
-              "action": "Laid On Table in House",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 0
             },
             {
               "date": "2026-06-10",
-              "action": "Amendment HA 2 to HB 59 - Introduced and Placed With Bill",
+              "action": "Reported Out of Committee (Elections & Government Affairs) in House with 4 On Its Merits",
               "chamber": "H",
               "chamber_id": 25,
               "importance": 0
-            },
-            {
-              "date": "2026-06-11",
-              "action": "Lifted From Table in House",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 0
-            },
-            {
-              "date": "2026-06-11",
-              "action": "Amendment HA 2 to HB 59 - Passed In House by Voice Vote",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 0
-            },
-            {
-              "date": "2026-06-11",
-              "action": "Passed By House. Votes: 31 YES 8 NO 2 ABSENT",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 1
             }
           ],
           "to": [
             {
-              "date": "2025-03-06",
-              "action": "Introduced and Assigned to Judiciary Committee in House",
+              "date": "2026-06-04",
+              "action": "Introduced and Assigned to Elections & Government Affairs Committee in House",
               "chamber": "H",
               "chamber_id": 25,
               "importance": 1
-            },
-            {
-              "date": "2025-06-11",
-              "action": "Amendment HA 1 to HB 59 - Introduced and Placed With Bill",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 0
-            },
-            {
-              "date": "2025-06-11",
-              "action": "Reported Out of Committee (Judiciary) in House with 7 On Its Merits",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-19",
-              "action": "Amendment HA 1 to HB 59 - Passed In House by Voice Vote",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-19",
-              "action": "Passed By House. Votes: 23 YES 11 NO 7 ABSENT",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-19",
-              "action": "Assigned to Judiciary Committee in Senate",
-              "chamber": "S",
-              "chamber_id": 26,
-              "importance": 1
-            },
-            {
-              "date": "2026-06-09",
-              "action": "Returned to the House",
-              "chamber": "S",
-              "chamber_id": 26,
-              "importance": 0
-            },
-            {
-              "date": "2026-06-09",
-              "action": "Restored in House",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 0
-            },
-            {
-              "date": "2026-06-09",
-              "action": "Roll Call Rescinded in House",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 0
-            },
-            {
-              "date": "2026-06-09",
-              "action": "Laid On Table in House",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 0
             },
             {
               "date": "2026-06-10",
-              "action": "Amendment HA 2 to HB 59 - Introduced and Placed With Bill",
+              "action": "Reported Out of Committee (Elections & Government Affairs) in House with 4 On Its Merits",
               "chamber": "H",
               "chamber_id": 25,
               "importance": 0
             },
             {
               "date": "2026-06-11",
-              "action": "Lifted From Table in House",
+              "action": "Assigned to Appropriations Committee in House",
               "chamber": "H",
               "chamber_id": 25,
-              "importance": 0
-            },
-            {
-              "date": "2026-06-11",
-              "action": "Amendment HA 2 to HB 59 - Passed In House by Voice Vote",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 0
-            },
-            {
-              "date": "2026-06-11",
-              "action": "Passed By House. Votes: 31 YES 8 NO 2 ABSENT",
-              "chamber": "H",
-              "chamber_id": 25,
-              "importance": 1
-            },
-            {
-              "date": "2026-06-11",
-              "action": "Assigned to Judiciary Committee in Senate",
-              "chamber": "S",
-              "chamber_id": 26,
               "importance": 1
             }
           ]
         },
         "num_actions": {
-          "from": 14,
-          "to": 15
-        },
-        "last_action": {
-          "from": "Passed By House. Votes: 31 YES 8 NO 2 ABSENT",
-          "to": "Assigned to Judiciary Committee in Senate"
-        },
-        "progress": {
-          "from": [
-            {
-              "date": "2025-03-06",
-              "event": 1
-            },
-            {
-              "date": "2025-03-06",
-              "event": 9
-            },
-            {
-              "date": "2026-05-19",
-              "event": 2
-            },
-            {
-              "date": "2026-05-19",
-              "event": 9
-            },
-            {
-              "date": "2026-06-11",
-              "event": 3
-            }
-          ],
-          "to": [
-            {
-              "date": "2025-03-06",
-              "event": 1
-            },
-            {
-              "date": "2025-03-06",
-              "event": 9
-            },
-            {
-              "date": "2026-05-19",
-              "event": 2
-            },
-            {
-              "date": "2026-05-19",
-              "event": 9
-            },
-            {
-              "date": "2026-06-11",
-              "event": 3
-            },
-            {
-              "date": "2026-06-11",
-              "event": 9
-            }
-          ]
-        },
-        "scraped_date": {
-          "from": "2026-06-11",
-          "to": "2026-06-12"
-        }
-      }
-    },
-    {
-      "bill_id": "NJ S4075",
-      "changes": {
-        "content_hash": {
-          "from": "faaa9387105c6efa2b74f3cdcd060f23",
-          "to": "1407d1dac85987ab4e33828ac8a79682"
-        },
-        "num_sponsors": {
-          "from": 4,
-          "to": 7
-        },
-        "sponsors": {
-          "from": [
-            {
-              "name": "Andrew Zwicker",
-              "party": "Democrat",
-              "party_code": "D",
-              "role": "Rep",
-              "district": "SD-016",
-              "sponsor_type": "Primary"
-            },
-            {
-              "name": "Troy Singleton",
-              "party": "Democrat",
-              "party_code": "D",
-              "role": "Rep",
-              "district": "SD-007",
-              "sponsor_type": "Co-Sponsor"
-            },
-            {
-              "name": "Patrick Diegnan",
-              "party": "Democrat",
-              "party_code": "D",
-              "role": "Rep",
-              "district": "SD-018",
-              "sponsor_type": "Co-Sponsor"
-            },
-            {
-              "name": "Robert Smith",
-              "party": "Democrat",
-              "party_code": "D",
-              "role": "Rep",
-              "district": "SD-017",
-              "sponsor_type": "Co-Sponsor"
-            }
-          ],
-          "to": [
-            {
-              "name": "Andrew Zwicker",
-              "party": "Democrat",
-              "party_code": "D",
-              "role": "Rep",
-              "district": "SD-016",
-              "sponsor_type": "Primary"
-            },
-            {
-              "name": "Troy Singleton",
-              "party": "Democrat",
-              "party_code": "D",
-              "role": "Rep",
-              "district": "SD-007",
-              "sponsor_type": "Co-Sponsor"
-            },
-            {
-              "name": "Patrick Diegnan",
-              "party": "Democrat",
-              "party_code": "D",
-              "role": "Rep",
-              "district": "SD-018",
-              "sponsor_type": "Co-Sponsor"
-            },
-            {
-              "name": "Robert Smith",
-              "party": "Democrat",
-              "party_code": "D",
-              "role": "Rep",
-              "district": "SD-017",
-              "sponsor_type": "Co-Sponsor"
-            },
-            {
-              "name": "Paul Moriarty",
-              "party": "Democrat",
-              "party_code": "D",
-              "role": "Rep",
-              "district": "SD-004",
-              "sponsor_type": "Co-Sponsor"
-            },
-            {
-              "name": "Joseph Cryan",
-              "party": "Democrat",
-              "party_code": "D",
-              "role": "Rep",
-              "district": "SD-020",
-              "sponsor_type": "Co-Sponsor"
-            },
-            {
-              "name": "Gordon Johnson",
-              "party": "Democrat",
-              "party_code": "D",
-              "role": "Rep",
-              "district": "SD-037",
-              "sponsor_type": "Co-Sponsor"
-            }
-          ]
-        },
-        "scraped_date": {
-          "from": "2026-06-11",
-          "to": "2026-06-12"
-        }
-      }
-    },
-    {
-      "bill_id": "CA AB109",
-      "changes": {
-        "content_hash": {
-          "from": "697b7d02e1b0acdc1dc931e0267481ab",
-          "to": "69f368db92f34b65c21f4111b97a5cda"
-        },
-        "history": {
-          "from": [
-            {
-              "date": "2025-01-08",
-              "action": "Read first time. To print.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2025-01-09",
-              "action": "From printer. May be heard in committee February 8.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2025-02-03",
-              "action": "Referred to Com. on BUDGET.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2025-03-17",
-              "action": "Withdrawn from committee.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2025-03-17",
-              "action": "Ordered to second reading.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2025-03-17",
-              "action": "(Ayes 53. Noes 17. Page 643.)",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2025-03-18",
-              "action": "Read second time. Ordered to third reading.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2025-03-20",
-              "action": "Read third time. Passed. Ordered to the Senate. (Ayes 53. Noes 17. Page 717.)",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2025-03-20",
-              "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-04-02",
-              "action": "Referred to Com. on B. & F. R.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-06-03",
-              "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on B. & F. R.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            }
-          ],
-          "to": [
-            {
-              "date": "2025-01-08",
-              "action": "Read first time. To print.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2025-01-09",
-              "action": "From printer. May be heard in committee February 8.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2025-02-03",
-              "action": "Referred to Com. on BUDGET.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2025-03-17",
-              "action": "Withdrawn from committee.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2025-03-17",
-              "action": "Ordered to second reading.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2025-03-17",
-              "action": "(Ayes 53. Noes 17. Page 643.)",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2025-03-18",
-              "action": "Read second time. Ordered to third reading.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2025-03-20",
-              "action": "Read third time. Passed. Ordered to the Senate. (Ayes 53. Noes 17. Page 717.)",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2025-03-20",
-              "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2025-04-02",
-              "action": "Referred to Com. on B. & F. R.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-06-03",
-              "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on B. & F. R.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-06-11",
-              "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on B. & F. R.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            }
-          ]
-        },
-        "num_actions": {
-          "from": 11,
-          "to": 12
-        },
-        "last_action_date": {
-          "from": "2026-06-03",
-          "to": "2026-06-11"
-        },
-        "progress": {
-          "from": [
-            {
-              "date": "2025-01-08",
-              "event": 1
-            },
-            {
-              "date": "2025-02-03",
-              "event": 9
-            },
-            {
-              "date": "2025-03-20",
-              "event": 2
-            },
-            {
-              "date": "2025-03-20",
-              "event": 9
-            },
-            {
-              "date": "2025-04-02",
-              "event": 9
-            },
-            {
-              "date": "2026-06-03",
-              "event": 10
-            },
-            {
-              "date": "2026-06-03",
-              "event": 9
-            }
-          ],
-          "to": [
-            {
-              "date": "2025-01-08",
-              "event": 1
-            },
-            {
-              "date": "2025-02-03",
-              "event": 9
-            },
-            {
-              "date": "2025-03-20",
-              "event": 2
-            },
-            {
-              "date": "2025-03-20",
-              "event": 9
-            },
-            {
-              "date": "2025-04-02",
-              "event": 9
-            },
-            {
-              "date": "2026-06-03",
-              "event": 10
-            },
-            {
-              "date": "2026-06-03",
-              "event": 9
-            },
-            {
-              "date": "2026-06-11",
-              "event": 10
-            },
-            {
-              "date": "2026-06-11",
-              "event": 9
-            }
-          ]
-        },
-        "scraped_date": {
-          "from": "2026-06-11",
-          "to": "2026-06-12"
-        }
-      }
-    },
-    {
-      "bill_id": "CA SB1050",
-      "changes": {
-        "content_hash": {
-          "from": "2e64ffd0db79efae12893cdd11ba1eaf",
-          "to": "eca69e04a51b2d0429b587a80d0804c5"
-        },
-        "title": {
-          "from": "False advertising: synthetic digital performers.",
-          "to": "False advertising: synthetic performers."
-        },
-        "history": {
-          "from": [
-            {
-              "date": "2026-02-12",
-              "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-02-13",
-              "action": "From printer. May be acted upon on or after March 15.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-02-26",
-              "action": "Referred to Coms. on P., D.T., & C.P. and JUD.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-03-10",
-              "action": "Set for hearing April 6.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-04-07",
-              "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 0. Page 3741.) (April 6). Re-referred to Com. on JUD.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-04-08",
-              "action": "Set for hearing April 21.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-04-22",
-              "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 13. Noes 0. Page 3977.) (April 21).",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-04-23",
-              "action": "Read second time and amended. Re-referred to Com. on APPR.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-04",
-              "action": "Set for hearing May 11.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-11",
-              "action": "May 11 hearing: Placed on APPR. suspense file.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-12",
-              "action": "Set for hearing May 14.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-14",
-              "action": "From committee: Do pass. (Ayes 7. Noes 0.) (May 14).",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-14",
-              "action": "Read second time. Ordered to third reading.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-28",
-              "action": "Read third time. Passed. (Ayes 38. Noes 0.) Ordered to the Assembly.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-28",
-              "action": "In Assembly. Read first time. Held at Desk.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2026-06-04",
-              "action": "Referred to Coms. on P. & C.P., A.,E.,S., & T., and JUD.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            }
-          ],
-          "to": [
-            {
-              "date": "2026-02-12",
-              "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-02-13",
-              "action": "From printer. May be acted upon on or after March 15.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-02-26",
-              "action": "Referred to Coms. on P., D.T., & C.P. and JUD.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-03-10",
-              "action": "Set for hearing April 6.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-04-07",
-              "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 0. Page 3741.) (April 6). Re-referred to Com. on JUD.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-04-08",
-              "action": "Set for hearing April 21.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-04-22",
-              "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 13. Noes 0. Page 3977.) (April 21).",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-04-23",
-              "action": "Read second time and amended. Re-referred to Com. on APPR.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-04",
-              "action": "Set for hearing May 11.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-11",
-              "action": "May 11 hearing: Placed on APPR. suspense file.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-12",
-              "action": "Set for hearing May 14.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-14",
-              "action": "From committee: Do pass. (Ayes 7. Noes 0.) (May 14).",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-14",
-              "action": "Read second time. Ordered to third reading.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-28",
-              "action": "Read third time. Passed. (Ayes 38. Noes 0.) Ordered to the Assembly.",
-              "chamber": "S",
-              "chamber_id": 20,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-28",
-              "action": "In Assembly. Read first time. Held at Desk.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 0
-            },
-            {
-              "date": "2026-06-04",
-              "action": "Referred to Coms. on P. & C.P., A.,E.,S., & T., and JUD.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            },
-            {
-              "date": "2026-06-11",
-              "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on P. & C.P.",
-              "chamber": "A",
-              "chamber_id": 19,
-              "importance": 1
-            }
-          ]
-        },
-        "num_actions": {
-          "from": 16,
-          "to": 17
-        },
-        "last_action": {
-          "from": "Referred to Coms. on P. & C.P., A.,E.,S., & T., and JUD.",
-          "to": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on P. & C.P."
-        },
-        "last_action_date": {
-          "from": "2026-06-04",
-          "to": "2026-06-11"
-        },
-        "progress": {
-          "from": [
-            {
-              "date": "2026-02-12",
-              "event": 1
-            },
-            {
-              "date": "2026-02-26",
-              "event": 9
-            },
-            {
-              "date": "2026-04-07",
-              "event": 10
-            },
-            {
-              "date": "2026-04-07",
-              "event": 9
-            },
-            {
-              "date": "2026-04-22",
-              "event": 10
-            },
-            {
-              "date": "2026-04-23",
-              "event": 9
-            },
-            {
-              "date": "2026-05-14",
-              "event": 10
-            },
-            {
-              "date": "2026-05-28",
-              "event": 2
-            },
-            {
-              "date": "2026-06-04",
-              "event": 9
-            }
-          ],
-          "to": [
-            {
-              "date": "2026-02-12",
-              "event": 1
-            },
-            {
-              "date": "2026-02-26",
-              "event": 9
-            },
-            {
-              "date": "2026-04-07",
-              "event": 10
-            },
-            {
-              "date": "2026-04-07",
-              "event": 9
-            },
-            {
-              "date": "2026-04-22",
-              "event": 10
-            },
-            {
-              "date": "2026-04-23",
-              "event": 9
-            },
-            {
-              "date": "2026-05-14",
-              "event": 10
-            },
-            {
-              "date": "2026-05-28",
-              "event": 2
-            },
-            {
-              "date": "2026-06-04",
-              "event": 9
-            },
-            {
-              "date": "2026-06-11",
-              "event": 9
-            }
-          ]
-        },
-        "texts": {
-          "from": [
-            {
-              "doc_id": 3361453,
-              "date": "2026-02-12",
-              "type": "Introduced",
-              "type_id": 1,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/SB1050/id/3361453",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1050#99INT",
-              "text_size": 9467,
-              "text_hash": "8ee82b8fcf68ac50fd4682574c999411",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            },
-            {
-              "doc_id": 3425416,
-              "date": "2026-04-23",
-              "type": "Amended",
-              "type_id": 3,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/SB1050/id/3425416",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1050#98AMD",
-              "text_size": 14099,
-              "text_hash": "fbd08c66aef7b87838069661f7444eea",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            }
-          ],
-          "to": [
-            {
-              "doc_id": 3361453,
-              "date": "2026-02-12",
-              "type": "Introduced",
-              "type_id": 1,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/SB1050/id/3361453",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1050#99INT",
-              "text_size": 9467,
-              "text_hash": "8ee82b8fcf68ac50fd4682574c999411",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            },
-            {
-              "doc_id": 3425416,
-              "date": "2026-04-23",
-              "type": "Amended",
-              "type_id": 3,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/SB1050/id/3425416",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1050#98AMD",
-              "text_size": 14099,
-              "text_hash": "fbd08c66aef7b87838069661f7444eea",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            },
-            {
-              "doc_id": 3448055,
-              "date": "2026-06-11",
-              "type": "Amended",
-              "type_id": 3,
-              "mime": "text/html",
-              "mime_id": 1,
-              "url": "https://legiscan.com/CA/text/SB1050/id/3448055",
-              "state_link": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1050#97AMD",
-              "text_size": 16368,
-              "text_hash": "afec1c9233bcd640306c4e0dc4a776f5",
-              "alt_bill_text": 0,
-              "alt_mime": "",
-              "alt_mime_id": 0,
-              "alt_state_link": "",
-              "alt_text_size": 0,
-              "alt_text_hash": ""
-            }
-          ]
-        },
-        "num_text_versions": {
           "from": 2,
           "to": 3
         },
-        "latest_text_url": {
-          "from": "https://legiscan.com/CA/text/SB1050/id/3425416",
-          "to": "https://legiscan.com/CA/text/SB1050/id/3448055"
+        "last_action": {
+          "from": "Reported Out of Committee (Elections & Government Affairs) in House with 4 On Its Merits",
+          "to": "Assigned to Appropriations Committee in House"
         },
-        "latest_text_state_link": {
-          "from": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1050#98AMD",
-          "to": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1050#97AMD"
-        },
-        "latest_text_date": {
-          "from": "2026-04-23",
+        "last_action_date": {
+          "from": "2026-06-10",
           "to": "2026-06-11"
         },
-        "scraped_date": {
-          "from": "2026-06-11",
-          "to": "2026-06-12"
-        }
-      }
-    },
-    {
-      "bill_id": "MA S3091",
-      "changes": {
-        "content_hash": {
-          "from": "23ab33054d4b0844f78042a27cad02c3",
-          "to": "4a8000a8339415a8ced3aedbb7869b8a"
-        },
-        "history": {
+        "progress": {
           "from": [
             {
-              "date": "2026-04-27",
-              "action": "Referred to the Joint Committee on Rules of the two branches, acting concurrently",
-              "chamber": "S",
-              "chamber_id": 52,
-              "importance": 1
+              "date": "2026-06-04",
+              "event": 1
             },
             {
-              "date": "2026-05-07",
-              "action": "Rules suspended",
-              "chamber": "S",
-              "chamber_id": 52,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-07",
-              "action": "Referred to the Joint Committee on Financial Services",
-              "chamber": "S",
-              "chamber_id": 52,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-14",
-              "action": "House concurred",
-              "chamber": "H",
-              "chamber_id": 51,
-              "importance": 0
+              "date": "2026-06-04",
+              "event": 9
             }
           ],
           "to": [
             {
-              "date": "2026-04-27",
-              "action": "Referred to the Joint Committee on Rules of the two branches, acting concurrently",
-              "chamber": "S",
-              "chamber_id": 52,
-              "importance": 1
+              "date": "2026-06-04",
+              "event": 1
             },
             {
-              "date": "2026-05-07",
-              "action": "Rules suspended",
-              "chamber": "S",
-              "chamber_id": 52,
-              "importance": 0
-            },
-            {
-              "date": "2026-05-07",
-              "action": "Referred to the Joint Committee on Financial Services",
-              "chamber": "S",
-              "chamber_id": 52,
-              "importance": 1
-            },
-            {
-              "date": "2026-05-14",
-              "action": "House concurred",
-              "chamber": "H",
-              "chamber_id": 51,
-              "importance": 0
+              "date": "2026-06-04",
+              "event": 9
             },
             {
               "date": "2026-06-11",
-              "action": "Hearing scheduled for 06/22/2026 from 10:30 AM-01:30 PM in A-1",
-              "chamber": "J",
-              "chamber_id": 103,
-              "importance": 0
+              "event": 9
             }
           ]
-        },
-        "num_actions": {
-          "from": 4,
-          "to": 5
-        },
-        "last_action": {
-          "from": "House concurred",
-          "to": "Hearing scheduled for 06/22/2026 from 10:30 AM-01:30 PM in A-1"
-        },
-        "last_action_date": {
-          "from": "2026-05-14",
-          "to": "2026-06-11"
-        },
-        "calendar": {
-          "from": [],
-          "to": [
-            {
-              "type_id": 1,
-              "event_hash": "fb8b77e0",
-              "type": "Hearing",
-              "date": "2026-06-22",
-              "time": "10:30",
-              "location": "A-1",
-              "description": "Joint Committee on Financial Services Hearing"
-            }
-          ]
-        },
-        "num_hearings": {
-          "from": 0,
-          "to": 1
         },
         "scraped_date": {
           "from": "2026-06-11",

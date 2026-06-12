@@ -424,13 +424,10 @@ def extract_data_points(bill_data, search_terms_matched):
 
 
 def run_scraper():
-    """Main scraping logic following the DD_Day4/Day5 architecture."""
+    """Main scraping logic."""
 
     if not API_KEY:
         print("ERROR: No API key found.")
-        print("1. Get a free key at https://legiscan.com/legiscan")
-        print("2. Copy .env.example to .env")
-        print("3. Add your key to the .env file")
         return
 
     ######### STEP ONE #########
@@ -629,8 +626,7 @@ def run_scraper():
             print(f"  Progress: {i+1}/{len(all_found_bills)} bills — {new_count} new, {changed_count} changed, {unchanged_count} unchanged — saved to disk")
 
     # Check for bills in old data that are no longer in search results
-    # (Bills don't get "deleted" from legislatures, but they may fall
-    # out of our search results. Keep them in the dataset.)
+    # (Bills don't get "deleted" from legislatures, but they may fall out of our search results. Keep them in the dataset.)
     current_ids = set(all_found_bills.keys())
     for old_id, old_item in old_data_map.items():
         if old_id not in current_ids:
