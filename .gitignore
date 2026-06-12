@@ -3,3 +3,8 @@ data/api_cache/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Tutor's demo files (not part of this project)
+DD_Day4_Bill_Scraper_Architecture_Example.ipynb
+DD_Day5_PA_Bill_Scraper_Updates_Only.ipynb
+Bill_Scraping_Initial_Complete_Run.ipynb
