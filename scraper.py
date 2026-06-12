@@ -2,20 +2,15 @@
 """
 LegiScan Social Media Bills Scraper
 ====================================
-Scrapes federal and state legislature bills related to social media,
-TikTok, deepfakes, and online platform regulation using the LegiScan API.
+Scrapes federal and state legislature bills related to social media, TikTok, deepfakes, and online platform regulation using the LegiScan API.
 
-Follows DD_Day4/Day5 Bill Scraper Architecture:
+Follows Bill Scraper Architecture:
   - Step 1: Load previous scrape data
   - Step 2: Extract data points function
   - Step 3: Search + change detection via change_hash
   - Step 4: Scrape with try/except, fallback to yesterday's data
   - Step 5: Write 3 output files (data, changelog, error log)
 
-Usage:
-  1. Get a free API key at https://legiscan.com/legiscan
-  2. Copy .env.example to .env and paste your key
-  3. Run: python scraper.py
 """
 
 ######################## IMPORTS ########################
@@ -131,11 +126,9 @@ def _cache_key(operation, params):
 
 
 def api_request(operation, use_cache=False, **params):
-    """Make a LegiScan API request with local JSON caching.
-
-    LegiScan recommends: 'local caching of JSON response to minimize
-    spend on replayability.' Cached responses are stored in data/api_cache/
-    and replayed instead of burning a query when use_cache=True.
+    """Make a LegiScan API request with local JSON caching. 
+    
+    LegiScan recommends: 'local caching of JSON response to minimize spend on replayability.' Cached responses are stored in data/api_cache/ and replayed instead of burning a query when use_cache=True.
     """
     if not API_KEY:
         raise ValueError("LEGISCAN_API_KEY not set. Copy .env.example to .env and add your key.")
@@ -168,9 +161,7 @@ def api_request(operation, use_cache=False, **params):
 def search_bills(query, year=2, page=1):
     """Search for bills matching a query using getSearchRaw.
 
-    Uses getSearchRaw (2000 results/page) instead of getSearch (50/page)
-    to minimize API calls. Returns bill_id, change_hash, title, state,
-    relevance — everything needed for change detection.
+    Uses getSearchRaw (2000 results/page) instead of getSearch (50/page) to minimize API calls. Returns bill_id, change_hash, title, state, relevance — everything needed for change detection.
 
     year: 1=current, 2=recent (last 2 years), 3=prior, 4=all
     """
@@ -180,8 +171,7 @@ def search_bills(query, year=2, page=1):
 def get_bill(bill_id, use_cache=False):
     """Get full bill details by LegiScan bill_id.
 
-    use_cache=True replays a cached response if available,
-    avoiding a query spend for data we already downloaded.
+    use_cache=True replays a cached response if available, avoiding a query spend for data we already downloaded.
     """
     return api_request("getBill", use_cache=use_cache, id=bill_id)
 
@@ -204,14 +194,26 @@ def detect_platform(title, description):
     platforms = []
     if "tiktok" in text:
         platforms.append("TikTok")
-    if "facebook" in text or "instagram" in text or "meta" in text:
+    if "bytedance" in text:
+        platforms.append("ByteDance")
+    if "facebook" in text or "instagram" in text or "meta platforms" in text:
         platforms.append("Meta")
-    if "snapchat" in text or "snap" in text:
+    if "snapchat" in text:
         platforms.append("Snapchat")
     if "youtube" in text:
         platforms.append("YouTube")
-    if "twitter" in text or " x " in text or "x.com" in text:
+    if "twitter" in text or "x.com" in text:
         platforms.append("X/Twitter")
+    if "wechat" in text:
+        platforms.append("WeChat")
+    if "reddit" in text:
+        platforms.append("Reddit")
+    if "telegram" in text:
+        platforms.append("Telegram")
+    if "discord" in text:
+        platforms.append("Discord")
+    if "whatsapp" in text:
+        platforms.append("WhatsApp")
     return ", ".join(platforms) if platforms else "General"
 
 
@@ -220,8 +222,7 @@ def detect_platform(title, description):
 def extract_data_points(bill_data, search_terms_matched):
     """Extract and flatten bill data from the getBill API response.
 
-    This is the equivalent of the tutor's extract_data_points() function,
-    but working with structured API JSON instead of HTML/BeautifulSoup.
+    This is the equivalent of the tutor's extract_data_points() function, but working with structured API JSON instead of HTML/BeautifulSoup.
     """
     bill = bill_data["bill"]
     fields = {}
