@@ -1,0 +1,36 @@
+name: Scrape LegiScan Bills
+
+on:
+  schedule:
+    # Run every 3 days at 6am UTC (2am ET / 11pm PT)
+    - cron: '0 6 */3 * *'
+  workflow_dispatch:  # Allow manual runs from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        env:
+          LEGISCAN_API_KEY: ${{ secrets.LEGISCAN_API_KEY }}
+        run: python scraper.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Scrape update $(date -u +%Y-%m-%d)"
+          git push
