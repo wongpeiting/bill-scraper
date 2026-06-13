@@ -2,8 +2,8 @@ name: Scrape LegiScan Bills
 
 on:
   schedule:
-    # Run every 3 days at 6am UTC (2am ET / 11pm PT)
-    - cron: '0 6 */3 * *'
+    # Run daily at 6am UTC (2am ET / 11pm PT)
+    - cron: '0 6 * * *'
   workflow_dispatch:  # Allow manual runs from GitHub UI
 
 permissions:
