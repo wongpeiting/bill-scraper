@@ -1,0 +1,1187 @@
+{
+  "date": "2026-06-13",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "CA AB1946",
+      "changes": {
+        "content_hash": {
+          "from": "6f080c50d3bad3949328621b6aa9f9f6",
+          "to": "a0680ce393c484d6b29520f4df353e55"
+        },
+        "history": {
+          "from": [
+            {
+              "date": "2026-02-13",
+              "action": "Read first time. To print.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-02-14",
+              "action": "From printer. May be heard in committee March 16.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-19",
+              "action": "Referred to Coms. on P. & C.P. and JUD.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-19",
+              "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on P. & C.P. Read second time and amended.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-23",
+              "action": "Re-referred to Com. on P. & C.P.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-06",
+              "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on P. & C.P. Read second time and amended.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-07",
+              "action": "Re-referred to Com. on P. & C.P.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-16",
+              "action": "Coauthors revised.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-16",
+              "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 14. Noes 1.) (April 16). Re-referred to Com. on JUD.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-23",
+              "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 12. Noes 0.) (April 21).",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-27",
+              "action": "Read second time and amended.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-28",
+              "action": "Re-referred to Com. on APPR.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-06",
+              "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-14",
+              "action": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 0.) (May 14).",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-18",
+              "action": "Read second time and amended. Ordered returned to second reading.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-19",
+              "action": "Read second time. Ordered to third reading.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-21",
+              "action": "Read third time and amended. Ordered to third reading. (Page 5242.)",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-26",
+              "action": "Read third time. Passed. Ordered to the Senate. (Ayes 75. Noes 0.)",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-27",
+              "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-03",
+              "action": "Referred to Coms. on P., D.T., & C.P. and JUD.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            }
+          ],
+          "to": [
+            {
+              "date": "2026-02-13",
+              "action": "Read first time. To print.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-02-14",
+              "action": "From printer. May be heard in committee March 16.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-19",
+              "action": "Referred to Coms. on P. & C.P. and JUD.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-19",
+              "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on P. & C.P. Read second time and amended.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-23",
+              "action": "Re-referred to Com. on P. & C.P.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-06",
+              "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on P. & C.P. Read second time and amended.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-07",
+              "action": "Re-referred to Com. on P. & C.P.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-16",
+              "action": "Coauthors revised.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-16",
+              "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 14. Noes 1.) (April 16). Re-referred to Com. on JUD.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-23",
+              "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 12. Noes 0.) (April 21).",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-27",
+              "action": "Read second time and amended.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-28",
+              "action": "Re-referred to Com. on APPR.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-06",
+              "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-14",
+              "action": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 0.) (May 14).",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-18",
+              "action": "Read second time and amended. Ordered returned to second reading.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-19",
+              "action": "Read second time. Ordered to third reading.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-21",
+              "action": "Read third time and amended. Ordered to third reading. (Page 5242.)",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-26",
+              "action": "Read third time. Passed. Ordered to the Senate. (Ayes 75. Noes 0.)",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-27",
+              "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-03",
+              "action": "Referred to Coms. on P., D.T., & C.P. and JUD.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-12",
+              "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 0
+            }
+          ]
+        },
+        "num_actions": {
+          "from": 20,
+          "to": 21
+        },
+        "last_action": {
+          "from": "Referred to Coms. on P., D.T., & C.P. and JUD.",
+          "to": "In committee: Set, first hearing. Hearing canceled at the request of author."
+        },
+        "last_action_date": {
+          "from": "2026-06-03",
+          "to": "2026-06-12"
+        },
+        "scraped_date": {
+          "from": "2026-06-11",
+          "to": "2026-06-13"
+        }
+      }
+    },
+    {
+      "bill_id": "NJ S3412",
+      "changes": {
+        "content_hash": {
+          "from": "bde65cccad07091a2394156d7ba987de",
+          "to": "8f14e7bf08a9f025dbf48d8c033179f4"
+        },
+        "title": {
+          "from": "Requires certain social media platforms to take certain actions concerning user mental health.",
+          "to": "Requires Social Media Research Center to research and make recommendations concerning addictive social media behaviors."
+        },
+        "description": {
+          "from": "Requires certain social media platforms to take certain actions concerning user mental health.",
+          "to": "Requires Social Media Research Center to research and make recommendations concerning addictive social media behaviors."
+        },
+        "texts": {
+          "from": [
+            {
+              "doc_id": 3355913,
+              "date": "2026-02-10",
+              "type": "Introduced",
+              "type_id": 1,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/NJ/text/S3412/id/3355913",
+              "state_link": "https://pub.njleg.gov/Bills/2026/S3500/3412_I1.HTM",
+              "text_size": 25539,
+              "text_hash": "9f0aa7c497906060a8b43637e17eb439",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://pub.njleg.gov/Bills/2026/S3500/3412_I1.PDF",
+              "alt_text_size": 189986,
+              "alt_text_hash": "0840b7f6e2ed0458c7c56e8bf17a1e11"
+            }
+          ],
+          "to": [
+            {
+              "doc_id": 3355913,
+              "date": "2026-02-10",
+              "type": "Introduced",
+              "type_id": 1,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/NJ/text/S3412/id/3355913",
+              "state_link": "https://pub.njleg.gov/Bills/2026/S3500/3412_I1.HTM",
+              "text_size": 25539,
+              "text_hash": "9f0aa7c497906060a8b43637e17eb439",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://pub.njleg.gov/Bills/2026/S3500/3412_I1.PDF",
+              "alt_text_size": 189986,
+              "alt_text_hash": "0840b7f6e2ed0458c7c56e8bf17a1e11"
+            },
+            {
+              "doc_id": 3448167,
+              "date": "2026-06-12",
+              "type": "Comm Sub",
+              "type_id": 2,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/NJ/text/S3412/id/3448167",
+              "state_link": "https://pub.njleg.gov/Bills/2026/S3500/3412_U1.HTM",
+              "text_size": 24081,
+              "text_hash": "cd5df3195cdce8c7cbe98348d512428b",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://pub.njleg.gov/Bills/2026/S3500/3412_U1.PDF",
+              "alt_text_size": 212853,
+              "alt_text_hash": "81273d4742bf36b249c15e9b2e57a216"
+            }
+          ]
+        },
+        "num_text_versions": {
+          "from": 1,
+          "to": 2
+        },
+        "latest_text_url": {
+          "from": "https://legiscan.com/NJ/text/S3412/id/3355913",
+          "to": "https://legiscan.com/NJ/text/S3412/id/3448167"
+        },
+        "latest_text_state_link": {
+          "from": "https://pub.njleg.gov/Bills/2026/S3500/3412_I1.HTM",
+          "to": "https://pub.njleg.gov/Bills/2026/S3500/3412_U1.HTM"
+        },
+        "latest_text_date": {
+          "from": "2026-02-10",
+          "to": "2026-06-12"
+        },
+        "latest_text_type": {
+          "from": "Introduced",
+          "to": "Comm Sub"
+        },
+        "topic_categories": {
+          "from": [
+            "Mental health"
+          ],
+          "to": [
+            "Algorithm transparency"
+          ]
+        },
+        "search_terms_matched": {
+          "from": [
+            "\"social media\""
+          ],
+          "to": [
+            "\"social media\"",
+            "\"age verification\"",
+            "\"youth online\""
+          ]
+        },
+        "scraped_date": {
+          "from": "2026-06-11",
+          "to": "2026-06-13"
+        }
+      }
+    },
+    {
+      "bill_id": "AZ HB2991",
+      "changes": {
+        "content_hash": {
+          "from": "4509e5e39516d5c45310e4564cad8ff0",
+          "to": "d532ce1ea4ada00c3afff42390529bb4"
+        },
+        "texts": {
+          "from": [
+            {
+              "doc_id": 3343937,
+              "date": "2026-02-02",
+              "type": "Introduced",
+              "type_id": 1,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/AZ/text/HB2991/id/3343937",
+              "state_link": "https://www.azleg.gov/legtext/57leg/2r/bills/hb2991p.htm",
+              "text_size": 19088,
+              "text_hash": "60a85870a4abdea3a05f6eba8a8971be",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/535939",
+              "alt_text_size": 28126,
+              "alt_text_hash": "11fc6914c4d8621e4b9de5b8ef240f5d"
+            },
+            {
+              "doc_id": 3387419,
+              "date": "2026-03-04",
+              "type": "Engrossed",
+              "type_id": 4,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/AZ/text/HB2991/id/3387419",
+              "state_link": "https://www.azleg.gov/legtext/57leg/2r/bills/hb2991h.htm",
+              "text_size": 19180,
+              "text_hash": "ee652a995fab23fe079c519ed5bfc301",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/539836",
+              "alt_text_size": 27985,
+              "alt_text_hash": "98694f85dede2a47d43ab42dce6a8d17"
+            }
+          ],
+          "to": [
+            {
+              "doc_id": 3343937,
+              "date": "2026-02-02",
+              "type": "Introduced",
+              "type_id": 1,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/AZ/text/HB2991/id/3343937",
+              "state_link": "https://www.azleg.gov/legtext/57leg/2r/bills/hb2991p.htm",
+              "text_size": 19088,
+              "text_hash": "60a85870a4abdea3a05f6eba8a8971be",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/535939",
+              "alt_text_size": 28126,
+              "alt_text_hash": "11fc6914c4d8621e4b9de5b8ef240f5d"
+            },
+            {
+              "doc_id": 3387419,
+              "date": "2026-03-04",
+              "type": "Engrossed",
+              "type_id": 4,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/AZ/text/HB2991/id/3387419",
+              "state_link": "https://www.azleg.gov/legtext/57leg/2r/bills/hb2991h.htm",
+              "text_size": 19180,
+              "text_hash": "ee652a995fab23fe079c519ed5bfc301",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/539836",
+              "alt_text_size": 27985,
+              "alt_text_hash": "98694f85dede2a47d43ab42dce6a8d17"
+            },
+            {
+              "doc_id": 3448116,
+              "date": "2026-06-10",
+              "type": "Engrossed",
+              "type_id": 4,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/AZ/text/HB2991/id/3448116",
+              "state_link": "https://www.azleg.gov/legtext/57leg/2r/bills/hb2991s.htm",
+              "text_size": 31564,
+              "text_hash": "814d56b2b2f3eab3b3272a1eaa76bfec",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/543654",
+              "alt_text_size": 35583,
+              "alt_text_hash": "1b358c4566388951bcab11e8a548a739"
+            }
+          ]
+        },
+        "num_text_versions": {
+          "from": 2,
+          "to": 3
+        },
+        "latest_text_url": {
+          "from": "https://legiscan.com/AZ/text/HB2991/id/3387419",
+          "to": "https://legiscan.com/AZ/text/HB2991/id/3448116"
+        },
+        "latest_text_state_link": {
+          "from": "https://www.azleg.gov/legtext/57leg/2r/bills/hb2991h.htm",
+          "to": "https://www.azleg.gov/legtext/57leg/2r/bills/hb2991s.htm"
+        },
+        "latest_text_date": {
+          "from": "2026-03-04",
+          "to": "2026-06-10"
+        },
+        "amendments": {
+          "from": [
+            {
+              "amendment_id": 274490,
+              "adopted": 0,
+              "chamber": "H",
+              "chamber_id": 15,
+              "date": "2026-02-13",
+              "title": "HOUSE - Commerce - Strike Everything",
+              "description": "HOUSE - Commerce - Strike Everything",
+              "mime": "application/pdf",
+              "mime_id": 2,
+              "url": "https://legiscan.com/AZ/amendment/HB2991/id/274490",
+              "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/537198",
+              "amendment_size": 25539,
+              "amendment_hash": "9e31001643005534cdabf7c417357c7d",
+              "alt_amendment": 0,
+              "alt_mime": "",
+              "alt_mime_id": 0,
+              "alt_state_link": "",
+              "alt_amendment_size": 0,
+              "alt_amendment_hash": ""
+            },
+            {
+              "amendment_id": 289193,
+              "adopted": 0,
+              "chamber": "S",
+              "chamber_id": 16,
+              "date": "2026-03-23",
+              "title": "SENATE - Regulatory Affairs and Government Efficiency - Strike Everything",
+              "description": "SENATE - Regulatory Affairs and Government Efficiency - Strike Everything",
+              "mime": "application/pdf",
+              "mime_id": 2,
+              "url": "https://legiscan.com/AZ/amendment/HB2991/id/289193",
+              "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/541156",
+              "amendment_size": 38842,
+              "amendment_hash": "b4a5915b514bfa8a5601af596847ced7",
+              "alt_amendment": 0,
+              "alt_mime": "",
+              "alt_mime_id": 0,
+              "alt_state_link": "",
+              "alt_amendment_size": 0,
+              "alt_amendment_hash": ""
+            },
+            {
+              "amendment_id": 290842,
+              "adopted": 1,
+              "chamber": "S",
+              "chamber_id": 16,
+              "date": "2026-03-27",
+              "title": "SENATE - Regulatory Affairs and Government Efficiency - Strike Everything",
+              "description": "SENATE - Regulatory Affairs and Government Efficiency - Strike Everything",
+              "mime": "application/pdf",
+              "mime_id": 2,
+              "url": "https://legiscan.com/AZ/amendment/HB2991/id/290842",
+              "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/541662",
+              "amendment_size": 38860,
+              "amendment_hash": "46b4fe4ddc20d24ff3b35e042c94a30a",
+              "alt_amendment": 0,
+              "alt_mime": "",
+              "alt_mime_id": 0,
+              "alt_state_link": "",
+              "alt_amendment_size": 0,
+              "alt_amendment_hash": ""
+            }
+          ],
+          "to": [
+            {
+              "amendment_id": 274490,
+              "adopted": 0,
+              "chamber": "H",
+              "chamber_id": 15,
+              "date": "2026-02-13",
+              "title": "HOUSE - Commerce - Strike Everything",
+              "description": "HOUSE - Commerce - Strike Everything",
+              "mime": "application/pdf",
+              "mime_id": 2,
+              "url": "https://legiscan.com/AZ/amendment/HB2991/id/274490",
+              "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/537198",
+              "amendment_size": 25539,
+              "amendment_hash": "9e31001643005534cdabf7c417357c7d",
+              "alt_amendment": 0,
+              "alt_mime": "",
+              "alt_mime_id": 0,
+              "alt_state_link": "",
+              "alt_amendment_size": 0,
+              "alt_amendment_hash": ""
+            },
+            {
+              "amendment_id": 289193,
+              "adopted": 0,
+              "chamber": "S",
+              "chamber_id": 16,
+              "date": "2026-03-23",
+              "title": "SENATE - Regulatory Affairs and Government Efficiency - Strike Everything",
+              "description": "SENATE - Regulatory Affairs and Government Efficiency - Strike Everything",
+              "mime": "application/pdf",
+              "mime_id": 2,
+              "url": "https://legiscan.com/AZ/amendment/HB2991/id/289193",
+              "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/541156",
+              "amendment_size": 38842,
+              "amendment_hash": "b4a5915b514bfa8a5601af596847ced7",
+              "alt_amendment": 0,
+              "alt_mime": "",
+              "alt_mime_id": 0,
+              "alt_state_link": "",
+              "alt_amendment_size": 0,
+              "alt_amendment_hash": ""
+            },
+            {
+              "amendment_id": 290842,
+              "adopted": 1,
+              "chamber": "S",
+              "chamber_id": 16,
+              "date": "2026-03-27",
+              "title": "SENATE - Regulatory Affairs and Government Efficiency - Strike Everything",
+              "description": "SENATE - Regulatory Affairs and Government Efficiency - Strike Everything",
+              "mime": "application/pdf",
+              "mime_id": 2,
+              "url": "https://legiscan.com/AZ/amendment/HB2991/id/290842",
+              "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/541662",
+              "amendment_size": 38860,
+              "amendment_hash": "46b4fe4ddc20d24ff3b35e042c94a30a",
+              "alt_amendment": 0,
+              "alt_mime": "",
+              "alt_mime_id": 0,
+              "alt_state_link": "",
+              "alt_amendment_size": 0,
+              "alt_amendment_hash": ""
+            },
+            {
+              "amendment_id": 300120,
+              "adopted": 1,
+              "chamber": "S",
+              "chamber_id": 16,
+              "date": "2026-06-10",
+              "title": "SENATE - Bolick flr amend (ref RAGE) adopted",
+              "description": "SENATE - Bolick flr amend (ref RAGE) adopted",
+              "mime": "application/pdf",
+              "mime_id": 2,
+              "url": "https://legiscan.com/AZ/amendment/HB2991/id/300120",
+              "state_link": "https://apps.azleg.gov/BillStatus/GetDocumentPdf/543630",
+              "amendment_size": 131343,
+              "amendment_hash": "6f645630fda376a2a19bf56dc6abb792",
+              "alt_amendment": 0,
+              "alt_mime": "",
+              "alt_mime_id": 0,
+              "alt_state_link": "",
+              "alt_amendment_size": 0,
+              "alt_amendment_hash": ""
+            },
+            {
+              "amendment_id": 300121,
+              "adopted": 0,
+              "chamber": "S",
+              "chamber_id": 16,
+              "date": "0000-00-00",
+              "title": "Senate COW 06/10 - Bolick flr amend (ref RAGE)",
+              "description": "Senate COW 06/10 - Bolick flr amend (ref RAGE)",
+              "mime": "application/pdf",
+              "mime_id": 2,
+              "url": "https://legiscan.com/AZ/amendment/HB2991/id/300121",
+              "state_link": "https://apps.azleg.gov/BillStatus/GetCalendarBillAmendmentPdf/?calendarBillId=822542&itemId=1",
+              "amendment_size": 131343,
+              "amendment_hash": "6f645630fda376a2a19bf56dc6abb792",
+              "alt_amendment": 0,
+              "alt_mime": "",
+              "alt_mime_id": 0,
+              "alt_state_link": "",
+              "alt_amendment_size": 0,
+              "alt_amendment_hash": ""
+            }
+          ]
+        },
+        "num_amendments": {
+          "from": 3,
+          "to": 5
+        },
+        "search_terms_matched": {
+          "from": [
+            "\"social media\"",
+            "\"age verification\""
+          ],
+          "to": [
+            "\"social media\"",
+            "\"recommendation system\"",
+            "\"age verification\"",
+            "\"online safety\""
+          ]
+        },
+        "scraped_date": {
+          "from": "2026-06-11",
+          "to": "2026-06-13"
+        }
+      }
+    },
+    {
+      "bill_id": "US SR761",
+      "changes": {
+        "content_hash": {
+          "from": "098daf4a3d222e876160f7821aedde6b",
+          "to": "a0c7692f023865f83f75d1bf82789a8b"
+        },
+        "texts": {
+          "from": [],
+          "to": [
+            {
+              "doc_id": 3448283,
+              "date": "2026-06-13",
+              "type": "Introduced",
+              "type_id": 1,
+              "mime": "application/pdf",
+              "mime_id": 2,
+              "url": "https://legiscan.com/US/text/SR761/id/3448283",
+              "state_link": "https://www.congress.gov/119/bills/sres761/BILLS-119sres761is.pdf",
+              "text_size": 246002,
+              "text_hash": "55735b7280ca13f7cb7e3fc52f592ef5",
+              "alt_bill_text": 0,
+              "alt_mime": "",
+              "alt_mime_id": 0,
+              "alt_state_link": "",
+              "alt_text_size": 0,
+              "alt_text_hash": ""
+            }
+          ]
+        },
+        "num_text_versions": {
+          "from": 0,
+          "to": 1
+        },
+        "latest_text_url": {
+          "from": "",
+          "to": "https://legiscan.com/US/text/SR761/id/3448283"
+        },
+        "latest_text_state_link": {
+          "from": "",
+          "to": "https://www.congress.gov/119/bills/sres761/BILLS-119sres761is.pdf"
+        },
+        "latest_text_date": {
+          "from": "",
+          "to": "2026-06-13"
+        },
+        "latest_text_type": {
+          "from": "",
+          "to": "Introduced"
+        },
+        "search_terms_matched": {
+          "from": [
+            "\"social media\""
+          ],
+          "to": [
+            "\"social media\"",
+            "\"online safety\""
+          ]
+        },
+        "scraped_date": {
+          "from": "2026-06-11",
+          "to": "2026-06-13"
+        }
+      }
+    },
+    {
+      "bill_id": "NJ S3413",
+      "changes": {
+        "content_hash": {
+          "from": "6dc7cc921e01bcd641f50e41d36ee587",
+          "to": "f6dfc896428d5e274ebfd0756ec8ae16"
+        },
+        "title": {
+          "from": "\"New Jersey Kids Code Act\", adopts Age-Appropriate Design Code for New Jersey and requires certain online services to implement certain measures concerning minors' use of online service.",
+          "to": "\"New Jersey Kids Code Act\"; adopts New Jersey Age-Appropriate Design Code and requires certain online service providers to implement certain measures concerning minors' use of online service."
+        },
+        "description": {
+          "from": "\"New Jersey Kids Code Act\", adopts Age-Appropriate Design Code for New Jersey and requires certain online services to implement certain measures concerning minors' use of online service.",
+          "to": "\"New Jersey Kids Code Act\"; adopts New Jersey Age-Appropriate Design Code and requires certain online service providers to implement certain measures concerning minors' use of online service."
+        },
+        "texts": {
+          "from": [
+            {
+              "doc_id": 3355910,
+              "date": "2026-02-10",
+              "type": "Introduced",
+              "type_id": 1,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/NJ/text/S3413/id/3355910",
+              "state_link": "https://pub.njleg.gov/Bills/2026/S3500/3413_I1.HTM",
+              "text_size": 70623,
+              "text_hash": "da52c4ac916e4670805e5706d83601f4",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://pub.njleg.gov/Bills/2026/S3500/3413_I1.PDF",
+              "alt_text_size": 270567,
+              "alt_text_hash": "5f839ba1a1338dc26467877bbe6aea1b"
+            }
+          ],
+          "to": [
+            {
+              "doc_id": 3355910,
+              "date": "2026-02-10",
+              "type": "Introduced",
+              "type_id": 1,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/NJ/text/S3413/id/3355910",
+              "state_link": "https://pub.njleg.gov/Bills/2026/S3500/3413_I1.HTM",
+              "text_size": 70623,
+              "text_hash": "da52c4ac916e4670805e5706d83601f4",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://pub.njleg.gov/Bills/2026/S3500/3413_I1.PDF",
+              "alt_text_size": 270567,
+              "alt_text_hash": "5f839ba1a1338dc26467877bbe6aea1b"
+            },
+            {
+              "doc_id": 3448234,
+              "date": "2026-06-12",
+              "type": "Comm Sub",
+              "type_id": 2,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/NJ/text/S3413/id/3448234",
+              "state_link": "https://pub.njleg.gov/Bills/2026/S3500/3413_U1.HTM",
+              "text_size": 47340,
+              "text_hash": "cc84c1f4315c41d9e0d8eb70f0626126",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://pub.njleg.gov/Bills/2026/S3500/3413_U1.PDF",
+              "alt_text_size": 245886,
+              "alt_text_hash": "b6663121855bbfbba3607dfc927f4de8"
+            }
+          ]
+        },
+        "num_text_versions": {
+          "from": 1,
+          "to": 2
+        },
+        "latest_text_url": {
+          "from": "https://legiscan.com/NJ/text/S3413/id/3355910",
+          "to": "https://legiscan.com/NJ/text/S3413/id/3448234"
+        },
+        "latest_text_state_link": {
+          "from": "https://pub.njleg.gov/Bills/2026/S3500/3413_I1.HTM",
+          "to": "https://pub.njleg.gov/Bills/2026/S3500/3413_U1.HTM"
+        },
+        "latest_text_date": {
+          "from": "2026-02-10",
+          "to": "2026-06-12"
+        },
+        "latest_text_type": {
+          "from": "Introduced",
+          "to": "Comm Sub"
+        },
+        "search_terms_matched": {
+          "from": [
+            "\"social media\"",
+            "\"age verification\""
+          ],
+          "to": [
+            "\"social media\"",
+            "\"recommendation system\"",
+            "\"age verification\"",
+            "\"youth online\""
+          ]
+        },
+        "scraped_date": {
+          "from": "2026-06-11",
+          "to": "2026-06-13"
+        }
+      }
+    },
+    {
+      "bill_id": "NJ A4015",
+      "changes": {
+        "content_hash": {
+          "from": "c2881e57e22497dc96c92be9a0310af2",
+          "to": "89b41594cde61694e3aae4ceb01d003b"
+        },
+        "texts": {
+          "from": [
+            {
+              "doc_id": 3355880,
+              "date": "2026-02-10",
+              "type": "Introduced",
+              "type_id": 1,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/NJ/text/A4015/id/3355880",
+              "state_link": "https://pub.njleg.gov/Bills/2026/A4500/4015_I1.HTM",
+              "text_size": 71159,
+              "text_hash": "63c605c9156b41bd79ee33d541c5a3b9",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://pub.njleg.gov/Bills/2026/A4500/4015_I1.PDF",
+              "alt_text_size": 275029,
+              "alt_text_hash": "90134dd7755dd22320fab0f9ee2b4b38"
+            },
+            {
+              "doc_id": 3447042,
+              "date": "2026-06-09",
+              "type": "Comm Sub",
+              "type_id": 2,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/NJ/text/A4015/id/3447042",
+              "state_link": "https://pub.njleg.gov/Bills/2026/A4500/4015_U1.HTM",
+              "text_size": 47499,
+              "text_hash": "4aeaeb7d59b8a848fbc9780523c237f4",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://pub.njleg.gov/Bills/2026/A4500/4015_U1.PDF",
+              "alt_text_size": 253058,
+              "alt_text_hash": "e16fa179eefbf91d29b47757b9295f98"
+            }
+          ],
+          "to": [
+            {
+              "doc_id": 3355880,
+              "date": "2026-02-10",
+              "type": "Introduced",
+              "type_id": 1,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/NJ/text/A4015/id/3355880",
+              "state_link": "https://pub.njleg.gov/Bills/2026/A4500/4015_I1.HTM",
+              "text_size": 71159,
+              "text_hash": "63c605c9156b41bd79ee33d541c5a3b9",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://pub.njleg.gov/Bills/2026/A4500/4015_I1.PDF",
+              "alt_text_size": 275029,
+              "alt_text_hash": "90134dd7755dd22320fab0f9ee2b4b38"
+            },
+            {
+              "doc_id": 3447042,
+              "date": "2026-06-09",
+              "type": "Comm Sub",
+              "type_id": 2,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/NJ/text/A4015/id/3447042",
+              "state_link": "https://pub.njleg.gov/Bills/2026/A4500/4015_U1.HTM",
+              "text_size": 47499,
+              "text_hash": "4aeaeb7d59b8a848fbc9780523c237f4",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://pub.njleg.gov/Bills/2026/A4500/4015_U1.PDF",
+              "alt_text_size": 253058,
+              "alt_text_hash": "e16fa179eefbf91d29b47757b9295f98"
+            },
+            {
+              "doc_id": 3448212,
+              "date": "2026-06-12",
+              "type": "Amended",
+              "type_id": 3,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/NJ/text/A4015/id/3448212",
+              "state_link": "https://pub.njleg.gov/Bills/2026/A4500/4015_R1.HTM",
+              "text_size": 48384,
+              "text_hash": "9a5b8f05e5f1e1746ad5c7cbf881e282",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://pub.njleg.gov/Bills/2026/A4500/4015_R1.PDF",
+              "alt_text_size": 264480,
+              "alt_text_hash": "e9db53ae0afde6626a34ec332bacef05"
+            }
+          ]
+        },
+        "num_text_versions": {
+          "from": 2,
+          "to": 3
+        },
+        "latest_text_url": {
+          "from": "https://legiscan.com/NJ/text/A4015/id/3447042",
+          "to": "https://legiscan.com/NJ/text/A4015/id/3448212"
+        },
+        "latest_text_state_link": {
+          "from": "https://pub.njleg.gov/Bills/2026/A4500/4015_U1.HTM",
+          "to": "https://pub.njleg.gov/Bills/2026/A4500/4015_R1.HTM"
+        },
+        "latest_text_date": {
+          "from": "2026-06-09",
+          "to": "2026-06-12"
+        },
+        "latest_text_type": {
+          "from": "Comm Sub",
+          "to": "Amended"
+        },
+        "scraped_date": {
+          "from": "2026-06-11",
+          "to": "2026-06-13"
+        }
+      }
+    },
+    {
+      "bill_id": "MA S2516",
+      "changes": {
+        "content_hash": {
+          "from": "128380da3e76e3b3b5c75bd326fa7fc6",
+          "to": "f6944708cc0841a8f55ea733f3d51320"
+        },
+        "history": {
+          "from": [
+            {
+              "date": "2025-05-12",
+              "action": "Reported from the committee on Advanced Information Technology, the Internet and Cybersecurity",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            },
+            {
+              "date": "2025-05-12",
+              "action": "New draft of S29, S33 and S45",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            },
+            {
+              "date": "2025-05-12",
+              "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 1
+            },
+            {
+              "date": "2025-09-18",
+              "action": "Committee recommended ought to pass with an amendment, substituting a new draft, see S2608",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 1
+            },
+            {
+              "date": "2025-09-18",
+              "action": "Order relative to subject matter adopted",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            },
+            {
+              "date": "2025-09-25",
+              "action": "Read second",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            },
+            {
+              "date": "2025-09-25",
+              "action": "New draft substituted, se S2608",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            }
+          ],
+          "to": [
+            {
+              "date": "2025-05-12",
+              "action": "Reported from the committee on Advanced Information Technology, the Internet and Cybersecurity",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            },
+            {
+              "date": "2025-05-12",
+              "action": "New draft of S29, S33 and S45",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            },
+            {
+              "date": "2025-05-12",
+              "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 1
+            },
+            {
+              "date": "2025-09-18",
+              "action": "Committee recommended ought to pass with an amendment, substituting a new draft, see S2608",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 1
+            },
+            {
+              "date": "2025-09-18",
+              "action": "Order relative to subject matter adopted",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            },
+            {
+              "date": "2025-09-25",
+              "action": "Read second",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            },
+            {
+              "date": "2025-09-25",
+              "action": "New draft substituted, see S2608",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            }
+          ]
+        },
+        "last_action": {
+          "from": "New draft substituted, se S2608",
+          "to": "New draft substituted, see S2608"
+        },
+        "scraped_date": {
+          "from": "2026-06-11",
+          "to": "2026-06-13"
+        }
+      }
+    }
+  ]
+}
