@@ -1,0 +1,565 @@
+{
+  "date": "2026-06-14",
+  "errors": [
+    {
+      "bill_id": "SEARCH:TikTok",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:ByteDance",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"social media\"",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"social networking\"",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"online platform\"",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"recommendation system\"",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"age verification\"",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"parental consent\"",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"children online safety\"",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"youth online\"",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"children online\"",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"digital addiction\"",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"screen time\"",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"content moderation\"",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"online safety\"",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"online harms\"",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:deepfake",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"artificial intelligence\" AND \"social media\"",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"influencer\" AND \"social media\"",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"algorithm\" AND \"social media\"",
+      "url": "",
+      "error_type": "Exception",
+      "message": "LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]",
+      "traceback": [
+        "  File \"/Users/wongpeiting/Desktop/CU/python-work/bill-scraper/scraper.py\", line 187, in api_request",
+        "    raise Exception(f\"LegiScan API error: {msg}\")",
+        "Exception: LegiScan API error: API key has exceeded maximum query count for June 2026 (30,004 of 30,000); limit resets July 1st [Creating additional keys to bypass this limit will result in suspended access]"
+      ]
+    },
+    {
+      "bill_id": "CT HB05037",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='www.cga.ct.gov', port=443): Max retries exceeded with url: /2026/TOB/H/PDF/2026HB-05037-R01-HB.PDF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='www.cga.ct.gov', port=443): Max retries exceeded with url: /2026/TOB/H/PDF/2026HB-05037-R01-HB.PDF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "CT HB05149",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='www.cga.ct.gov', port=443): Max retries exceeded with url: /2026/TOB/H/PDF/2026HB-05149-R01-HB.PDF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='www.cga.ct.gov', port=443): Max retries exceeded with url: /2026/TOB/H/PDF/2026HB-05149-R01-HB.PDF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "CT HB05229",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='www.cga.ct.gov', port=443): Max retries exceeded with url: /2026/ACT/PA/PDF/2026PA-00053-R00HB-05229-PA.PDF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='www.cga.ct.gov', port=443): Max retries exceeded with url: /2026/ACT/PA/PDF/2026PA-00053-R00HB-05229-PA.PDF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "CT HB05350",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='www.cga.ct.gov', port=443): Max retries exceeded with url: /2026/ACT/PA/PDF/2026PA-00008-R00HB-05350-PA.PDF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='www.cga.ct.gov', port=443): Max retries exceeded with url: /2026/ACT/PA/PDF/2026PA-00008-R00HB-05350-PA.PDF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "CT SB00005",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='www.cga.ct.gov', port=443): Max retries exceeded with url: /2026/ACT/PA/PDF/2026PA-00015-R00SB-00005-PA.PDF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='www.cga.ct.gov', port=443): Max retries exceeded with url: /2026/ACT/PA/PDF/2026PA-00015-R00SB-00005-PA.PDF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "CT SB00344",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='www.cga.ct.gov', port=443): Max retries exceeded with url: /2026/TOB/S/PDF/2026SB-00344-R01-SB.PDF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='www.cga.ct.gov', port=443): Max retries exceeded with url: /2026/TOB/S/PDF/2026SB-00344-R01-SB.PDF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "CT SB00490",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='www.cga.ct.gov', port=443): Max retries exceeded with url: /2026/TOB/S/PDF/2026SB-00490-R01-SB.PDF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='www.cga.ct.gov', port=443): Max retries exceeded with url: /2026/TOB/S/PDF/2026SB-00490-R01-SB.PDF (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS HB1051",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1000-1099/HB1051IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1000-1099/HB1051IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS HB1224",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1200-1299/HB1224SG.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1200-1299/HB1224SG.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS HB1447",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1400-1499/HB1447IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1400-1499/HB1447IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS HB1527",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1500-1599/HB1527IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1500-1599/HB1527IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS HB1570",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1500-1599/HB1570IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1500-1599/HB1570IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS HB1576",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1500-1599/HB1576IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1500-1599/HB1576IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS HB1578",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1500-1599/HB1578PS.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1500-1599/HB1578PS.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS HB1581",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1500-1599/HB1581PS.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1500-1599/HB1581PS.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS HB1618",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1600-1699/HB1618IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1600-1699/HB1618IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS HB1619",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1600-1699/HB1619IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1600-1699/HB1619IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS HB1813",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1800-1899/HB1813IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/1800-1899/HB1813IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS HB4074",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/4000-4099/HB4074PS.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/4000-4099/HB4074PS.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS HB478",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/0400-0499/HB0478IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/0400-0499/HB0478IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS HB708",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/0700-0799/HB0708IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/0700-0799/HB0708IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS HB984",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/0900-0999/HB0984IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/HB/0900-0999/HB0984IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS SB2050",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2001-2099/SB2050PS.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2001-2099/SB2050PS.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS SB2249",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2200-2299/SB2249IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2200-2299/SB2249IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS SB2354",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2300-2399/SB2354IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2300-2399/SB2354IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS SB2358",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2300-2399/SB2358IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2300-2399/SB2358IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS SB2388",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2300-2399/SB2388IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2300-2399/SB2388IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS SB2415",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2400-2499/SB2415SG.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2400-2499/SB2415SG.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS SB2572",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2500-2599/SB2572IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2500-2599/SB2572IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS SB2693",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2600-2699/SB2693IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2600-2699/SB2693IN.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS SB2726",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2700-2799/SB2726SG.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2700-2799/SB2726SG.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "MS SB2801",
+      "error_type": "TextExtraction:SSLError",
+      "message": "HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2800-2899/SB2801PS.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/adapters.py\", line 675, in send",
+        "    raise SSLError(e, request=request)",
+        "requests.exceptions.SSLError: HTTPSConnectionPool(host='billstatus.ls.state.ms.us', port=443): Max retries exceeded with url: /documents/2026/html/SB/2800-2899/SB2801PS.htm (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')))"
+      ]
+    },
+    {
+      "bill_id": "SC H4591",
+      "error_type": "TextExtraction:HTTPError",
+      "message": "404 Client Error: Not Found for url: https://www.scstatehouse.gov/sess126_2025-2026/prever/4591_20260514A.htm",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/models.py\", line 1026, in raise_for_status",
+        "    raise HTTPError(http_error_msg, response=self)",
+        "requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://www.scstatehouse.gov/sess126_2025-2026/prever/4591_20260514A.htm"
+      ]
+    },
+    {
+      "bill_id": "WI AB415",
+      "error_type": "TextExtraction:HTTPError",
+      "message": "404 Client Error: Not Found for url: https://docs.legis.wisconsin.gov/2025/proposals/ab415.pdf",
+      "traceback": [
+        "  File \"/Users/wongpeiting/.pyenv/versions/3.13.9/lib/python3.13/site-packages/requests/models.py\", line 1026, in raise_for_status",
+        "    raise HTTPError(http_error_msg, response=self)",
+        "requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://docs.legis.wisconsin.gov/2025/proposals/ab415.pdf"
+      ]
+    }
+  ]
+}

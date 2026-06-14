@@ -18,11 +18,14 @@ Follows Bill Scraper Architecture:
 import os
 import json
 import hashlib
+import base64
 import datetime
 import traceback
+import tempfile
 import requests
 import time
 from dotenv import load_dotenv
+from bs4 import BeautifulSoup
 
 
 ######################## CONFIGURATION ########################
@@ -207,6 +210,43 @@ def get_bill(bill_id, use_cache=False):
     use_cache=True replays a cached response if available, avoiding a query spend for data we already downloaded.
     """
     return api_request("getBill", use_cache=use_cache, id=bill_id)
+
+
+def get_bill_text(doc_id):
+    """Fetch bill text via getBillText API. Always cached (texts are static)."""
+    return api_request("getBillText", use_cache=True, id=doc_id)
+
+
+def extract_text_from_document(text_response):
+    """Extract plain text from a getBillText response.
+
+    Handles both PDF (via NaturalPDF) and HTML (via BeautifulSoup).
+    Returns extracted text string.
+    """
+    text_data = text_response["text"]
+    doc_bytes = base64.b64decode(text_data["doc"])
+    mime = text_data.get("mime", "")
+
+    if "html" in mime:
+        soup = BeautifulSoup(doc_bytes, "html.parser")
+        return soup.get_text(separator="\n", strip=True)
+
+    elif "pdf" in mime:
+        from natural_pdf import PDF
+        with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as tmp:
+            tmp.write(doc_bytes)
+            tmp_path = tmp.name
+        try:
+            pdf = PDF(tmp_path)
+            pages_text = []
+            for page in pdf.pages:
+                pages_text.append(page.extract_text() or "")
+            return "\n\n".join(pages_text)
+        finally:
+            os.unlink(tmp_path)
+
+    else:
+        return doc_bytes.decode("utf-8", errors="replace")
 
 
 ######################## CLASSIFICATION FUNCTIONS ########################
@@ -639,6 +679,82 @@ def run_scraper():
     print(f"  Errors:          {error_count}")
     print(f"  Total in dataset: {len(todays_bills)}")
     print(f"  Total API calls: {api_calls}")
+
+    ######### STEP 4b #########
+    # Fetch bill text for any bill that doesn't have it yet
+    # Uses getBillText API (cached — bill texts are static, never re-downloaded)
+
+    bills_needing_text = [b for b in todays_bills if not b.get("bill_text") and b.get("texts")]
+    if bills_needing_text:
+        print(f"\n--- Fetching bill text for {len(bills_needing_text)} bills ---")
+        text_count = 0
+        text_errors = 0
+        api_exhausted = False
+
+        for i, bill in enumerate(bills_needing_text):
+            try:
+                latest_text = bill["texts"][-1]
+                extracted = None
+
+                # Try 1: LegiScan API (getBillText, cached locally)
+                if not api_exhausted:
+                    try:
+                        time.sleep(0.3)
+                        text_response = get_bill_text(latest_text["doc_id"])
+                        api_calls += 1
+                        extracted = extract_text_from_document(text_response)
+                    except Exception as api_err:
+                        if "exceeded maximum query count" in str(api_err):
+                            print("  API quota exhausted — switching to direct state links")
+                            api_exhausted = True
+                        else:
+                            raise
+
+                # Try 2: Direct download from state legislature website
+                if extracted is None:
+                    state_link = bill.get("latest_text_state_link", "")
+                    if state_link:
+                        time.sleep(0.5)
+                        headers = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
+                        resp = requests.get(state_link, headers=headers, timeout=30)
+                        resp.raise_for_status()
+                        content_type = resp.headers.get("Content-Type", "")
+                        if "pdf" in content_type or state_link.lower().endswith(".pdf"):
+                            from natural_pdf import PDF
+                            with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as tmp:
+                                tmp.write(resp.content)
+                                tmp_path = tmp.name
+                            try:
+                                pdf = PDF(tmp_path)
+                                extracted = "\n\n".join(p.extract_text() or "" for p in pdf.pages)
+                            finally:
+                                os.unlink(tmp_path)
+                        else:
+                            soup = BeautifulSoup(resp.content, "html.parser")
+                            extracted = soup.get_text(separator="\n", strip=True)
+
+                if extracted:
+                    bill["bill_text"] = extracted
+                    text_count += 1
+                else:
+                    bill["bill_text"] = ""
+
+                if text_count % 50 == 0 and text_count > 0:
+                    save_progress(todays_bills)
+                    print(f"  Text extracted: {text_count}/{len(bills_needing_text)} — saved to disk")
+
+            except Exception as e:
+                text_errors += 1
+                bill["bill_text"] = ""
+                error_log["errors"].append({
+                    "bill_id": bill.get("bill_id", ""),
+                    "error_type": f"TextExtraction:{type(e).__name__}",
+                    "message": str(e),
+                    "traceback": traceback.format_exc().splitlines()[-3:],
+                })
+
+        print(f"  Text extracted: {text_count}, errors: {text_errors}")
+        print(f"  Total API calls: {api_calls}")
 
     ######### STEP FIVE #########
     # Final write of all output files
