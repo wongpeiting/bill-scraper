@@ -1,6 +1,6 @@
 # Social Media Bill Scraper
 
-A database of federal and state legislation related to social media regulation across all 50 US states, DC and the US Congress. Sourced from the [LegiScan API](https://legiscan.com/) and updated weekly via GitHub Actions.
+A database of federal and state legislation related to social media regulation across US state legislatures, DC and the US Congress. Sourced from the [LegiScan API](https://legiscan.com/) and updated weekly via GitHub Actions.
 
 **903 bills | 49 states | 59 fields per bill | 867 with full text extracted**
 
