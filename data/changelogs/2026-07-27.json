@@ -1,0 +1,1534 @@
+{
+  "date": "2026-07-27",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "US HB7548",
+      "changes": {
+        "content_hash": {
+          "from": "cd7e07db40b36ac33298af4fe5857b91",
+          "to": "734b602e70bdd978bdd307d9d0c55c2c"
+        },
+        "num_sponsors": {
+          "from": 46,
+          "to": 47
+        },
+        "sponsors": {
+          "from": [
+            {
+              "name": "Dan Meuser",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-PA-9",
+              "sponsor_type": "Primary"
+            },
+            {
+              "name": "Luis Correa",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CA-46",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Young Kim",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-CA-40",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Laura Friedman",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CA-30",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Michael Lawler",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NY-17",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jefferson Shreve",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-IN-6",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Pat Harrigan",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NC-10",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "George Whitesides",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CA-27",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jack Bergman",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-MI-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "John Moolenaar",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-MI-2",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Bill Huizenga",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-MI-4",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Rashida Tlaib",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-MI-12",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Adam Smith",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-WA-9",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jeff Van Drew",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NJ-2",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Chuck Edwards",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NC-11",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Christopher Deluzio",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-PA-17",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Valerie Foushee",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-NC-4",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Salud Carbajal",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CA-24",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Tracey Mann",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-KS-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Brittany Pettersen",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CO-7",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Andre Carson",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-IN-7",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Gabe Amo",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-RI-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Donald Davis",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-NC-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Angela Craig",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-MN-2",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Gabe Vasquez",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-NM-2",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Lois Frankel",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-FL-22",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Melanie Stansbury",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-NM-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Scott Peters",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CA-50",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "William Timmons",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-SC-4",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Roger Williams",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-TX-25",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Bryan Steil",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-WI-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jennifer Kiggans",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-VA-2",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jahana Hayes",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CT-5",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Byron Donalds",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-FL-19",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Marlin Stutzman",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-IN-3",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Shri Thanedar",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-MI-13",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Tim Moore",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NC-14",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Garland Barr",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-KY-6",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jimmy Patronis",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-FL-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Monica De La Cruz",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-TX-15",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "John Rose",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-TN-6",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Sarah McBride",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-DE",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Thomas Suozzi",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-NY-3",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Julie Johnson",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-TX-32",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Maria Salazar",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-FL-27",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Zoe Lofgren",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CA-18",
+              "sponsor_type": "Co-Sponsor"
+            }
+          ],
+          "to": [
+            {
+              "name": "Dan Meuser",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-PA-9",
+              "sponsor_type": "Primary"
+            },
+            {
+              "name": "Luis Correa",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CA-46",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Young Kim",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-CA-40",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Laura Friedman",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CA-30",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Michael Lawler",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NY-17",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jefferson Shreve",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-IN-6",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Pat Harrigan",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NC-10",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "George Whitesides",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CA-27",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jack Bergman",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-MI-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "John Moolenaar",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-MI-2",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Bill Huizenga",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-MI-4",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Rashida Tlaib",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-MI-12",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Adam Smith",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-WA-9",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jeff Van Drew",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NJ-2",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Chuck Edwards",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NC-11",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Christopher Deluzio",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-PA-17",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Valerie Foushee",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-NC-4",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Salud Carbajal",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CA-24",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Tracey Mann",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-KS-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Brittany Pettersen",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CO-7",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Andre Carson",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-IN-7",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Gabe Amo",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-RI-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Donald Davis",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-NC-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Angela Craig",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-MN-2",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Gabe Vasquez",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-NM-2",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Lois Frankel",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-FL-22",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Melanie Stansbury",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-NM-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Scott Peters",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CA-50",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "William Timmons",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-SC-4",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Roger Williams",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-TX-25",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Bryan Steil",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-WI-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jennifer Kiggans",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-VA-2",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jahana Hayes",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CT-5",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Byron Donalds",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-FL-19",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Marlin Stutzman",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-IN-3",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Shri Thanedar",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-MI-13",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Tim Moore",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NC-14",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Garland Barr",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-KY-6",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jimmy Patronis",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-FL-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Monica De La Cruz",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-TX-15",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "John Rose",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-TN-6",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Sarah McBride",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-DE",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Thomas Suozzi",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-NY-3",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Julie Johnson",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-TX-32",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Maria Salazar",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-FL-27",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Zoe Lofgren",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CA-18",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Julia Letlow",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-LA-5",
+              "sponsor_type": "Co-Sponsor"
+            }
+          ]
+        },
+        "scraped_date": {
+          "from": "2026-07-20",
+          "to": "2026-07-27"
+        }
+      }
+    },
+    {
+      "bill_id": "US HB8893",
+      "changes": {
+        "content_hash": {
+          "from": "42ae538cbc0551662712fc171d9f23c2",
+          "to": "bc27b52bf262c6b3335099fe80fd6109"
+        },
+        "history": {
+          "from": [
+            {
+              "date": "2026-05-19",
+              "action": "Introduced in House",
+              "chamber": "H",
+              "chamber_id": 114,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-19",
+              "action": "Referred to the House Committee on Science, Space, and Technology.",
+              "chamber": "H",
+              "chamber_id": 114,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-25",
+              "action": "Committee Consideration and Mark-up Session Held",
+              "chamber": "H",
+              "chamber_id": 114,
+              "importance": 0
+            },
+            {
+              "date": "2026-07-07",
+              "action": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 35 - 0.",
+              "chamber": "H",
+              "chamber_id": 114,
+              "importance": 1
+            }
+          ],
+          "to": [
+            {
+              "date": "2026-05-19",
+              "action": "Introduced in House",
+              "chamber": "H",
+              "chamber_id": 114,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-19",
+              "action": "Referred to the House Committee on Science, Space, and Technology.",
+              "chamber": "H",
+              "chamber_id": 114,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-25",
+              "action": "Committee Consideration and Mark-up Session Held",
+              "chamber": "H",
+              "chamber_id": 114,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-25",
+              "action": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 35 - 0.",
+              "chamber": "H",
+              "chamber_id": 114,
+              "importance": 1
+            }
+          ]
+        },
+        "last_action_date": {
+          "from": "2026-07-07",
+          "to": "2026-06-25"
+        },
+        "progress": {
+          "from": [
+            {
+              "date": "2026-05-19",
+              "event": 1
+            },
+            {
+              "date": "2026-05-19",
+              "event": 9
+            },
+            {
+              "date": "2026-07-07",
+              "event": 10
+            }
+          ],
+          "to": [
+            {
+              "date": "2026-05-19",
+              "event": 1
+            },
+            {
+              "date": "2026-05-19",
+              "event": 9
+            },
+            {
+              "date": "2026-06-25",
+              "event": 10
+            }
+          ]
+        },
+        "scraped_date": {
+          "from": "2026-07-13",
+          "to": "2026-07-27"
+        }
+      }
+    },
+    {
+      "bill_id": "US HB8623",
+      "changes": {
+        "content_hash": {
+          "from": "ac4ee09cd67bc23ef0d52f3b4571a0c7",
+          "to": "4e28bc17c6d40b2f7489984c73983325"
+        },
+        "num_sponsors": {
+          "from": 7,
+          "to": 8
+        },
+        "sponsors": {
+          "from": [
+            {
+              "name": "Blake Moore",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-UT-1",
+              "sponsor_type": "Primary"
+            },
+            {
+              "name": "Valerie Foushee",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-NC-4",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Angela Craig",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-MN-2",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Michael Lawler",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NY-17",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Chuck Edwards",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NC-11",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Burgess Owens",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-UT-4",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jimmy Patronis",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-FL-1",
+              "sponsor_type": "Co-Sponsor"
+            }
+          ],
+          "to": [
+            {
+              "name": "Blake Moore",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-UT-1",
+              "sponsor_type": "Primary"
+            },
+            {
+              "name": "Valerie Foushee",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-NC-4",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Angela Craig",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-MN-2",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Michael Lawler",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NY-17",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Chuck Edwards",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NC-11",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Burgess Owens",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-UT-4",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jimmy Patronis",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-FL-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Brendan Boyle",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-PA-2",
+              "sponsor_type": "Co-Sponsor"
+            }
+          ]
+        },
+        "scraped_date": {
+          "from": "2026-07-13",
+          "to": "2026-07-27"
+        }
+      }
+    },
+    {
+      "bill_id": "NH SB648",
+      "changes": {
+        "content_hash": {
+          "from": "1b0b857a2c1d373d1396745d222e36ed",
+          "to": "69c99dbf8f2a71b0f59e953485bc4327"
+        },
+        "history": {
+          "from": [
+            {
+              "date": "2025-11-25",
+              "action": "Introduced 01/07/2026 and Referred to Judiciary; Senate Journal 1",
+              "chamber": "S",
+              "chamber_id": 68,
+              "importance": 1
+            },
+            {
+              "date": "2025-12-15",
+              "action": "Hearing: 01/08/2026, Room 100, State House, 01:30 pm; Senate Calendar  47",
+              "chamber": "S",
+              "chamber_id": 68,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-18",
+              "action": "Committee Report: Referred to Interim Study, 03/26/2026, Vote 3-1; Senate Calendar  11",
+              "chamber": "S",
+              "chamber_id": 68,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-26",
+              "action": "Refer to Interim Study, Motion Failed, Voice Vote; 03/26/2026; Senate Journal 7",
+              "chamber": "S",
+              "chamber_id": 68,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-26",
+              "action": "Sen. Lang Moved Ought to Pass; 03/26/2026; Senate Journal 7",
+              "chamber": "S",
+              "chamber_id": 68,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-26",
+              "action": "Sen. Reardon Floor Amendment # 2026-1235s, Amendment Adopted, Voice Vote; 03/26/2026; Senate Journal 7",
+              "chamber": "S",
+              "chamber_id": 68,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-26",
+              "action": "Ought to Pass with Amendment #2026-1235s, Motion Adopted, Voice Vote; OT3rdg; 03/26/2026; Senate Journal 7",
+              "chamber": "S",
+              "chamber_id": 68,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-27",
+              "action": "Introduced (in recess of) 03/26/2026 and referred to Commerce and Consumer Affairs House Journal  9",
+              "chamber": "H",
+              "chamber_id": 67,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-01",
+              "action": "Subcommittee Work Session: 04/08/2026 10:00 am GP 229",
+              "chamber": "H",
+              "chamber_id": 67,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-02",
+              "action": "Public Hearing: 04/07/2026 11:00 am GP 159",
+              "chamber": "H",
+              "chamber_id": 67,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-16",
+              "action": "Subcommittee Work Session: 04/21/2026 01:15 pm GP 229",
+              "chamber": "H",
+              "chamber_id": 67,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-22",
+              "action": "Executive Session: 04/29/2026 10:00 am GP 229",
+              "chamber": "H",
+              "chamber_id": 67,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-01",
+              "action": "Committee Report: Inexpedient to Legislate 04/29/2026 (Vote 15-0; Consent Calendar) House Calendar 19 P. 10",
+              "chamber": "H",
+              "chamber_id": 67,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-14",
+              "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 05/14/2026 House Journal  13",
+              "chamber": "H",
+              "chamber_id": 67,
+              "importance": 0
+            }
+          ],
+          "to": [
+            {
+              "date": "2025-11-25",
+              "action": "Introduced 01/07/2026 and Referred to Judiciary; Senate Journal 1",
+              "chamber": "S",
+              "chamber_id": 68,
+              "importance": 1
+            },
+            {
+              "date": "2025-12-15",
+              "action": "Hearing: 01/08/2026, Room 100, State House, 01:30 pm; Senate Calendar  47",
+              "chamber": "S",
+              "chamber_id": 68,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-18",
+              "action": "Committee Report: Referred to Interim Study, 03/26/2026, Vote 3-1; Senate Calendar  11",
+              "chamber": "S",
+              "chamber_id": 68,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-26",
+              "action": "Refer to Interim Study, Motion Failed, Voice Vote; 03/26/2026; Senate Journal 7",
+              "chamber": "S",
+              "chamber_id": 68,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-26",
+              "action": "Sen. Lang Moved Ought to Pass; 03/26/2026; Senate Journal 7",
+              "chamber": "S",
+              "chamber_id": 68,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-26",
+              "action": "Sen. Reardon Floor Amendment # 2026-1235s, Amendment Adopted, Voice Vote; 03/26/2026; Senate Journal 7",
+              "chamber": "S",
+              "chamber_id": 68,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-26",
+              "action": "Ought to Pass with Amendment #2026-1235s, Motion Adopted, Voice Vote; OT3rdg; 03/26/2026; Senate Journal 7",
+              "chamber": "S",
+              "chamber_id": 68,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-27",
+              "action": "Introduced (in recess of) 03/26/2026 and referred to Commerce and Consumer Affairs House Journal  9 P. 55",
+              "chamber": "H",
+              "chamber_id": 67,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-01",
+              "action": "Subcommittee Work Session: 04/08/2026 10:00 am GP 229",
+              "chamber": "H",
+              "chamber_id": 67,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-02",
+              "action": "Public Hearing: 04/07/2026 11:00 am GP 159",
+              "chamber": "H",
+              "chamber_id": 67,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-16",
+              "action": "Subcommittee Work Session: 04/21/2026 01:15 pm GP 229",
+              "chamber": "H",
+              "chamber_id": 67,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-22",
+              "action": "Executive Session: 04/29/2026 10:00 am GP 229",
+              "chamber": "H",
+              "chamber_id": 67,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-01",
+              "action": "Committee Report: Inexpedient to Legislate 04/29/2026 (Vote 15-0; Consent Calendar) House Calendar 19 P. 10",
+              "chamber": "H",
+              "chamber_id": 67,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-14",
+              "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 05/14/2026 House Journal  13 P. 10",
+              "chamber": "H",
+              "chamber_id": 67,
+              "importance": 0
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Inexpedient to Legislate: Motion Adopted Voice Vote 05/14/2026 House Journal  13",
+          "to": "Inexpedient to Legislate: Motion Adopted Voice Vote 05/14/2026 House Journal  13 P. 10"
+        },
+        "scraped_date": {
+          "from": "2026-06-11",
+          "to": "2026-07-27"
+        }
+      }
+    },
+    {
+      "bill_id": "MA S2619",
+      "changes": {
+        "content_hash": {
+          "from": "7d38dba0fd6091150dd1bb277a95d832",
+          "to": "c9de2fc08619dda17f86e72c003b1866"
+        },
+        "history": {
+          "from": [
+            {
+              "date": "2025-09-25",
+              "action": "S2608 reprinted, as amended",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            },
+            {
+              "date": "2025-09-25",
+              "action": "Passed to be engrossed -see  Roll Call #71 (Yeas 40 to Nays 0)",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 1
+            },
+            {
+              "date": "2025-09-29",
+              "action": "Read; and referred to the committee on House Ways and Means",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Committee recommended ought to pass with an amendment, striking out all after the enacting clause and inserting the text of H5472, and referred to the committee on House Steering, Policy and Scheduling",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting with the amendment pending",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Rules suspended",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Read second, amended (as recommended by the committee on House Ways and Means)",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Ordered to a third reading",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Rules suspended",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Read third",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Consolidated amendment A adopted - 146 YEAS to 0 NAYS (See YEA and NAY No. 207 )",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Text of H5472 amended, published as H5479",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Passed to be engrossed - 146 YEAS to 0 NAYS (See YEA and NAY No. 208 )",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-11",
+              "action": "Rules suspended",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-11",
+              "action": "Senate NON-concurred in House amendment",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-11",
+              "action": "Committee of conference appointed (Creem-Finegold-O'Connor)",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-17",
+              "action": "Rules suspended",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-17",
+              "action": "House insisted on its amendment",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-17",
+              "action": "Committee of conference appointed - (M. Moran-Farley-Bouvier-Vieira) in concurrence",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            }
+          ],
+          "to": [
+            {
+              "date": "2025-09-25",
+              "action": "S2608, reprinted as amended",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            },
+            {
+              "date": "2025-09-25",
+              "action": "Passed to be engrossed -see  Roll Call #71 (Yeas 40 to Nays 0)",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 1
+            },
+            {
+              "date": "2025-09-29",
+              "action": "Read; and referred to the committee on House Ways and Means",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Committee recommended ought to pass with an amendment, striking out all after the enacting clause and inserting the text of H5472, and referred to the committee on House Steering, Policy and Scheduling",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting with the amendment pending",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Rules suspended",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Read second, amended (as recommended by the committee on House Ways and Means)",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Ordered to a third reading",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Rules suspended",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Read third",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Consolidated amendment A adopted - 146 YEAS to 0 NAYS (See YEA and NAY No. 207 )",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Text of H5472 amended, published as H5479",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-04",
+              "action": "Passed to be engrossed - 146 YEAS to 0 NAYS (See YEA and NAY No. 208 )",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-11",
+              "action": "Rules suspended",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-11",
+              "action": "Senate NON-concurred in House amendment",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-11",
+              "action": "Committee of conference appointed (Creem-Finegold-O'Connor)",
+              "chamber": "S",
+              "chamber_id": 52,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-17",
+              "action": "Rules suspended",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-17",
+              "action": "House insisted on its amendment",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            },
+            {
+              "date": "2026-06-17",
+              "action": "Committee of conference appointed - (M. Moran-Farley-Bouvier-Vieira), in concurrence",
+              "chamber": "H",
+              "chamber_id": 51,
+              "importance": 0
+            }
+          ]
+        },
+        "last_action": {
+          "from": "Committee of conference appointed - (M. Moran-Farley-Bouvier-Vieira) in concurrence",
+          "to": "Committee of conference appointed - (M. Moran-Farley-Bouvier-Vieira), in concurrence"
+        },
+        "scraped_date": {
+          "from": "2026-07-13",
+          "to": "2026-07-27"
+        }
+      }
+    }
+  ]
+}
