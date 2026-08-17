@@ -1,0 +1,225 @@
+{
+  "date": "2026-08-17",
+  "errors": [
+    {
+      "bill_id": "SEARCH:TikTok",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=TikTok&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3abc54b590>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=TikTok&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3abc54b590>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:ByteDance",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=ByteDance&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba491700>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=ByteDance&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba491700>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"social media\"",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22social+media%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba491b80>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22social+media%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba491b80>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"social networking\"",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22social+networking%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3abc5d12e0>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22social+networking%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3abc5d12e0>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"online platform\"",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22online+platform%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba4920f0>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22online+platform%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba4920f0>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"recommendation system\"",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22recommendation+system%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba491370>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22recommendation+system%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba491370>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"age verification\"",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22age+verification%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba4925d0>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22age+verification%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba4925d0>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"parental consent\"",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22parental+consent%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba492d80>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22parental+consent%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba492d80>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"children online safety\"",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22children+online+safety%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba4935f0>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22children+online+safety%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba4935f0>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"youth online\"",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22youth+online%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba493710>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22youth+online%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba493710>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"children online\"",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22children+online%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba4901a0>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22children+online%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba4901a0>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"digital addiction\"",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22digital+addiction%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba491310>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22digital+addiction%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba491310>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"screen time\"",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22screen+time%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba492000>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22screen+time%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba492000>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"content moderation\"",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22content+moderation%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba493e90>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22content+moderation%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba493e90>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"online safety\"",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22online+safety%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba5387d0>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22online+safety%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba5387d0>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"online harms\"",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22online+harms%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba4938c0>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22online+harms%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba4938c0>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:deepfake",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=deepfake&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba490170>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=deepfake&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba490170>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"artificial intelligence\" AND \"social media\"",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22artificial+intelligence%22+AND+%22social+media%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba492b10>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22artificial+intelligence%22+AND+%22social+media%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba492b10>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"influencer\" AND \"social media\"",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22influencer%22+AND+%22social+media%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba493170>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22influencer%22+AND+%22social+media%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba493170>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    },
+    {
+      "bill_id": "SEARCH:\"algorithm\" AND \"social media\"",
+      "url": "",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22algorithm%22+AND+%22social+media%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba538a70>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.12.13/x64/lib/python3.12/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.legiscan.com', port=443): Max retries exceeded with url: /?query=%22algorithm%22+AND+%22social+media%22&year=2&page=1&key=bd93cb3edfa9842801f14f996ea37476&op=getSearchRaw (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.legiscan.com', port=443) at 0x7f3aba538a70>, 'Connection to api.legiscan.com timed out. (connect timeout=30)'))"
+      ]
+    }
+  ]
+}
