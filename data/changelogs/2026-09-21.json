@@ -1,0 +1,3212 @@
+{
+  "date": "2026-09-21",
+  "additions": [
+    {
+      "bill_id": "US HB10337",
+      "state": "US",
+      "title": "16 & Up Social Media Act",
+      "status": "Introduced"
+    }
+  ],
+  "deletions": [],
+  "modifications": [
+    {
+      "bill_id": "US SB3618",
+      "changes": {
+        "content_hash": {
+          "from": "10e405f62ff86b8fd36099dd155867eb",
+          "to": "2cceba98b72865effd8473be90d2033e"
+        },
+        "title": {
+          "from": "No Fentanyl on Social Media Act",
+          "to": "No Fentanyl on Social Media Act of 2026"
+        },
+        "history": {
+          "from": [
+            {
+              "date": "2026-01-13",
+              "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+              "chamber": "S",
+              "chamber_id": 115,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-14",
+              "action": "Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.",
+              "chamber": "S",
+              "chamber_id": 115,
+              "importance": 1
+            }
+          ],
+          "to": [
+            {
+              "date": "2026-01-13",
+              "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+              "chamber": "S",
+              "chamber_id": 115,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-14",
+              "action": "Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.",
+              "chamber": "S",
+              "chamber_id": 115,
+              "importance": 1
+            },
+            {
+              "date": "2026-09-14",
+              "action": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. With written report No. 119-142.",
+              "chamber": "S",
+              "chamber_id": 115,
+              "importance": 0
+            },
+            {
+              "date": "2026-09-14",
+              "action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 561.",
+              "chamber": "S",
+              "chamber_id": 115,
+              "importance": 0
+            }
+          ]
+        },
+        "num_actions": {
+          "from": 2,
+          "to": 4
+        },
+        "last_action": {
+          "from": "Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.",
+          "to": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 561."
+        },
+        "last_action_date": {
+          "from": "2026-04-14",
+          "to": "2026-09-14"
+        },
+        "texts": {
+          "from": [
+            {
+              "doc_id": 3347436,
+              "date": "2026-02-03",
+              "type": "Introduced",
+              "type_id": 1,
+              "mime": "application/pdf",
+              "mime_id": 2,
+              "url": "https://legiscan.com/US/text/SB3618/id/3347436",
+              "state_link": "https://www.congress.gov/119/bills/s3618/BILLS-119s3618is.pdf",
+              "text_size": 248167,
+              "text_hash": "e98b1eb9c8f46eb4d4fda16ab85b41f9",
+              "alt_bill_text": 0,
+              "alt_mime": "",
+              "alt_mime_id": 0,
+              "alt_state_link": "",
+              "alt_text_size": 0,
+              "alt_text_hash": ""
+            }
+          ],
+          "to": [
+            {
+              "doc_id": 3347436,
+              "date": "2026-02-03",
+              "type": "Introduced",
+              "type_id": 1,
+              "mime": "application/pdf",
+              "mime_id": 2,
+              "url": "https://legiscan.com/US/text/SB3618/id/3347436",
+              "state_link": "https://www.congress.gov/119/bills/s3618/BILLS-119s3618is.pdf",
+              "text_size": 248167,
+              "text_hash": "e98b1eb9c8f46eb4d4fda16ab85b41f9",
+              "alt_bill_text": 0,
+              "alt_mime": "",
+              "alt_mime_id": 0,
+              "alt_state_link": "",
+              "alt_text_size": 0,
+              "alt_text_hash": ""
+            },
+            {
+              "doc_id": 3459047,
+              "date": "2026-09-18",
+              "type": "Introduced",
+              "type_id": 1,
+              "mime": "application/pdf",
+              "mime_id": 2,
+              "url": "https://legiscan.com/US/text/SB3618/id/3459047",
+              "state_link": "https://www.congress.gov/119/bills/s3618/BILLS-119s3618rs.pdf",
+              "text_size": 255787,
+              "text_hash": "33cf08ecdaac86741490700919c30792",
+              "alt_bill_text": 0,
+              "alt_mime": "",
+              "alt_mime_id": 0,
+              "alt_state_link": "",
+              "alt_text_size": 0,
+              "alt_text_hash": ""
+            }
+          ]
+        },
+        "num_text_versions": {
+          "from": 1,
+          "to": 2
+        },
+        "latest_text_url": {
+          "from": "https://legiscan.com/US/text/SB3618/id/3347436",
+          "to": "https://legiscan.com/US/text/SB3618/id/3459047"
+        },
+        "latest_text_state_link": {
+          "from": "https://www.congress.gov/119/bills/s3618/BILLS-119s3618is.pdf",
+          "to": "https://www.congress.gov/119/bills/s3618/BILLS-119s3618rs.pdf"
+        },
+        "latest_text_date": {
+          "from": "2026-02-03",
+          "to": "2026-09-18"
+        },
+        "scraped_date": {
+          "from": "2026-06-11",
+          "to": "2026-09-21"
+        }
+      }
+    },
+    {
+      "bill_id": "NY A03929",
+      "changes": {
+        "content_hash": {
+          "from": "d8c8de4294136577732310a56c25635b",
+          "to": "d179b63074eaef21f78b894a67d3f3ff"
+        },
+        "num_sponsors": {
+          "from": 16,
+          "to": 21
+        },
+        "sponsors": {
+          "from": [
+            {
+              "name": "Jeffrey Dinowitz",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-081",
+              "sponsor_type": "Primary"
+            },
+            {
+              "name": "Paula Kay",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-100",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Dana Levenberg",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-095",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "George Alvarez",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-078",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Yudelka Tapia",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-086",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Maryjane Shimsky",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-092",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Brian Cunningham",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-043",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Deborah Glick",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-066",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jennifer Lunsford",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-135",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Rebecca Kassay",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-004",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Tommy Schiavoni",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-001",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Micah Lasher",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-069",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Alex Bores",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-073",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Tony Simone",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-075",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jessica Gonzalez-Rojas",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-034",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Patrick Carroll",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-096",
+              "sponsor_type": "Co-Sponsor"
+            }
+          ],
+          "to": [
+            {
+              "name": "Jeffrey Dinowitz",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-081",
+              "sponsor_type": "Primary"
+            },
+            {
+              "name": "Paula Kay",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-100",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Dana Levenberg",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-095",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "George Alvarez",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-078",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Yudelka Tapia",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-086",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Maryjane Shimsky",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-092",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Brian Cunningham",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-043",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Deborah Glick",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-066",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jennifer Lunsford",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-135",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Rebecca Kassay",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-004",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Tommy Schiavoni",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-001",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Micah Lasher",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-069",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Alex Bores",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-073",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Tony Simone",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-075",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jessica Gonzalez-Rojas",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-034",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Patrick Carroll",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-096",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Andrew Hevesi",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-028",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Amy Paulin",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-088",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Linda Rosenthal",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-067",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Harry Bronson",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-138",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Albert Stirpe",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-127",
+              "sponsor_type": "Co-Sponsor"
+            }
+          ]
+        },
+        "scraped_date": {
+          "from": "2026-09-07",
+          "to": "2026-09-21"
+        }
+      }
+    },
+    {
+      "bill_id": "NJ A370",
+      "changes": {
+        "content_hash": {
+          "from": "fb3606bb206e342a6091dc8dffdef43d",
+          "to": "c76769f34a460c530ef50ebe0acc2b87"
+        },
+        "num_sponsors": {
+          "from": 1,
+          "to": 2
+        },
+        "sponsors": {
+          "from": [
+            {
+              "name": "Victoria Flynn",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-013",
+              "sponsor_type": "Primary"
+            }
+          ],
+          "to": [
+            {
+              "name": "Victoria Flynn",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-013",
+              "sponsor_type": "Primary"
+            },
+            {
+              "name": "Christopher DePhillips",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-040",
+              "sponsor_type": "Co-Sponsor"
+            }
+          ]
+        },
+        "scraped_date": {
+          "from": "2026-06-11",
+          "to": "2026-09-21"
+        }
+      }
+    },
+    {
+      "bill_id": "HI HB1753",
+      "changes": {
+        "content_hash": {
+          "from": "7c559a315c48abe68cf86daeb45a549f",
+          "to": "1cdb9eae4f72d4c94588d89a7f439a37"
+        },
+        "status": {
+          "from": "Enrolled",
+          "to": "Passed"
+        },
+        "status_code": {
+          "from": 3,
+          "to": 4
+        },
+        "status_date": {
+          "from": "2026-05-08",
+          "to": "2026-07-14"
+        },
+        "completed": {
+          "from": 0,
+          "to": 1
+        },
+        "history": {
+          "from": [
+            {
+              "date": "2026-01-21",
+              "action": "Pending introduction.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-01-22",
+              "action": "Introduced and Pass First Reading.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 1
+            },
+            {
+              "date": "2026-01-26",
+              "action": "Referred to CPC, JHA, referral sheet 1",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 1
+            },
+            {
+              "date": "2026-02-06",
+              "action": "Bill scheduled to be heard by CPC on Tuesday, 02-10-26 2:00PM in House conference room 329 VIA VIDEOCONFERENCE.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-10",
+              "action": "The committee on CPC recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 11 Ayes: Representative(s) Matayoshi, Grandinetti, Chun, Ilagan, Ichiyama, Iwamoto, Kong, Lowen, Marten, Tam, Pierick; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-20",
+              "action": "Reported from CPC (Stand. Com. Rep. No. 676-26) as amended in HD 1, recommending passage on Second Reading and referral to JHA.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 1
+            },
+            {
+              "date": "2026-02-20",
+              "action": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on JHA with none voting aye with reservations; none voting no (0) and Representative(s) Quinlan excused (1).",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 1
+            },
+            {
+              "date": "2026-02-27",
+              "action": "Bill scheduled to be heard by JHA on Tuesday, 03-03-26 2:00PM in House conference room 325 VIA VIDEOCONFERENCE.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-03",
+              "action": "The committee on JHA recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 9 Ayes: Representative(s) Tarnas, Poepoe, Belatti, Hashem, Kahaloa, Sayama, Takayama, Garcia, Shimizu; Ayes with reservations: none; Noes: none; and 1 Excused: Representative(s) Cochran.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-06",
+              "action": "Reported from JHA (Stand. Com. Rep. No. 1107-26) as amended in HD 2, recommending passage on Third Reading.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-06",
+              "action": "Forty-eight (48) hours notice Tuesday, 03-10-26.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-10",
+              "action": "Passed Third Reading as amended in HD 2 with none voting aye with reservations; none voting no (0) and Representative(s) Kong, Pierick excused (2). Transmitted to Senate.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-12",
+              "action": "Received from House (Hse. Com. No. 283).",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-12",
+              "action": "Passed First Reading.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-12",
+              "action": "Referred to CPN, JDC.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-13",
+              "action": "The committee(s) on CPN has scheduled a public hearing on 03-18-26 9:30AM; Conference Room 229 &amp; Videoconference.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-18",
+              "action": "The committee(s) on CPN deferred the measure until 03-24-26 9:45AM; Conference Room 229 &amp; Videoconference.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-24",
+              "action": "The committee(s) on CPN recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in CPN were as follows: 4 Aye(s): Senator(s) Keohokalole, Fukunaga, Lamosao, McKelvey; Aye(s) with reservations: none ; 1 No(es): Senator(s) Awa; and 0 Excused: none.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-30",
+              "action": "Reported from CPN (Stand. Com. Rep. No. 3321) with recommendation of passage on Second Reading, as amended (SD 1) and referral to JDC.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-30",
+              "action": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to JDC.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-01",
+              "action": "The committee(s) on JDC will hold a public decision making on 04-07-26 10:15AM; Conference Room 016 &amp; Videoconference.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-07",
+              "action": "The committee(s) on JDC recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in JDC were as follows: 4 Aye(s): Senator(s) Rhoads, Gabbard, Chang, San Buenaventura; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Awa.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-10",
+              "action": "Reported from JDC (Stand. Com. Rep. No. 3769) with recommendation of passage on Third Reading, as amended (SD 2).",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-10",
+              "action": "48 Hrs. Notice 04-14-26.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-14",
+              "action": "Report adopted; Passed Third Reading, as amended (SD 2). Ayes, 25; Aye(s) with reservations: none . Noes, 0 (none). Excused, 0 (none). Transmitted to House.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-14",
+              "action": "Returned from Senate (Sen. Com. No. 620) in amended form (SD 2).",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-16",
+              "action": "House disagrees with Senate amendment (s).",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-17",
+              "action": "Received notice of disagreement (Hse. Com. No. 780).",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-20",
+              "action": "House Conferees Appointed: Matayoshi, Poepoe Co-Chairs; Templo, Pierick.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-20",
+              "action": "Received notice of appointment of House conferees (Hse. Com. No. 786).",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-27",
+              "action": "Senate Conferees Appointed: Keohokalole Chair; Rhoads Co-Chair; Lamosao.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-27",
+              "action": "Received notice of Senate conferees (Sen. Com. No. 782).",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-28",
+              "action": "Bill scheduled for Conference Committee Meeting on Wednesday, 04-29-26 3:30PM in conference room 224.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-29",
+              "action": "The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 4 Ayes: Representative(s) Matayoshi, Poepoe, Templo, Pierick; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-29",
+              "action": "The Conference committee recommends that the measure be PASSED, WITH AMENDMENTS. The votes of the Senate Conference Managers were as follows: 3 Aye(s): Senator(s) Keohokalole, Rhoads, Lamosao; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-29",
+              "action": "Reported from Conference Committee (Conf Com. Rep. No. 63-26) as amended in (CD 1).",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-29",
+              "action": "Forty-eight (48) hours notice Wednesday, 05-06-26.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-29",
+              "action": "Reported from Conference Committee as amended CD 1 (Conf. Com. Rep. No. 63-26).",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-29",
+              "action": "48 Hrs. Notice (as amended CD 1) 05-06-26",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-06",
+              "action": "Floor Amendment No. 5 offered by Rep. Templo.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-06",
+              "action": "Floor amendment adopted as amended CD 2 with none voting no and none excused.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-06",
+              "action": "Forty-eight (48) hours notice Friday 05-08-26.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-06",
+              "action": "Floor Amendment No. 9 offered.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-06",
+              "action": "Floor amendment adopted as amended (CD 2).",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-06",
+              "action": "Separated Committee Report.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-06",
+              "action": "Report filed.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-06",
+              "action": "48 Hrs. Notice 05-08-26",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-08",
+              "action": "Passed Final Reading as amended in CD 2 with none voting aye with reservations; none voting no (0) and none excused (0).",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-08",
+              "action": "Passed Final Reading, as amended (CD 2). Ayes, 24; Aye(s) with reservations: none. Noes, 0 (none). Excused, 1 (Senator(s) San Buenaventura).",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-08",
+              "action": "Received notice of Final Reading (Sen. Com. No. 820).",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-08",
+              "action": "Transmitted to Governor.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            }
+          ],
+          "to": [
+            {
+              "date": "2026-01-21",
+              "action": "Pending introduction.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-01-22",
+              "action": "Introduced and Pass First Reading.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 1
+            },
+            {
+              "date": "2026-01-26",
+              "action": "Referred to CPC, JHA, referral sheet 1",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 1
+            },
+            {
+              "date": "2026-02-06",
+              "action": "Bill scheduled to be heard by CPC on Tuesday, 02-10-26 2:00PM in House conference room 329 VIA VIDEOCONFERENCE.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-10",
+              "action": "The committee on CPC recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 11 Ayes: Representative(s) Matayoshi, Grandinetti, Chun, Ilagan, Ichiyama, Iwamoto, Kong, Lowen, Marten, Tam, Pierick; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-02-20",
+              "action": "Reported from CPC (Stand. Com. Rep. No. 676-26) as amended in HD 1, recommending passage on Second Reading and referral to JHA.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 1
+            },
+            {
+              "date": "2026-02-20",
+              "action": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on JHA with none voting aye with reservations; none voting no (0) and Representative(s) Quinlan excused (1).",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 1
+            },
+            {
+              "date": "2026-02-27",
+              "action": "Bill scheduled to be heard by JHA on Tuesday, 03-03-26 2:00PM in House conference room 325 VIA VIDEOCONFERENCE.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-03",
+              "action": "The committee on JHA recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 9 Ayes: Representative(s) Tarnas, Poepoe, Belatti, Hashem, Kahaloa, Sayama, Takayama, Garcia, Shimizu; Ayes with reservations: none; Noes: none; and 1 Excused: Representative(s) Cochran.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-06",
+              "action": "Reported from JHA (Stand. Com. Rep. No. 1107-26) as amended in HD 2, recommending passage on Third Reading.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-06",
+              "action": "Forty-eight (48) hours notice Tuesday, 03-10-26.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-10",
+              "action": "Passed Third Reading as amended in HD 2 with none voting aye with reservations; none voting no (0) and Representative(s) Kong, Pierick excused (2). Transmitted to Senate.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-12",
+              "action": "Received from House (Hse. Com. No. 283).",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-12",
+              "action": "Passed First Reading.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-12",
+              "action": "Referred to CPN, JDC.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-13",
+              "action": "The committee(s) on CPN has scheduled a public hearing on 03-18-26 9:30AM; Conference Room 229 &amp; Videoconference.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-18",
+              "action": "The committee(s) on CPN deferred the measure until 03-24-26 9:45AM; Conference Room 229 &amp; Videoconference.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-24",
+              "action": "The committee(s) on CPN recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in CPN were as follows: 4 Aye(s): Senator(s) Keohokalole, Fukunaga, Lamosao, McKelvey; Aye(s) with reservations: none ; 1 No(es): Senator(s) Awa; and 0 Excused: none.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-30",
+              "action": "Reported from CPN (Stand. Com. Rep. No. 3321) with recommendation of passage on Second Reading, as amended (SD 1) and referral to JDC.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-30",
+              "action": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to JDC.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-01",
+              "action": "The committee(s) on JDC will hold a public decision making on 04-07-26 10:15AM; Conference Room 016 &amp; Videoconference.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-07",
+              "action": "The committee(s) on JDC recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in JDC were as follows: 4 Aye(s): Senator(s) Rhoads, Gabbard, Chang, San Buenaventura; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Awa.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-10",
+              "action": "Reported from JDC (Stand. Com. Rep. No. 3769) with recommendation of passage on Third Reading, as amended (SD 2).",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-10",
+              "action": "48 Hrs. Notice 04-14-26.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-14",
+              "action": "Report adopted; Passed Third Reading, as amended (SD 2). Ayes, 25; Aye(s) with reservations: none . Noes, 0 (none). Excused, 0 (none). Transmitted to House.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-14",
+              "action": "Returned from Senate (Sen. Com. No. 620) in amended form (SD 2).",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-16",
+              "action": "House disagrees with Senate amendment (s).",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-17",
+              "action": "Received notice of disagreement (Hse. Com. No. 780).",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-20",
+              "action": "House Conferees Appointed: Matayoshi, Poepoe Co-Chairs; Templo, Pierick.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-20",
+              "action": "Received notice of appointment of House conferees (Hse. Com. No. 786).",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-27",
+              "action": "Senate Conferees Appointed: Keohokalole Chair; Rhoads Co-Chair; Lamosao.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-27",
+              "action": "Received notice of Senate conferees (Sen. Com. No. 782).",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-28",
+              "action": "Bill scheduled for Conference Committee Meeting on Wednesday, 04-29-26 3:30PM in conference room 224.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-29",
+              "action": "The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 4 Ayes: Representative(s) Matayoshi, Poepoe, Templo, Pierick; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-29",
+              "action": "The Conference committee recommends that the measure be PASSED, WITH AMENDMENTS. The votes of the Senate Conference Managers were as follows: 3 Aye(s): Senator(s) Keohokalole, Rhoads, Lamosao; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-29",
+              "action": "Reported from Conference Committee (Conf Com. Rep. No. 63-26) as amended in (CD 1).",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-29",
+              "action": "Forty-eight (48) hours notice Wednesday, 05-06-26.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-29",
+              "action": "Reported from Conference Committee as amended CD 1 (Conf. Com. Rep. No. 63-26).",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-29",
+              "action": "48 Hrs. Notice (as amended CD 1) 05-06-26",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-06",
+              "action": "Floor Amendment No. 5 offered by Rep. Templo.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-06",
+              "action": "Floor amendment adopted as amended CD 2 with none voting no and none excused.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-06",
+              "action": "Forty-eight (48) hours notice Friday 05-08-26.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-06",
+              "action": "Floor Amendment No. 9 offered.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-06",
+              "action": "Floor amendment adopted as amended (CD 2).",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-06",
+              "action": "Separated Committee Report.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-06",
+              "action": "Report filed.",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-06",
+              "action": "48 Hrs. Notice 05-08-26",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-08",
+              "action": "Passed Final Reading as amended in CD 2 with none voting aye with reservations; none voting no (0) and none excused (0).",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-08",
+              "action": "Passed Final Reading, as amended (CD 2). Ayes, 24; Aye(s) with reservations: none. Noes, 0 (none). Excused, 1 (Senator(s) San Buenaventura).",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-08",
+              "action": "Received notice of Final Reading (Sen. Com. No. 820).",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-08",
+              "action": "Received notice of passage on Final Reading in House (Hse. Com. No. 889).",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-08",
+              "action": "Transmitted to Governor.",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            },
+            {
+              "date": "2026-07-14",
+              "action": "Act 252, 07/14/2026 (Gov. Msg. No. 1354).",
+              "chamber": "S",
+              "chamber_id": 32,
+              "importance": 1
+            },
+            {
+              "date": "2026-07-14",
+              "action": "Act 252, on 07/14/2026 (Gov. Msg. No. 1354).",
+              "chamber": "H",
+              "chamber_id": 31,
+              "importance": 0
+            }
+          ]
+        },
+        "num_actions": {
+          "from": 51,
+          "to": 54
+        },
+        "last_action": {
+          "from": "Transmitted to Governor.",
+          "to": "Act 252, on 07/14/2026 (Gov. Msg. No. 1354)."
+        },
+        "last_action_date": {
+          "from": "2026-05-08",
+          "to": "2026-07-14"
+        },
+        "progress": {
+          "from": [
+            {
+              "date": "2026-01-22",
+              "event": 1
+            },
+            {
+              "date": "2026-01-26",
+              "event": 9
+            },
+            {
+              "date": "2026-02-20",
+              "event": 10
+            },
+            {
+              "date": "2026-02-20",
+              "event": 9
+            },
+            {
+              "date": "2026-03-06",
+              "event": 10
+            },
+            {
+              "date": "2026-03-10",
+              "event": 2
+            },
+            {
+              "date": "2026-03-12",
+              "event": 9
+            },
+            {
+              "date": "2026-03-30",
+              "event": 10
+            },
+            {
+              "date": "2026-03-30",
+              "event": 9
+            },
+            {
+              "date": "2026-04-10",
+              "event": 10
+            },
+            {
+              "date": "2026-04-29",
+              "event": 10
+            },
+            {
+              "date": "2026-04-29",
+              "event": 10
+            },
+            {
+              "date": "2026-05-08",
+              "event": 3
+            }
+          ],
+          "to": [
+            {
+              "date": "2026-01-22",
+              "event": 1
+            },
+            {
+              "date": "2026-01-26",
+              "event": 9
+            },
+            {
+              "date": "2026-02-20",
+              "event": 10
+            },
+            {
+              "date": "2026-02-20",
+              "event": 9
+            },
+            {
+              "date": "2026-03-06",
+              "event": 10
+            },
+            {
+              "date": "2026-03-10",
+              "event": 2
+            },
+            {
+              "date": "2026-03-12",
+              "event": 9
+            },
+            {
+              "date": "2026-03-30",
+              "event": 10
+            },
+            {
+              "date": "2026-03-30",
+              "event": 9
+            },
+            {
+              "date": "2026-04-10",
+              "event": 10
+            },
+            {
+              "date": "2026-04-29",
+              "event": 10
+            },
+            {
+              "date": "2026-04-29",
+              "event": 10
+            },
+            {
+              "date": "2026-05-08",
+              "event": 3
+            },
+            {
+              "date": "2026-07-14",
+              "event": 8
+            },
+            {
+              "date": "2026-07-14",
+              "event": 4
+            }
+          ]
+        },
+        "texts": {
+          "from": [
+            {
+              "doc_id": 3327519,
+              "date": "2026-01-21",
+              "type": "Introduced",
+              "type_id": 1,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/HI/text/HB1753/id/3327519",
+              "state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_.HTM",
+              "text_size": 18387,
+              "text_hash": "ac4f11194da88a993c3a79a04d01d1ff",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_.PDF",
+              "alt_text_size": 178774,
+              "alt_text_hash": "9f8a8b1e8519e11ba51900bb4114e7cf"
+            },
+            {
+              "doc_id": 3369499,
+              "date": "2026-02-19",
+              "type": "Amended",
+              "type_id": 3,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/HI/text/HB1753/id/3369499",
+              "state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_HD1_.HTM",
+              "text_size": 27145,
+              "text_hash": "d8df1889dd02bf4caffa07ca6ddf45b0",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_HD1_.PDF",
+              "alt_text_size": 379233,
+              "alt_text_hash": "a3981a2410237a7bb28633d773a451fe"
+            },
+            {
+              "doc_id": 3387805,
+              "date": "2026-03-06",
+              "type": "Amended",
+              "type_id": 3,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/HI/text/HB1753/id/3387805",
+              "state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_HD2_.HTM",
+              "text_size": 27353,
+              "text_hash": "e1dcebb2a431370b8c6b0ca1d3e79fb5",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_HD2_.PDF",
+              "alt_text_size": 369676,
+              "alt_text_hash": "b3cb6cb2388aa702b555e1f0f0836daa"
+            },
+            {
+              "doc_id": 3407015,
+              "date": "2026-03-27",
+              "type": "Amended",
+              "type_id": 3,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/HI/text/HB1753/id/3407015",
+              "state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_SD1_.HTM",
+              "text_size": 27408,
+              "text_hash": "34bab14f95118beb3bef32778873104c",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_SD1_.PDF",
+              "alt_text_size": 307543,
+              "alt_text_hash": "e681281d993a67a9271c3ba66ee17303"
+            },
+            {
+              "doc_id": 3416320,
+              "date": "2026-04-10",
+              "type": "Amended",
+              "type_id": 3,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/HI/text/HB1753/id/3416320",
+              "state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_SD2_.HTM",
+              "text_size": 27452,
+              "text_hash": "595311412d8af4f01e81569b8741b192",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_SD2_.PDF",
+              "alt_text_size": 295759,
+              "alt_text_hash": "6bcb09d40ab3482b0133e183c21e1ad4"
+            },
+            {
+              "doc_id": 3428678,
+              "date": "2026-04-30",
+              "type": "Amended",
+              "type_id": 3,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/HI/text/HB1753/id/3428678",
+              "state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_CD1_.HTM",
+              "text_size": 27462,
+              "text_hash": "86cc336868b1585fee6df03ec3265303",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_CD1_.PDF",
+              "alt_text_size": 383721,
+              "alt_text_hash": "3a0431c3d55533c500c2333f885ff02a"
+            },
+            {
+              "doc_id": 3432821,
+              "date": "2026-05-06",
+              "type": "Amended",
+              "type_id": 3,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/HI/text/HB1753/id/3432821",
+              "state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_CD2_.HTM",
+              "text_size": 23975,
+              "text_hash": "3d4455e368596e8b528040b13c483a14",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_CD2_.PDF",
+              "alt_text_size": 369627,
+              "alt_text_hash": "79187243b4fa4dcf5a2ff0f9f3c28089"
+            },
+            {
+              "doc_id": 3432822,
+              "date": "2026-05-06",
+              "type": "Amended",
+              "type_id": 3,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/HI/text/HB1753/id/3432822",
+              "state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_CD1_HFA5_.HTM",
+              "text_size": 9940,
+              "text_hash": "71a2d233bc15461651c4ad7dab332baa",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_CD1_HFA5_.PDF",
+              "alt_text_size": 347672,
+              "alt_text_hash": "befc2af426f40a239673170b86b1843d"
+            }
+          ],
+          "to": [
+            {
+              "doc_id": 3327519,
+              "date": "2026-01-21",
+              "type": "Introduced",
+              "type_id": 1,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/HI/text/HB1753/id/3327519",
+              "state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_.HTM",
+              "text_size": 18387,
+              "text_hash": "ac4f11194da88a993c3a79a04d01d1ff",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_.PDF",
+              "alt_text_size": 178774,
+              "alt_text_hash": "9f8a8b1e8519e11ba51900bb4114e7cf"
+            },
+            {
+              "doc_id": 3369499,
+              "date": "2026-02-19",
+              "type": "Amended",
+              "type_id": 3,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/HI/text/HB1753/id/3369499",
+              "state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_HD1_.HTM",
+              "text_size": 27145,
+              "text_hash": "d8df1889dd02bf4caffa07ca6ddf45b0",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_HD1_.PDF",
+              "alt_text_size": 379233,
+              "alt_text_hash": "a3981a2410237a7bb28633d773a451fe"
+            },
+            {
+              "doc_id": 3387805,
+              "date": "2026-03-06",
+              "type": "Amended",
+              "type_id": 3,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/HI/text/HB1753/id/3387805",
+              "state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_HD2_.HTM",
+              "text_size": 27353,
+              "text_hash": "e1dcebb2a431370b8c6b0ca1d3e79fb5",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_HD2_.PDF",
+              "alt_text_size": 369676,
+              "alt_text_hash": "b3cb6cb2388aa702b555e1f0f0836daa"
+            },
+            {
+              "doc_id": 3407015,
+              "date": "2026-03-27",
+              "type": "Amended",
+              "type_id": 3,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/HI/text/HB1753/id/3407015",
+              "state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_SD1_.HTM",
+              "text_size": 27408,
+              "text_hash": "34bab14f95118beb3bef32778873104c",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_SD1_.PDF",
+              "alt_text_size": 307543,
+              "alt_text_hash": "e681281d993a67a9271c3ba66ee17303"
+            },
+            {
+              "doc_id": 3416320,
+              "date": "2026-04-10",
+              "type": "Amended",
+              "type_id": 3,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/HI/text/HB1753/id/3416320",
+              "state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_SD2_.HTM",
+              "text_size": 27452,
+              "text_hash": "595311412d8af4f01e81569b8741b192",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_SD2_.PDF",
+              "alt_text_size": 295759,
+              "alt_text_hash": "6bcb09d40ab3482b0133e183c21e1ad4"
+            },
+            {
+              "doc_id": 3428678,
+              "date": "2026-04-30",
+              "type": "Amended",
+              "type_id": 3,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/HI/text/HB1753/id/3428678",
+              "state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_CD1_.HTM",
+              "text_size": 27462,
+              "text_hash": "86cc336868b1585fee6df03ec3265303",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_CD1_.PDF",
+              "alt_text_size": 383721,
+              "alt_text_hash": "3a0431c3d55533c500c2333f885ff02a"
+            },
+            {
+              "doc_id": 3432821,
+              "date": "2026-05-06",
+              "type": "Amended",
+              "type_id": 3,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/HI/text/HB1753/id/3432821",
+              "state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_CD2_.HTM",
+              "text_size": 23975,
+              "text_hash": "3d4455e368596e8b528040b13c483a14",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_CD2_.PDF",
+              "alt_text_size": 369627,
+              "alt_text_hash": "79187243b4fa4dcf5a2ff0f9f3c28089"
+            },
+            {
+              "doc_id": 3432822,
+              "date": "2026-05-06",
+              "type": "Amended",
+              "type_id": 3,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/HI/text/HB1753/id/3432822",
+              "state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_CD1_HFA5_.HTM",
+              "text_size": 9940,
+              "text_hash": "71a2d233bc15461651c4ad7dab332baa",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_CD1_HFA5_.PDF",
+              "alt_text_size": 347672,
+              "alt_text_hash": "befc2af426f40a239673170b86b1843d"
+            },
+            {
+              "doc_id": 3458668,
+              "date": "2026-05-06",
+              "type": "Amended",
+              "type_id": 3,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/HI/text/HB1753/id/3458668",
+              "state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_CD1_SFA9_.HTM",
+              "text_size": 2169,
+              "text_hash": "e3af5b7ea75ebde598cbd2b8845d3e64",
+              "alt_bill_text": 1,
+              "alt_mime": "application/pdf",
+              "alt_mime_id": 2,
+              "alt_state_link": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_CD1_SFA9_.PDF",
+              "alt_text_size": 29261,
+              "alt_text_hash": "9757f3931d18b3fafaff6151b951424a"
+            }
+          ]
+        },
+        "num_text_versions": {
+          "from": 8,
+          "to": 9
+        },
+        "latest_text_url": {
+          "from": "https://legiscan.com/HI/text/HB1753/id/3432822",
+          "to": "https://legiscan.com/HI/text/HB1753/id/3458668"
+        },
+        "latest_text_state_link": {
+          "from": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_CD1_HFA5_.HTM",
+          "to": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1753_CD1_SFA9_.HTM"
+        },
+        "scraped_date": {
+          "from": "2026-06-11",
+          "to": "2026-09-21"
+        }
+      }
+    },
+    {
+      "bill_id": "NY A10841",
+      "changes": {
+        "content_hash": {
+          "from": "30911f0d4ac59394182882fce550c315",
+          "to": "f6049405f92ad508fa6c2dae5d2198cd"
+        },
+        "history": {
+          "from": [
+            {
+              "date": "2026-04-06",
+              "action": "referred to consumer affairs and protection",
+              "chamber": "A",
+              "chamber_id": 73,
+              "importance": 1
+            }
+          ],
+          "to": [
+            {
+              "date": "2026-04-06",
+              "action": "referred to consumer affairs and protection",
+              "chamber": "A",
+              "chamber_id": 73,
+              "importance": 1
+            },
+            {
+              "date": "2026-09-16",
+              "action": "amend and recommit to consumer affairs and protection",
+              "chamber": "A",
+              "chamber_id": 73,
+              "importance": 0
+            },
+            {
+              "date": "2026-09-16",
+              "action": "print number 10841a",
+              "chamber": "A",
+              "chamber_id": 73,
+              "importance": 0
+            }
+          ]
+        },
+        "num_actions": {
+          "from": 1,
+          "to": 3
+        },
+        "last_action": {
+          "from": "referred to consumer affairs and protection",
+          "to": "print number 10841a"
+        },
+        "last_action_date": {
+          "from": "2026-04-06",
+          "to": "2026-09-16"
+        },
+        "texts": {
+          "from": [
+            {
+              "doc_id": 3411823,
+              "date": "2026-04-06",
+              "type": "Introduced",
+              "type_id": 1,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/NY/text/A10841/id/3411823",
+              "state_link": "https://assembly.state.ny.us/leg/?default_fld=&bn=A10841&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A10841",
+              "text_size": 21115,
+              "text_hash": "6cdc8b49cdfd0db8c80bf68f5f9f4c4b",
+              "alt_bill_text": 0,
+              "alt_mime": "",
+              "alt_mime_id": 0,
+              "alt_state_link": "",
+              "alt_text_size": 0,
+              "alt_text_hash": ""
+            }
+          ],
+          "to": [
+            {
+              "doc_id": 3411823,
+              "date": "2026-04-06",
+              "type": "Introduced",
+              "type_id": 1,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/NY/text/A10841/id/3411823",
+              "state_link": "https://assembly.state.ny.us/leg/?default_fld=&bn=A10841&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A10841",
+              "text_size": 21115,
+              "text_hash": "6cdc8b49cdfd0db8c80bf68f5f9f4c4b",
+              "alt_bill_text": 0,
+              "alt_mime": "",
+              "alt_mime_id": 0,
+              "alt_state_link": "",
+              "alt_text_size": 0,
+              "alt_text_hash": ""
+            },
+            {
+              "doc_id": 3458830,
+              "date": "2026-04-06",
+              "type": "Amended",
+              "type_id": 3,
+              "mime": "text/html",
+              "mime_id": 1,
+              "url": "https://legiscan.com/NY/text/A10841/id/3458830",
+              "state_link": "https://assembly.state.ny.us/leg/?default_fld=&bn=A10841&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A10841A",
+              "text_size": 19482,
+              "text_hash": "35e80fd08ebec87e5d531530741e0bb2",
+              "alt_bill_text": 0,
+              "alt_mime": "",
+              "alt_mime_id": 0,
+              "alt_state_link": "",
+              "alt_text_size": 0,
+              "alt_text_hash": ""
+            }
+          ]
+        },
+        "num_text_versions": {
+          "from": 1,
+          "to": 2
+        },
+        "latest_text_url": {
+          "from": "https://legiscan.com/NY/text/A10841/id/3411823",
+          "to": "https://legiscan.com/NY/text/A10841/id/3458830"
+        },
+        "latest_text_state_link": {
+          "from": "https://assembly.state.ny.us/leg/?default_fld=&bn=A10841&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A10841",
+          "to": "https://assembly.state.ny.us/leg/?default_fld=&bn=A10841&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A10841A"
+        },
+        "latest_text_type": {
+          "from": "Introduced",
+          "to": "Amended"
+        },
+        "scraped_date": {
+          "from": "2026-06-11",
+          "to": "2026-09-21"
+        }
+      }
+    },
+    {
+      "bill_id": "NY A06974",
+      "changes": {
+        "content_hash": {
+          "from": "2d64b47e1c6d7aa8a38903d1f459d44b",
+          "to": "17de21853a7d85434f0027236bed4965"
+        },
+        "num_sponsors": {
+          "from": 6,
+          "to": 7
+        },
+        "sponsors": {
+          "from": [
+            {
+              "name": "Alex Bores",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-073",
+              "sponsor_type": "Primary"
+            },
+            {
+              "name": "Phillip Steck",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-110",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Sarah Clark",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-136",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jessica Gonzalez-Rojas",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-034",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jo Simon",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-052",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Angelo Santabarbara",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-111",
+              "sponsor_type": "Co-Sponsor"
+            }
+          ],
+          "to": [
+            {
+              "name": "Alex Bores",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-073",
+              "sponsor_type": "Primary"
+            },
+            {
+              "name": "Phillip Steck",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-110",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Sarah Clark",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-136",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jessica Gonzalez-Rojas",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-034",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jo Simon",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-052",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Angelo Santabarbara",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-111",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Emerita Torres",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-085",
+              "sponsor_type": "Co-Sponsor"
+            }
+          ]
+        },
+        "scraped_date": {
+          "from": "2026-06-11",
+          "to": "2026-09-21"
+        }
+      }
+    },
+    {
+      "bill_id": "US HB10166",
+      "changes": {
+        "content_hash": {
+          "from": "fee7e74d44ee72f61f8528208d6dc7ab",
+          "to": "8f92dc784a20e3c6f2d6ded8a791cb67"
+        },
+        "num_sponsors": {
+          "from": 20,
+          "to": 21
+        },
+        "sponsors": {
+          "from": [
+            {
+              "name": "Anna Luna",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-FL-13",
+              "sponsor_type": "Primary"
+            },
+            {
+              "name": "Derrick Van Orden",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-WI-3",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Vicente Gonzalez",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-TX-34",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jared Moskowitz",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-FL-23",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Kat Cammack",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-FL-3",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Mike Haridopolos",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-FL-8",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Tony Wied",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-WI-8",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Paul Gosar",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-AZ-9",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "John Joyce",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-PA-13",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Randy Weber",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-TX-14",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Russ Fulcher",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-ID-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Christopher Smith",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NJ-4",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Brad Finstad",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-MN-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Addison McDowell",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NC-6",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Richard McCormick",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-GA-6",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Clay Fuller",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-GA-14",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Luis Correa",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CA-46",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "James Gallagher",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CA-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Pete Sessions",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-TX-17",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Ryan Mackenzie",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-PA-7",
+              "sponsor_type": "Co-Sponsor"
+            }
+          ],
+          "to": [
+            {
+              "name": "Anna Luna",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-FL-13",
+              "sponsor_type": "Primary"
+            },
+            {
+              "name": "Derrick Van Orden",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-WI-3",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Vicente Gonzalez",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-TX-34",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Jared Moskowitz",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-FL-23",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Kat Cammack",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-FL-3",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Mike Haridopolos",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-FL-8",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Tony Wied",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-WI-8",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Paul Gosar",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-AZ-9",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "John Joyce",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-PA-13",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Randy Weber",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-TX-14",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Russ Fulcher",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-ID-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Christopher Smith",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NJ-4",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Brad Finstad",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-MN-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Addison McDowell",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NC-6",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Richard McCormick",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-GA-6",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Clay Fuller",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-GA-14",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Luis Correa",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CA-46",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "James Gallagher",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-CA-1",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Pete Sessions",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-TX-17",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Ryan Mackenzie",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-PA-7",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Pat Harrigan",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Rep",
+              "district": "HD-NC-10",
+              "sponsor_type": "Co-Sponsor"
+            }
+          ]
+        },
+        "scraped_date": {
+          "from": "2026-09-14",
+          "to": "2026-09-21"
+        }
+      }
+    },
+    {
+      "bill_id": "US SB3774",
+      "changes": {
+        "content_hash": {
+          "from": "5367d888c4560bf7fd2d3a475eab151c",
+          "to": "bdb0d2672495b23edb578b307a97f0da"
+        },
+        "num_sponsors": {
+          "from": 8,
+          "to": 10
+        },
+        "sponsors": {
+          "from": [
+            {
+              "name": "Ruben Gallego",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Sen",
+              "district": "SD-AZ",
+              "sponsor_type": "Primary"
+            },
+            {
+              "name": "Bernie Moreno",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Sen",
+              "district": "SD-OH",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "David McCormick",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Sen",
+              "district": "SD-PA",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Peter Welch",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Sen",
+              "district": "SD-VT",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Amy Klobuchar",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Sen",
+              "district": "SD-MN",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Katie Boyd Britt",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Sen",
+              "district": "SD-AL",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Christopher Coons",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Sen",
+              "district": "SD-DE",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Lindsey Graham",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Sen",
+              "district": "SD-SC",
+              "sponsor_type": "Co-Sponsor"
+            }
+          ],
+          "to": [
+            {
+              "name": "Ruben Gallego",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Sen",
+              "district": "SD-AZ",
+              "sponsor_type": "Primary"
+            },
+            {
+              "name": "Bernie Moreno",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Sen",
+              "district": "SD-OH",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "David McCormick",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Sen",
+              "district": "SD-PA",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Peter Welch",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Sen",
+              "district": "SD-VT",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Amy Klobuchar",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Sen",
+              "district": "SD-MN",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Katie Boyd Britt",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Sen",
+              "district": "SD-AL",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Christopher Coons",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Sen",
+              "district": "SD-DE",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Lindsey Graham",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Sen",
+              "district": "SD-SC",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Susan Collins",
+              "party": "Republican",
+              "party_code": "R",
+              "role": "Sen",
+              "district": "SD-ME",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Kirsten Gillibrand",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Sen",
+              "district": "SD-NY",
+              "sponsor_type": "Co-Sponsor"
+            }
+          ]
+        },
+        "scraped_date": {
+          "from": "2026-06-11",
+          "to": "2026-09-21"
+        }
+      }
+    },
+    {
+      "bill_id": "NJ A4981",
+      "changes": {
+        "content_hash": {
+          "from": "2000b7951bf64fecced348ce063a8f19",
+          "to": "3f43cbc023cc469f1abfa2cacd6354f8"
+        },
+        "num_sponsors": {
+          "from": 11,
+          "to": 15
+        },
+        "sponsors": {
+          "from": [
+            {
+              "name": "Heather Simmons",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-003",
+              "sponsor_type": "Primary"
+            },
+            {
+              "name": "Cody Miller",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-004",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Carol Murphy",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-007",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Verlina Reynolds-Jackson",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-015",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Kevin Egan",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-017",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Joe Danielsen",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-017",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Wayne DeAngelo",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-014",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "William Sampson",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-031",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Anthony Angelozzi",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-008",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Maureen Rowan",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-002",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Marisa Sweeney",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-025",
+              "sponsor_type": "Co-Sponsor"
+            }
+          ],
+          "to": [
+            {
+              "name": "Heather Simmons",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-003",
+              "sponsor_type": "Primary"
+            },
+            {
+              "name": "Cody Miller",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-004",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Carol Murphy",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-007",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Verlina Reynolds-Jackson",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-015",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Kevin Egan",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-017",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Joe Danielsen",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-017",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Wayne DeAngelo",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-014",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "William Sampson",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-031",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Anthony Angelozzi",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-008",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Maureen Rowan",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-002",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Marisa Sweeney",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-025",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Mitchelle Drulis",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-016",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Rosy Bagolie",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-027",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Linda Carter",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-022",
+              "sponsor_type": "Co-Sponsor"
+            },
+            {
+              "name": "Gary Schaer",
+              "party": "Democrat",
+              "party_code": "D",
+              "role": "Rep",
+              "district": "HD-036",
+              "sponsor_type": "Co-Sponsor"
+            }
+          ]
+        },
+        "scraped_date": {
+          "from": "2026-09-14",
+          "to": "2026-09-21"
+        }
+      }
+    },
+    {
+      "bill_id": "CA AB1609",
+      "changes": {
+        "content_hash": {
+          "from": "bdfcfe6a3a3a57ae84cd23dba3e549e3",
+          "to": "a689a22408c0c73e501bcc6306317b11"
+        },
+        "history": {
+          "from": [
+            {
+              "date": "2026-01-20",
+              "action": "Read first time. To print.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-01-21",
+              "action": "From printer. May be heard in committee February 20.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-19",
+              "action": "Referred to Coms. on P. & C.P. and JUD.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-19",
+              "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on P. & C.P. Read second time and amended.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-23",
+              "action": "Re-referred to Com. on P. & C.P.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-31",
+              "action": "In committee: Hearing postponed by committee.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-14",
+              "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on P. & C.P. Read second time and amended.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-15",
+              "action": "Re-referred to Com. on P. & C.P.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-16",
+              "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 9. Noes 4.) (April 16). Re-referred to Com. on JUD.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-22",
+              "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 3.) (April 21). Re-referred to Com. on APPR.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-06",
+              "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-14",
+              "action": "From committee: Do pass. (Ayes 11. Noes 4.) (May 14).",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-18",
+              "action": "Read second time. Ordered to third reading.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-27",
+              "action": "Read third time. Passed. Ordered to the Senate. (Ayes 56. Noes 16.)",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-28",
+              "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-10",
+              "action": "Referred to Coms. on P., D.T., & C.P. and JUD.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-10",
+              "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on P., D.T., & C.P.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-23",
+              "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 0.) (June 22). Re-referred to Com. on JUD.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-25",
+              "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on JUD.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-07-01",
+              "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 1.) (June 30). Re-referred to Com. on APPR.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-08-03",
+              "action": "In committee: Referred to APPR. suspense file.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-08-13",
+              "action": "From committee: Amend, and do pass as amended. (Ayes 5. Noes 2.) (August 13).",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-08-13",
+              "action": "Read second time and amended. Ordered returned to second reading.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 0
+            },
+            {
+              "date": "2026-08-17",
+              "action": "Read second time. Ordered to third reading.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 0
+            },
+            {
+              "date": "2026-08-20",
+              "action": "Read third time and amended. Ordered to second reading.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 0
+            },
+            {
+              "date": "2026-08-24",
+              "action": "Read second time. Ordered to third reading.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 0
+            },
+            {
+              "date": "2026-08-30",
+              "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 29. Noes 9.).",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 0
+            },
+            {
+              "date": "2026-08-30",
+              "action": "In Assembly. Concurrence in Senate amendments pending.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-08-31",
+              "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 58. Noes 18.).",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            }
+          ],
+          "to": [
+            {
+              "date": "2026-01-20",
+              "action": "Read first time. To print.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-01-21",
+              "action": "From printer. May be heard in committee February 20.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-03-19",
+              "action": "Referred to Coms. on P. & C.P. and JUD.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-19",
+              "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on P. & C.P. Read second time and amended.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-23",
+              "action": "Re-referred to Com. on P. & C.P.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-03-31",
+              "action": "In committee: Hearing postponed by committee.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-04-14",
+              "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on P. & C.P. Read second time and amended.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-15",
+              "action": "Re-referred to Com. on P. & C.P.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-16",
+              "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 9. Noes 4.) (April 16). Re-referred to Com. on JUD.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-04-22",
+              "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 3.) (April 21). Re-referred to Com. on APPR.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-06",
+              "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-14",
+              "action": "From committee: Do pass. (Ayes 11. Noes 4.) (May 14).",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-18",
+              "action": "Read second time. Ordered to third reading.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-05-27",
+              "action": "Read third time. Passed. Ordered to the Senate. (Ayes 56. Noes 16.)",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-05-28",
+              "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-10",
+              "action": "Referred to Coms. on P., D.T., & C.P. and JUD.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-10",
+              "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on P., D.T., & C.P.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-23",
+              "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 0.) (June 22). Re-referred to Com. on JUD.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-06-25",
+              "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on JUD.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-07-01",
+              "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 1.) (June 30). Re-referred to Com. on APPR.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-08-03",
+              "action": "In committee: Referred to APPR. suspense file.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-08-13",
+              "action": "From committee: Amend, and do pass as amended. (Ayes 5. Noes 2.) (August 13).",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 1
+            },
+            {
+              "date": "2026-08-13",
+              "action": "Read second time and amended. Ordered returned to second reading.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 0
+            },
+            {
+              "date": "2026-08-17",
+              "action": "Read second time. Ordered to third reading.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 0
+            },
+            {
+              "date": "2026-08-20",
+              "action": "Read third time and amended. Ordered to second reading.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 0
+            },
+            {
+              "date": "2026-08-24",
+              "action": "Read second time. Ordered to third reading.",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 0
+            },
+            {
+              "date": "2026-08-30",
+              "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 29. Noes 9.).",
+              "chamber": "S",
+              "chamber_id": 20,
+              "importance": 0
+            },
+            {
+              "date": "2026-08-30",
+              "action": "In Assembly. Concurrence in Senate amendments pending.",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 0
+            },
+            {
+              "date": "2026-08-31",
+              "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 58. Noes 18.).",
+              "chamber": "A",
+              "chamber_id": 19,
+              "importance": 1
+            },
+            {
+              "date": "2026-09-14",
+              "action": "Enrolled and presented to the Governor at 1:30 p.m.",
+              "chamber": "",
+              "chamber_id": 0,
+              "importance": 0
+            }
+          ]
+        },
+        "num_actions": {
+          "from": 29,
+          "to": 30
+        },
+        "last_action": {
+          "from": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 58. Noes 18.).",
+          "to": "Enrolled and presented to the Governor at 1:30 p.m."
+        },
+        "last_action_date": {
+          "from": "2026-08-31",
+          "to": "2026-09-14"
+        },
+        "scraped_date": {
+          "from": "2026-09-07",
+          "to": "2026-09-21"
+        }
+      }
+    }
+  ]
+}
